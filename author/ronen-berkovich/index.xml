@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ronen Berkovich | Carlos Pimentel</title>
+    <link>https://cpimentelguerra.github.io/author/ronen-berkovich/</link>
+      <atom:link href="https://cpimentelguerra.github.io/author/ronen-berkovich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ronen Berkovich</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Ronen Berkovich</title>
+      <link>https://cpimentelguerra.github.io/author/ronen-berkovich/</link>
+    </image>
+    
+    <item>
+      <title>Estimation of interaction energy and contact stiffness in atomic-scale sliding on a model sodium chloride surface in ethanol</title>
+      <link>https://cpimentelguerra.github.io/publication/agmon-estimation-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/agmon-estimation-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

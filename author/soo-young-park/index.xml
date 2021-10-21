@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soo Young Park | Carlos Pimentel</title>
+    <link>https://cpimentelguerra.github.io/author/soo-young-park/</link>
+      <atom:link href="https://cpimentelguerra.github.io/author/soo-young-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Soo Young Park</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Soo Young Park</title>
+      <link>https://cpimentelguerra.github.io/author/soo-young-park/</link>
+    </image>
+    
+    <item>
+      <title>Molecular-scale shear response of the organic semiconductor β -DBDCS (100) surface</title>
+      <link>https://cpimentelguerra.github.io/publication/alvarez-asencio-molecular-scale-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/alvarez-asencio-molecular-scale-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub-nanometer resolution of an organic semiconductor crystal surface using friction force microscopy in water</title>
+      <link>https://cpimentelguerra.github.io/publication/pimentel-sub-nanometer-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/pimentel-sub-nanometer-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
