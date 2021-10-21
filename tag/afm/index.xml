@@ -5,12 +5,20 @@
     <link>https://cpimentelguerra.github.io/tag/afm/</link>
       <atom:link href="https://cpimentelguerra.github.io/tag/afm/index.xml" rel="self" type="application/rss+xml" />
     <description>AFM</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>AFM</title>
       <link>https://cpimentelguerra.github.io/tag/afm/</link>
     </image>
+    
+    <item>
+      <title>Surface Wetting Controls Calcium Carbonate Crystallization Kinetics</title>
+      <link>https://cpimentelguerra.github.io/publication/koishi-surface-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/koishi-surface-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estimation of interaction energy and contact stiffness in atomic-scale sliding on a model sodium chloride surface in ethanol</title>
@@ -25,6 +33,22 @@
       <link>https://cpimentelguerra.github.io/publication/alvarez-asencio-molecular-scale-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://cpimentelguerra.github.io/publication/alvarez-asencio-molecular-scale-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friction and Wear of Mineral Surfaces in Liquid Environments</title>
+      <link>https://cpimentelguerra.github.io/publication/gnecco-friction-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/gnecco-friction-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channeling motion of gold nanospheres on a rippled glassed surface</title>
+      <link>https://cpimentelguerra.github.io/publication/gnecco-channeling-2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/gnecco-channeling-2014/</guid>
       <description></description>
     </item>
     

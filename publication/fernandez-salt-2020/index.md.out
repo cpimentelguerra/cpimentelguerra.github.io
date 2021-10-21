@@ -1,0 +1,92 @@
+   Input file: index.md
+  Output file: index.md.out
+Using PHREEQC: version 3.6.0, compiled December 2, 2019
+Database file: c:\phreeqc\database\phreeqc.dat
+
+------------------
+Reading data base.
+------------------
+
+	SOLUTION_MASTER_SPECIES
+	SOLUTION_SPECIES
+	PHASES
+	EXCHANGE_MASTER_SPECIES
+	EXCHANGE_SPECIES
+	SURFACE_MASTER_SPECIES
+	SURFACE_SPECIES
+	RATES
+	END
+------------------------------------
+Reading input data for simulation 1.
+------------------------------------
+
+	---
+WARNING: Unknown input, no keyword has been specified.
+	title: 'Salt hydration and drop drying of two model calcium salts: Implications for
+WARNING: Unknown input, no keyword has been specified.
+	  foliar nutrient absorption and deposition'
+WARNING: Unknown input, no keyword has been specified.
+	subtitle: ''
+WARNING: Unknown input, no keyword has been specified.
+	summary: ''
+WARNING: Unknown input, no keyword has been specified.
+	authors:
+WARNING: Unknown input, no keyword has been specified.
+	- Victoria Fernández
+WARNING: Unknown input, no keyword has been specified.
+	- Carlos Pimentel
+WARNING: Unknown input, no keyword has been specified.
+	- Héctor A. Bahamonde
+WARNING: Unknown input, no keyword has been specified.
+	tags: [Calcium salts, Point of efflorescence, Point of deliquescence, Foliar fertilization]
+WARNING: Unknown input, no keyword has been specified.
+	categories: []
+WARNING: Unknown input, no keyword has been specified.
+	date: '2020-08-01'
+WARNING: Unknown input, no keyword has been specified.
+	lastmod: 2021-10-20T17:38:58+02:00
+WARNING: Unknown input, no keyword has been specified.
+	featured: false
+WARNING: Unknown input, no keyword has been specified.
+	draft: false
+WARNING: Unknown input, no keyword has been specified.
+	image:
+WARNING: Unknown input, no keyword has been specified.
+	  caption: ''
+WARNING: Unknown input, no keyword has been specified.
+	  focal_point: ''
+WARNING: Unknown input, no keyword has been specified.
+	  preview_only: false
+WARNING: Unknown input, no keyword has been specified.
+	projects: []
+WARNING: Unknown input, no keyword has been specified.
+	publishDate: '2021-10-20T15:38:57.516569Z'
+WARNING: Unknown input, no keyword has been specified.
+	publication_types:
+WARNING: Unknown input, no keyword has been specified.
+	- '2'
+WARNING: Unknown input, no keyword has been specified.
+	abstract: |
+WARNING: Unknown input, no keyword has been specified.
+	"Background: Hygroscopic salts are often applied as foliar fertilizers and calcium (Ca) salts have been used as model for cuticular permeability studies, with focus on their Point of Deliquescence (POD).
+WARNING: Unknown input, no keyword has been specified.
+	Aim: This study was aimed at characterizing water sorption and desorption processes at 20, 30, and 40°C temperature (T), of two model Ca salts commonly used as foliar sprays.
+WARNING: Unknown input, no keyword has been specified.
+	Methods: Trials were developed with pure Ca-chloride and Ca-nitrate salts in addition to 2 M and 150 mM Ca solutions. Salts were analyzed by Dynamic Vapour Sorption (DVS) and climate chamber experiments.
+WARNING: Unknown input, no keyword has been specified.
+	Results: For both Ca salts, water sorption and desorption processes followed hysteresis curves which varied with T. Salt POD was T-dependent and generally decreased with increasing T. For both Ca salts, the process of efflorescence began at or below 10% RH, at a certain level of water desorption Ca-salts becoming highly concentrated solutions (HCS).
+WARNING: Unknown input, no keyword has been specified.
+	Conclusions: Owing to the low point of efflorescence (POE) of both salts, drops of Ca-chloride and Ca-nitrate supplied as foliar sprays will not fully dry under normal RH and T conditions in most world areas. Both Ca salts have a similarly high foliar penetration potential despite their different POD. The significance of the results for the potential absorption of foliar fertilizers and salts by the foliage is discussed under an agronomic and eco-physiological viewpoint."
+WARNING: Unknown input, no keyword has been specified.
+	publication: '*Journal of Plant Nutrition and Soil Science*'
+WARNING: Unknown input, no keyword has been specified.
+	url_pdf: http://doi.wiley.com/10.1002/jpln.202000168
+WARNING: Unknown input, no keyword has been specified.
+	doi: 10.1002/jpln.202000168
+WARNING: Unknown input, no keyword has been specified.
+	---
+WARNING: Unknown input, no keyword has been specified.
+-------------------------------
+End of Run after 0.331 Seconds.
+-------------------------------
+
