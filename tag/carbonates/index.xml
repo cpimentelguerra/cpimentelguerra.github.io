@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carbonates | Carlos Pimentel</title>
+    <link>https://cpimentelguerra.github.io/tag/carbonates/</link>
+      <atom:link href="https://cpimentelguerra.github.io/tag/carbonates/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carbonates</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Carbonates</title>
+      <link>https://cpimentelguerra.github.io/tag/carbonates/</link>
+    </image>
+    
+    <item>
+      <title>The Effect of Stoichiometry, Mg-Ca Distribution, and Iron, Manganese, and Zinc Impurities on the Dolomite Order Degree: A Theoretical Study</title>
+      <link>https://cpimentelguerra.github.io/publication/zvir-effect-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/zvir-effect-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dolomite cation order in the geological record</title>
+      <link>https://cpimentelguerra.github.io/publication/pina-dolomite-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/pina-dolomite-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epitaxial Crystal Growth of Nitratine on Calcite (10.4) Cleavage Faces at the Nanoscale</title>
+      <link>https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;Iberian Peninsula&#34; | Carlos Pimentel</title>
+    <title>Iberian Peninsula | Carlos Pimentel</title>
     <link>https://cpimentelguerra.github.io/tag/iberian-peninsula/</link>
       <atom:link href="https://cpimentelguerra.github.io/tag/iberian-peninsula/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;Iberian Peninsula&#34;</description>
+    <description>Iberian Peninsula</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>&#34;Iberian Peninsula&#34;</title>
+      <title>Iberian Peninsula</title>
       <link>https://cpimentelguerra.github.io/tag/iberian-peninsula/</link>
     </image>
     
@@ -17,6 +17,14 @@
       <link>https://cpimentelguerra.github.io/publication/pina-dolomite-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://cpimentelguerra.github.io/publication/pina-dolomite-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First occurrence of the rare mineral slavikite in Spain</title>
+      <link>https://cpimentelguerra.github.io/publication/crespo-lopez-first-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/crespo-lopez-first-2017/</guid>
       <description></description>
     </item>
     
