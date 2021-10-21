@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Norsethite | Carlos Pimentel</title>
+    <link>https://cpimentelguerra.github.io/tag/norsethite/</link>
+      <atom:link href="https://cpimentelguerra.github.io/tag/norsethite/index.xml" rel="self" type="application/rss+xml" />
+    <description>Norsethite</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Norsethite</title>
+      <link>https://cpimentelguerra.github.io/tag/norsethite/</link>
+    </image>
+    
+    <item>
+      <title>DFT Simulations of the Structure and Cation Order of Norsethite, BaMg(CO3)2</title>
+      <link>https://cpimentelguerra.github.io/publication/pimentel-dft-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/pimentel-dft-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The formation of the dolomite-analogue norsethite: Reaction pathway and cation ordering</title>
+      <link>https://cpimentelguerra.github.io/publication/pimentel-formation-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/pimentel-formation-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

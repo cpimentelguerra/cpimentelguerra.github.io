@@ -5,7 +5,7 @@
     <link>https://cpimentelguerra.github.io/tag/crystal-growth/</link>
       <atom:link href="https://cpimentelguerra.github.io/tag/crystal-growth/index.xml" rel="self" type="application/rss+xml" />
     <description>Crystal growth</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Crystal growth</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Epitaxial Growth and Frictional Response of Otavite and Spherocobaltite on Dolomite (10.4) Surfaces</title>
+      <link>https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Epitaxial Crystal Growth of Nitratine on Calcite (10.4) Cleavage Faces at the Nanoscale</title>
       <link>https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
       <guid>https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epitaxial Growth of Calcite Crystals on Dolomite and Kutnahorite (104) Surfaces</title>
+      <link>https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2013/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2013/</guid>
       <description></description>
     </item>
     
