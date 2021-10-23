@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tungstate | Carlos Pimentel</title>
+    <link>https://cpimentelguerra.github.io/tag/tungstate/</link>
+      <atom:link href="https://cpimentelguerra.github.io/tag/tungstate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tungstate</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Tungstate</title>
+      <link>https://cpimentelguerra.github.io/tag/tungstate/</link>
+    </image>
+    
+    <item>
+      <title>A Tungstate Chemical Garden</title>
+      <link>https://cpimentelguerra.github.io/publication/pimentel-tungstate-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/publication/pimentel-tungstate-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
