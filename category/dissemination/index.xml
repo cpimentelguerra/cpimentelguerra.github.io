@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dissemination | Carlos Pimentel</title>
+    <link>https://cpimentelguerra.github.io/category/dissemination/</link>
+      <atom:link href="https://cpimentelguerra.github.io/category/dissemination/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dissemination</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Oct 2021 19:11:19 +0000</lastBuildDate>
+    <image>
+      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Dissemination</title>
+      <link>https://cpimentelguerra.github.io/category/dissemination/</link>
+    </image>
+    
+    <item>
+      <title>Non-existent minerals</title>
+      <link>https://cpimentelguerra.github.io/project/non-existent-minerals/</link>
+      <pubDate>Sat, 23 Oct 2021 19:11:19 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/project/non-existent-minerals/</guid>
+      <description>&lt;p&gt;This project, in collaboration with Carlos M. Pina, focuses on disseminating different scientific concepts, with special emphasis on mineralogy, based on the minerals that appear in science fiction and fantasy films, books, comics and video games.&lt;/p&gt;
+&lt;p&gt;Thanks to this project, we have published two books, held several exhibitions and given numerous talks. For a comprehensive list of these activities see &lt;a href=&#34;https://cpimentelguerra.github.io/post/dissemination&#34;&gt;dissemination&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D crystal models and 3D structures</title>
+      <link>https://cpimentelguerra.github.io/project/crystal-model/</link>
+      <pubDate>Sat, 23 Oct 2021 18:57:19 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/project/crystal-model/</guid>
+      <description>&lt;p&gt;This project aims to design 3D models of crystal models and mineral structures that can be visualised on the computer or printed with a 3D printer. All these models can be consulted in the following links:
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://crystalmodels3d.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D crystal models and structures&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://tarugos3d.home.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modelos cristalográficos y estructuras en 3D&lt;/a&gt; (In Spanish)
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.thingiverse.com/cpimentel/designs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Or on my thingiverse page&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+This project has been made possible thanks to the funding received through the teaching innovation projects of the Universidad Complutense de Madrid (PI: Carlos M. Pina).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
