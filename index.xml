@@ -13,6 +13,42 @@
     </image>
     
     <item>
+      <title>MSCA project</title>
+      <link>https://cpimentelguerra.github.io/project/msca-project/</link>
+      <pubDate>Wed, 20 Oct 2021 16:57:19 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/project/msca-project/</guid>
+      <description>&lt;p&gt;This project will start next year. Stay tuned for further updates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Proyecto MSCA</title>
+      <link>https://cpimentelguerra.github.io/es/project/msca-project/</link>
+      <pubDate>Wed, 20 Oct 2021 16:57:19 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/project/msca-project/</guid>
+      <description>&lt;p&gt;Este proyecto comenzará el año que viene. Más novedades próximamente.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cation ordering</title>
+      <link>https://cpimentelguerra.github.io/project/cation-ordering/</link>
+      <pubDate>Sat, 23 Oct 2021 19:31:19 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/project/cation-ordering/</guid>
+      <description>&lt;p&gt;Some minerals are composed by two or more cations that can be arranged in the crystal structure in different ways, e.g. dolomite, norsethite and LDH. In many of these cases, it is interesting to know how these cations are arranged, as this information allows, for example, to understand their formation process or how it affects their properties.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ordenamiento catiónico</title>
+      <link>https://cpimentelguerra.github.io/es/project/cation-ordering/</link>
+      <pubDate>Sat, 23 Oct 2021 19:31:19 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/project/cation-ordering/</guid>
+      <description>&lt;p&gt;Algunos minerales están compuestos por dos o más cationes que pueden disponerse en su estructura cristalina de diferentes maneras, por ejemplo, en la dolomita, la norsethita y los LDH. En muchos de estos casos, es interesante conocer cómo se disponen estos cationes, ya que esta información permite, por ejemplo, entender su proceso de formación o cómo afecta a sus propiedades.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Python basics</title>
       <link>https://cpimentelguerra.github.io/courses/example/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -50,6 +86,85 @@
     </item>
     
     <item>
+      <title>Python basics</title>
+      <link>https://cpimentelguerra.github.io/es/courses/example/python/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/courses/example/python/</guid>
+      <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lists are mutable - they can be changed&lt;/li&gt;
+&lt;li&gt;Slower than tuples&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, &#39;Hello world&#39;]&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tuples&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li&gt;
+&lt;li&gt;Tuples are faster than lists&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, &#39;Hello world&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
+  &lt;p&gt;Yes&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>3D crystal models and 3D structures</title>
+      <link>https://cpimentelguerra.github.io/project/crystal-model/</link>
+      <pubDate>Sat, 23 Oct 2021 18:57:19 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/project/crystal-model/</guid>
+      <description>&lt;p&gt;This project aims to design 3D models of crystal models and mineral structures that can be visualised on the computer or printed with a 3D printer. All these models can be consulted in the following links:
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://crystalmodels3d.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D crystal models and structures&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://tarugos3d.home.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modelos cristalográficos y estructuras en 3D&lt;/a&gt; (In Spanish)
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.thingiverse.com/cpimentel/designs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Or on my thingiverse page&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+This project has been made possible thanks to the funding received through the teaching innovation projects of the Universidad Complutense de Madrid (PI: Carlos M. Pina).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelos 3D de cristales y estructuras minerales</title>
+      <link>https://cpimentelguerra.github.io/es/project/crystal-model/</link>
+      <pubDate>Sat, 23 Oct 2021 18:57:19 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/project/crystal-model/</guid>
+      <description>&lt;p&gt;El objetivo de este proyecto es diseñar modelos 3D de formas cristalinas y de estructuras minerales que puedan visualizarse en el ordenador o imprimirse con una impresora 3D. Todos estos modelos pueden consultarse en los siguientes enlaces:
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://tarugos3d.home.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modelos cristalográficos y estructuras en 3D&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://crystalmodels3d.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D crystal models and structures&lt;/a&gt; (En inglés)
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.thingiverse.com/cpimentel/designs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;En mi página de thingiverse&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+Este proyecto es posible gracias a la financiación recibida mediante Proyectos de Innovación Docente de la Universidad Complutense de Madrid (IP: Carlos M. Pina).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Visualization</title>
       <link>https://cpimentelguerra.github.io/courses/example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -77,6 +192,56 @@ fig.show()
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://cpimentelguerra.github.io/es/courses/example/visualization/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/courses/example/visualization/</guid>
+      <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/hSPmj7mK6ng&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;When is a heatmap useful?&lt;/summary&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Write Plotly code to render a bar chart&lt;/summary&gt;
+  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import plotly.express as px
+data_canada = px.data.gapminder().query(&amp;quot;country == &#39;Canada&#39;&amp;quot;)
+fig = px.bar(data_canada, x=&#39;year&#39;, y=&#39;pop&#39;)
+fig.show()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Minerales inexistentes</title>
+      <link>https://cpimentelguerra.github.io/es/project/non-existent-minerals/</link>
+      <pubDate>Sat, 23 Oct 2021 19:11:19 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/project/non-existent-minerals/</guid>
+      <description>&lt;p&gt;Este proyecto, en colaboración con Carlos M. Pina, se centra en la divulgación de diferentes conceptos científicos, con especial énfasis en la mineralogía, a partir de los minerales que aparecen en películas, libros, cómics y videojuegos de ciencia ficción y fantasía.&lt;/p&gt;
+&lt;p&gt;Gracias a este proyecto, hemos publicado dos libros, realizado varias exposiciones e impartido numerosas charlas. Para ver una lista completa de estas actividades, consulte &lt;a href=&#34;https://cpimentelguerra.github.io/es/post/dissemination&#34;&gt;divulgación&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Non-existent minerals</title>
+      <link>https://cpimentelguerra.github.io/project/non-existent-minerals/</link>
+      <pubDate>Sat, 23 Oct 2021 19:11:19 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/project/non-existent-minerals/</guid>
+      <description>&lt;p&gt;This project, in collaboration with Carlos M. Pina, focuses on disseminating different scientific concepts, with special emphasis on mineralogy, based on the minerals that appear in science fiction and fantasy films, books, comics and video games.&lt;/p&gt;
+&lt;p&gt;Thanks to this project, we have published two books, held several exhibitions and given numerous talks. For a comprehensive list of these activities see &lt;a href=&#34;https://cpimentelguerra.github.io/post/dissemination&#34;&gt;dissemination&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -108,52 +273,48 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Prize-giving ceremony of the &#39;Inventa un mineral&#39; competition</title>
-      <link>https://cpimentelguerra.github.io/talk/prize-giving-ceremony-of-the-inventa-un-mineral-competition/</link>
+      <title>Statistics</title>
+      <link>https://cpimentelguerra.github.io/es/courses/example/stats/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/courses/example/stats/</guid>
+      <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+&lt;p&gt;The general form of the &lt;strong&gt;normal&lt;/strong&gt; probability density function is:&lt;/p&gt;
+&lt;p&gt;$$
+f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
+$$&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
+  &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Entrega de premios del concurso &#39;Inventa un mineral&#39;</title>
+      <link>https://cpimentelguerra.github.io/es/event/inventa2021-award/</link>
       <pubDate>Wed, 15 Dec 2021 18:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/talk/prize-giving-ceremony-of-the-inventa-un-mineral-competition/</guid>
-      <description>&lt;p&gt;The prizes of the first &amp;ldquo;Inventa un mineral&amp;rdquo; competition will be awarded during the presentation of the **Pequeña guía de minerales inexistentes. Volumen II., which will take place at the Geominero Museum in Madrid on 15 December 2021 at 18.00. During the awards ceremony, the winners will also have the opportunity to present the minerals they have created.&lt;/p&gt;
+      <guid>https://cpimentelguerra.github.io/es/event/inventa2021-award/</guid>
+      <description>&lt;p&gt;Los premios del primer concurso &lt;a href=&#34;https://cpimentelguerra.github.io/es/inventa2021&#34;&gt;&amp;ldquo;Inventa un mineral&amp;rdquo;&lt;/a&gt; se entregarán durante la presentación de la &lt;em&gt;Pequeña guía de minerales inexistentes. Volumen II&lt;/em&gt;, que tendrá lugar en el Museo Geominero de Madrid el 15 de diciembre de 2021 a las 18.00 h. Durante la entrega de los premios, las personas ganadoras tendrán también la oportunidad de presentar los minerales que han creado.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Cation ordering</title>
-      <link>https://cpimentelguerra.github.io/project/cation-ordering/</link>
-      <pubDate>Sat, 23 Oct 2021 19:31:19 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/project/cation-ordering/</guid>
-      <description>&lt;p&gt;Some minerals are composed by two or more cations that can be arranged in the crystal structure in different ways, e.g. dolomite, norsethite and LDH. In many of these cases, it is interesting to know how these cations are arranged, as this information allows, for example, to understand their formation process or how it affects their properties.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Non-existent minerals</title>
-      <link>https://cpimentelguerra.github.io/project/non-existent-minerals/</link>
-      <pubDate>Sat, 23 Oct 2021 19:11:19 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/project/non-existent-minerals/</guid>
-      <description>&lt;p&gt;This project, in collaboration with Carlos M. Pina, focuses on disseminating different scientific concepts, with special emphasis on mineralogy, based on the minerals that appear in science fiction and fantasy films, books, comics and video games.&lt;/p&gt;
-&lt;p&gt;Thanks to this project, we have published two books, held several exhibitions and given numerous talks. For a comprehensive list of these activities see &lt;a href=&#34;https://cpimentelguerra.github.io/post/dissemination&#34;&gt;dissemination&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>3D crystal models and 3D structures</title>
-      <link>https://cpimentelguerra.github.io/project/crystal-model/</link>
-      <pubDate>Sat, 23 Oct 2021 18:57:19 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/project/crystal-model/</guid>
-      <description>&lt;p&gt;This project aims to design 3D models of crystal models and mineral structures that can be visualised on the computer or printed with a 3D printer. All these models can be consulted in the following links:
-&lt;br&gt;
-&lt;br&gt;
-&lt;a href=&#34;https://crystalmodels3d.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D crystal models and structures&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;a href=&#34;https://tarugos3d.home.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modelos cristalográficos y estructuras en 3D&lt;/a&gt; (In Spanish)
-&lt;br&gt;
-&lt;br&gt;
-&lt;a href=&#34;https://www.thingiverse.com/cpimentel/designs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Or on my thingiverse page&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-This project has been made possible thanks to the funding received through the teaching innovation projects of the Universidad Complutense de Madrid (PI: Carlos M. Pina).&lt;/p&gt;
-</description>
+      <title>Formation and structures of horizontal submarine fluid conduit and venting systems associated with marine seeps</title>
+      <link>https://cpimentelguerra.github.io/es/publication/rocha-formation-nodate/</link>
+      <pubDate>Sat, 23 Oct 2021 16:38:11 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/publication/rocha-formation-nodate/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -165,74 +326,75 @@ This project has been made possible thanks to the funding received through the t
     </item>
     
     <item>
-      <title>Scientific dissemination activities</title>
-      <link>https://cpimentelguerra.github.io/post/dissemination/</link>
+      <title>Divulgación</title>
+      <link>https://cpimentelguerra.github.io/es/post/dissemination/</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/post/dissemination/</guid>
-      <description>&lt;p&gt;In this section can be found all my scientific dissemination activities.
+      <guid>https://cpimentelguerra.github.io/es/post/dissemination/</guid>
+      <description>&lt;p&gt;En esta sección se pueden encontrar todas mis actividades divulgativas.
 &lt;br&gt;
 &lt;br&gt;
-&lt;strong&gt;Books&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Pequeña guía de minerales inexistentes. Volumen II (Brief guide to non-existent minerals. Volume II) by Carlos M. Pina &amp;amp; Carlos Pimentel [&lt;a href=&#34;https://youtu.be/pD_FCn67wiA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book presentation&lt;/a&gt;] (In Spanish)&lt;/p&gt;
-&lt;p&gt;Pequeña guía de minerales inexistentes (Brief guide to non-existent minerals) by Carlos M. Pina &amp;amp; Carlos Pimentel [&lt;a href=&#34;https://youtu.be/Afw4FnUInC4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book presentation&lt;/a&gt;] (In Spanish)
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Websites&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://crystalmodels3d.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Webpage with 3D crystallographic models and crystal structures&lt;/a&gt; (&lt;a href=&#34;https://tarugos3d.home.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;and also in Spanish&lt;/a&gt;)
+&lt;strong&gt;Libros&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Pequeña guía de minerales inexistentes. Volumen II&lt;/em&gt; por Carlos M. Pina y Carlos Pimentel [&lt;a href=&#34;https://youtu.be/pD_FCn67wiA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Presentación del libro&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Pequeña guía de minerales inexistentes&lt;/em&gt; por Carlos M. Pina y Carlos Pimentel [&lt;a href=&#34;https://youtu.be/Afw4FnUInC4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Presentación del libro&lt;/a&gt;]
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;strong&gt;Papers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Pimentel, C., Pina, C. M. (2019) &lt;a href=&#34;http://www.revistareduca.es/index.php/reduca-geologia/article/view/1959/1950&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proyección de estructuras minerales mediante el programa Vesta&lt;/a&gt;. Reduca (Geología). Serie Cristalografía., 11 (1), 1-15. (In Spanish)&lt;/p&gt;
-&lt;p&gt;Llorens, J. M., Pina, C. M., Pimentel, C. (2018) &lt;a href=&#34;http://www.revistareduca.es/index.php/reduca-geologia/article/view/1957/1951&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Determinación experimental de las dimensiones de una red bidimensional mediante difracción&lt;/a&gt;. Reduca (Geología). Serie Cristalografía., 10 (1), 1-15. (In Spanish)
+&lt;strong&gt;Páginas web&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tarugos3d.home.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Páginas web con modelos cristalográficos y estructuras en 3D&lt;/a&gt; (&lt;a href=&#34;https://crystalmodels3d.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;y también en inglés&lt;/a&gt;)
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;strong&gt;Projects&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Pina, C. M., Crespo, Á., Pimentel, C., Cabeza, A., Ávila, D., Castillo, E., López-Acevedo, V., Otero, C. (2022) Diseño de modelos cristalográficos y mineralógicos para impresoras 3D (Design of crystallographic and mineralogical models for 3D printers). Teaching Innovation Project. (In Spanish)&lt;/p&gt;
-&lt;p&gt;Pina, C. M., Crespo, Á., Pimentel, C., Cabeza, A., Ávila, D., Castillo, E., López-Acevedo, V., Otero, C. (2021) &lt;a href=&#34;https://eprints.ucm.es/id/eprint/65843/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diseño de estructuras cristalográficas para impresoras 3D (Design of crystallographic structures for 3D printers)&lt;/a&gt;. Teaching Innovation Project. (In Spanish)&lt;/p&gt;
-&lt;p&gt;Pina, C. M., López-Acevedo, V., Pimentel, C., Otero, C., Ávila, D., Castillo, E., Crespo, Á., Cabeza, A. (2020) &lt;a href=&#34;https://tarugos3d.home.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diseño de modelos cristalográficos para impresoras 3D (Design of crystallographic models for 3D printers)&lt;/a&gt;. Teaching Innovation Project. (In Spanish)&lt;/p&gt;
-&lt;p&gt;Pina, C. M., López-Acevedo, V., Pimentel, C., Toja, M., Otero, C., Ávila, D., Arenas, D., Crespo, Á. (2019) &lt;a href=&#34;https://eprints.ucm.es/55920/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cristales, cristalización y difracción: nuevo material audiovisual para la enseñanza de la cristalografía (Crystals, crystallization and diffraction: New audiovisual resources for teaching crystallography)&lt;/a&gt;. Teaching Innovation Project. (In Spanish)&lt;/p&gt;
-&lt;p&gt;Pina, C. M., López-Acevedo, V., Otero, C., Ávila, D., Toja, M., Pimentel, C., Crespo, Á. (2018) &lt;a href=&#34;http://eprints.ucm.es/48199/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nuevos recursos audiovisuales para la enseñanza de la cristalografía: Cristales y difracción en videoclips (New audiovisual resources for teaching crystallography: Crystals and diffraction in videoclips)&lt;/a&gt;. Teaching Innovation Project. (In Spanish)&lt;/p&gt;
-&lt;p&gt;López-Acevedo, V., Pina, C. M., Vindel, E., Pimentel, C., Otero, L. C., Ávila, D., Crespo, Á. (2016) &lt;a href=&#34;http://eprints.ucm.es/36386/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modelos de redes cristalográficas (Crystallographyc lattice models)&lt;/a&gt;. Teaching Innovation Project. (In Spanish)
+&lt;strong&gt;Artículos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pimentel, C., Pina, C. M. (2019) &lt;a href=&#34;http://www.revistareduca.es/index.php/reduca-geologia/article/view/1959/1950&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proyección de estructuras minerales mediante el programa Vesta&lt;/a&gt;. Reduca (Geología). Serie Cristalografía., 11 (1), 1-15.&lt;/p&gt;
+&lt;p&gt;Llorens, J. M., Pina, C. M., Pimentel, C. (2018) &lt;a href=&#34;http://www.revistareduca.es/index.php/reduca-geologia/article/view/1957/1951&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Determinación experimental de las dimensiones de una red bidimensional mediante difracción&lt;/a&gt;. Reduca (Geología). Serie Cristalografía., 10 (1), 1-15.
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;strong&gt;Exhibitions&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Pina, C. M., Pimentel, C. (2019) &lt;a href=&#34;http://bibliotecaexposiciones.ucm.es/exhibits/show/minerales-inexistentes/portada&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exposición de Minerales Inexistentes (Non-existent minerals exhibition)&lt;/a&gt;. Biblioteca José Luis Amorós, Facultad de Ciencias Geológicas, Universidad Complutense de Madrid. From 6th March to 30th April 2019. (In Spanish)&lt;/p&gt;
-&lt;p&gt;Pina, C. M., Pimentel, C. (2019) &lt;a href=&#34;http://bibliotecaexposiciones.ucm.es/exhibits/show/minerales-inexistentes/portada&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exposición de Minerales Inexistentes (Non-existent minerals exhibition)&lt;/a&gt;. Biblioteca María Zambrano, Universidad Complutense de Madrid. From 9th October to 11th November 2019. (In Spanish)
+&lt;strong&gt;Proyectos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pina, C. M., Crespo, Á., Pimentel, C., Cabeza, A., Ávila, D., Castillo, E., López-Acevedo, V., Otero, C. (2022) Diseño de modelos cristalográficos y mineralógicos para impresoras 3D. Proyecto de Innovación Docente UCM.&lt;/p&gt;
+&lt;p&gt;Pina, C. M., Crespo, Á., Pimentel, C., Cabeza, A., Ávila, D., Castillo, E., López-Acevedo, V., Otero, C. (2021) &lt;a href=&#34;https://eprints.ucm.es/id/eprint/65843/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diseño de estructuras cristalográficas para impresoras 3D&lt;/a&gt;. Proyecto de Innovación Docente UCM.&lt;/p&gt;
+&lt;p&gt;Pina, C. M., López-Acevedo, V., Pimentel, C., Otero, C., Ávila, D., Castillo, E., Crespo, Á., Cabeza, A. (2020) &lt;a href=&#34;https://tarugos3d.home.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diseño de modelos cristalográficos para impresoras 3D&lt;/a&gt;. Proyecto de Innovación Docente UCM.&lt;/p&gt;
+&lt;p&gt;Pina, C. M., López-Acevedo, V., Pimentel, C., Toja, M., Otero, C., Ávila, D., Arenas, D., Crespo, Á. (2019) &lt;a href=&#34;https://eprints.ucm.es/55920/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cristales, cristalización y difracción: nuevo material audiovisual para la enseñanza de la cristalografía&lt;/a&gt;. Teaching Innovation Project. (In Spanish)&lt;/p&gt;
+&lt;p&gt;Pina, C. M., López-Acevedo, V., Otero, C., Ávila, D., Toja, M., Pimentel, C., Crespo, Á. (2018) &lt;a href=&#34;http://eprints.ucm.es/48199/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nuevos recursos audiovisuales para la enseñanza de la cristalografía: Cristales y difracción en videoclips&lt;/a&gt;. Proyecto de Innovación Docente UCM.&lt;/p&gt;
+&lt;p&gt;López-Acevedo, V., Pina, C. M., Vindel, E., Pimentel, C., Otero, L. C., Ávila, D., Crespo, Á. (2016) &lt;a href=&#34;http://eprints.ucm.es/36386/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modelos de redes cristalográficas&lt;/a&gt;. Proyecto de Innovación Docente UCM.
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;strong&gt;Scientific photography&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Photography “Cristales de otoño (Autumn crystals)” selected in the Spanish scientific photography contest FOTCIENCIA13 and published in the &lt;a href=&#34;https://www.fotciencia.es/Resources/documentos/Catalogo_FOTCIENCIA13.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FOTCIENCIA13 book&lt;/a&gt; (pages 88 and 89)&lt;/p&gt;
+&lt;strong&gt;Exposiciones&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pina, C. M., Pimentel, C. (2019) &lt;a href=&#34;http://bibliotecaexposiciones.ucm.es/exhibits/show/minerales-inexistentes/portada&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exposición de Minerales Inexistentes&lt;/a&gt;. Biblioteca José Luis Amorós, Facultad de Ciencias Geológicas, Universidad Complutense de Madrid. Del 6 de marzo al 30 de abril de 2019.&lt;/p&gt;
+&lt;p&gt;Pina, C. M., Pimentel, C. (2019) &lt;a href=&#34;http://bibliotecaexposiciones.ucm.es/exhibits/show/minerales-inexistentes/portada&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exposición de Minerales Inexistentes&lt;/a&gt;. Biblioteca María Zambrano, Universidad Complutense de Madrid. Del 9 de octubre al 11 de noviembre de 2019
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Fotografía científica&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fotografía “Cristales de otoño” seleccionada en el concurso FOTCIENCIA13 y publicada en el &lt;a href=&#34;https://www.fotciencia.es/Resources/documentos/Catalogo_FOTCIENCIA13.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;libro FOTCIENCIA13&lt;/a&gt; (paginas 88 y 89)&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>MSCA project</title>
-      <link>https://cpimentelguerra.github.io/project/msca-project/</link>
-      <pubDate>Wed, 20 Oct 2021 16:57:19 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/project/msca-project/</guid>
-      <description>&lt;p&gt;This project will start next year. Stay tuned for further updates.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Inventa un mineral competition</title>
-      <link>https://cpimentelguerra.github.io/talk/inventa-un-mineral-competition/</link>
+      <title>Concurso &#39;Inventa un mineral&#39;</title>
+      <link>https://cpimentelguerra.github.io/es/event/inventa2021/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/talk/inventa-un-mineral-competition/</guid>
-      <description>&lt;p&gt;Universidad Complutense de Madrid, through its Vice-Rectorate for Culture, Sport and University Extension (Ediciones Complutense), on the occasion of the publication of the book &lt;em&gt;Pequeña guía de minerales inexistentes. Volumen II&lt;/em&gt;, and with the aim of promoting artistic and scientific creation, announces the first &amp;ldquo;Inventa un mineral&amp;rdquo; competition. (Only for people living in Spain)&lt;/p&gt;
+      <guid>https://cpimentelguerra.github.io/es/event/inventa2021/</guid>
+      <description>&lt;p&gt;La Universidad Complutense de Madrid, a través de su Vicerrectorado de Cultura, Deporte y Extensión Universitaria (Ediciones Complutense), con motivo de la publicación del libro &lt;em&gt;Pequeña guía de minerales inexistentes. Volumen II&lt;/em&gt;, y con el propósito de promover la creación artístico-científica, convoca el primer concurso “Inventa un mineral”.&lt;/p&gt;
+&lt;p&gt;Los premios se entregarán durante la presentación de la &lt;em&gt;Pequeña guía de minerales inexistentes. Volumen II&lt;/em&gt;, que tendrá lugar en el &lt;a href=&#34;https://cpimentelguerra.github.io/es/inventa2021-award&#34;&gt;Museo Geominero de Madrid el 15 de diciembre de 2021 a las 18.00 h&lt;/a&gt;. Durante la entrega de los premios, las personas ganadoras tendrán también la oportunidad de presentar los minerales que han creado.&lt;/p&gt;
+&lt;p&gt;Las bases del concurso pueden consultarse en el siguiente enlace: &lt;a href=&#34;https://eventos.ucm.es/72810/detail&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://eventos.ucm.es/72810/detail&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Effect of Stoichiometry, Mg-Ca Distribution, and Iron, Manganese, and Zinc Impurities on the Dolomite Order Degree: A Theoretical Study</title>
-      <link>https://cpimentelguerra.github.io/publication/zvir-effect-2021/</link>
+      <link>https://cpimentelguerra.github.io/es/publication/zvir-effect-2021/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/zvir-effect-2021/</guid>
+      <guid>https://cpimentelguerra.github.io/es/publication/zvir-effect-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFT Simulations of the Structure and Cation Order of Norsethite, BaMg(CO3)2</title>
+      <link>https://cpimentelguerra.github.io/es/publication/pimentel-dft-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-dft-2021/</guid>
       <description></description>
     </item>
     
@@ -246,6 +408,14 @@ This project has been made possible thanks to the funding received through the t
     
     <item>
       <title>A Tungstate Chemical Garden</title>
+      <link>https://cpimentelguerra.github.io/es/publication/pimentel-tungstate-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-tungstate-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tungstate Chemical Garden</title>
       <link>https://cpimentelguerra.github.io/publication/pimentel-tungstate-2020/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://cpimentelguerra.github.io/publication/pimentel-tungstate-2020/</guid>
@@ -254,9 +424,17 @@ This project has been made possible thanks to the funding received through the t
     
     <item>
       <title>Formation of zabuyelite, Li2CO3, on dolomite and kutnohorite 10.4 surfaces from supersaturated and undersaturated solutions: Growth behavior and anomalous friction at the nanoscale</title>
-      <link>https://cpimentelguerra.github.io/publication/pimentel-formation-2020/</link>
+      <link>https://cpimentelguerra.github.io/es/publication/pimentel-formation-2020/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pimentel-formation-2020/</guid>
+      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-formation-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dolomite cation order in the geological record</title>
+      <link>https://cpimentelguerra.github.io/es/publication/pina-dolomite-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/publication/pina-dolomite-2020/</guid>
       <description></description>
     </item>
     
@@ -270,25 +448,25 @@ This project has been made possible thanks to the funding received through the t
     
     <item>
       <title>Salt hydration and drop drying of two model calcium salts: Implications for foliar nutrient absorption and deposition</title>
-      <link>https://cpimentelguerra.github.io/publication/fernandez-salt-2020/</link>
+      <link>https://cpimentelguerra.github.io/es/publication/fernandez-salt-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/fernandez-salt-2020/</guid>
+      <guid>https://cpimentelguerra.github.io/es/publication/fernandez-salt-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Surface Wetting Controls Calcium Carbonate Crystallization Kinetics</title>
-      <link>https://cpimentelguerra.github.io/publication/koishi-surface-2019/</link>
+      <link>https://cpimentelguerra.github.io/es/publication/koishi-surface-2019/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/koishi-surface-2019/</guid>
+      <guid>https://cpimentelguerra.github.io/es/publication/koishi-surface-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://cpimentelguerra.github.io/slides/example/</link>
+      <link>https://cpimentelguerra.github.io/es/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/slides/example/</guid>
+      <guid>https://cpimentelguerra.github.io/es/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -415,9 +593,17 @@ Three
     
     <item>
       <title>Estimation of interaction energy and contact stiffness in atomic-scale sliding on a model sodium chloride surface in ethanol</title>
-      <link>https://cpimentelguerra.github.io/publication/agmon-estimation-2018/</link>
+      <link>https://cpimentelguerra.github.io/es/publication/agmon-estimation-2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/agmon-estimation-2018/</guid>
+      <guid>https://cpimentelguerra.github.io/es/publication/agmon-estimation-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epitaxial Growth and Frictional Response of Otavite and Spherocobaltite on Dolomite (10.4) Surfaces</title>
+      <link>https://cpimentelguerra.github.io/es/publication/pimentel-epitaxial-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-epitaxial-2018/</guid>
       <description></description>
     </item>
     
@@ -431,9 +617,17 @@ Three
     
     <item>
       <title>First occurrence of the rare mineral slavikite in Spain</title>
-      <link>https://cpimentelguerra.github.io/publication/crespo-lopez-first-2017/</link>
+      <link>https://cpimentelguerra.github.io/es/publication/crespo-lopez-first-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/crespo-lopez-first-2017/</guid>
+      <guid>https://cpimentelguerra.github.io/es/publication/crespo-lopez-first-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular-scale shear response of the organic semiconductor β -DBDCS (100) surface</title>
+      <link>https://cpimentelguerra.github.io/es/publication/alvarez-asencio-molecular-scale-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/publication/alvarez-asencio-molecular-scale-2017/</guid>
       <description></description>
     </item>
     
@@ -447,6 +641,14 @@ Three
     
     <item>
       <title>Pseudomorphic Replacement of Mg–Ca Carbonates after Gypsum and Anhydrite</title>
+      <link>https://cpimentelguerra.github.io/es/publication/gonzalez-illanes-pseudomorphic-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/publication/gonzalez-illanes-pseudomorphic-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pseudomorphic Replacement of Mg–Ca Carbonates after Gypsum and Anhydrite</title>
       <link>https://cpimentelguerra.github.io/publication/gonzalez-illanes-pseudomorphic-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <guid>https://cpimentelguerra.github.io/publication/gonzalez-illanes-pseudomorphic-2017/</guid>
@@ -455,9 +657,17 @@ Three
     
     <item>
       <title>Synthesis and reactivity of minerals of dolomite group and analogue phases (Síntesis y reactividad de minerales del grupo de la dolomita y fases análogas)</title>
-      <link>https://cpimentelguerra.github.io/publication/pimentel-synthesis-2017/</link>
+      <link>https://cpimentelguerra.github.io/es/publication/pimentel-synthesis-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pimentel-synthesis-2017/</guid>
+      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-synthesis-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formation of dolomite analogues at ambient conditions</title>
+      <link>https://cpimentelguerra.github.io/es/publication/pina-formation-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/publication/pina-formation-2017/</guid>
       <description></description>
     </item>
     
@@ -471,6 +681,14 @@ Three
     
     <item>
       <title>Atomic-Scale Sliding Friction on Graphene in Water</title>
+      <link>https://cpimentelguerra.github.io/es/publication/vilhena-atomic-scale-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/publication/vilhena-atomic-scale-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atomic-Scale Sliding Friction on Graphene in Water</title>
       <link>https://cpimentelguerra.github.io/publication/vilhena-atomic-scale-2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://cpimentelguerra.github.io/publication/vilhena-atomic-scale-2016/</guid>
@@ -479,17 +697,25 @@ Three
     
     <item>
       <title>Reaction pathways towards the formation of dolomite-analogues at ambient conditions</title>
-      <link>https://cpimentelguerra.github.io/publication/pimentel-reaction-2016/</link>
+      <link>https://cpimentelguerra.github.io/es/publication/pimentel-reaction-2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pimentel-reaction-2016/</guid>
+      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-reaction-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sub-nanometer resolution of an organic semiconductor crystal surface using friction force microscopy in water</title>
-      <link>https://cpimentelguerra.github.io/publication/pimentel-sub-nanometer-2016/</link>
+      <link>https://cpimentelguerra.github.io/es/publication/pimentel-sub-nanometer-2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pimentel-sub-nanometer-2016/</guid>
+      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-sub-nanometer-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution imaging of (100) kyanite surfaces using friction force microscopy in water</title>
+      <link>https://cpimentelguerra.github.io/es/publication/pimentel-high-resolution-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-high-resolution-2015/</guid>
       <description></description>
     </item>
     
@@ -503,9 +729,17 @@ Three
     
     <item>
       <title>Friction and Wear of Mineral Surfaces in Liquid Environments</title>
-      <link>https://cpimentelguerra.github.io/publication/gnecco-friction-2015/</link>
+      <link>https://cpimentelguerra.github.io/es/publication/gnecco-friction-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/gnecco-friction-2015/</guid>
+      <guid>https://cpimentelguerra.github.io/es/publication/gnecco-friction-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channeling motion of gold nanospheres on a rippled glassed surface</title>
+      <link>https://cpimentelguerra.github.io/es/publication/gnecco-channeling-2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/publication/gnecco-channeling-2014/</guid>
       <description></description>
     </item>
     
@@ -519,9 +753,17 @@ Three
     
     <item>
       <title>The formation of the dolomite-analogue norsethite: Reaction pathway and cation ordering</title>
-      <link>https://cpimentelguerra.github.io/publication/pimentel-formation-2014/</link>
+      <link>https://cpimentelguerra.github.io/es/publication/pimentel-formation-2014/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pimentel-formation-2014/</guid>
+      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-formation-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular resolution friction microscopy of Cu phthalocyanine thin films on dolomite (104) in water</title>
+      <link>https://cpimentelguerra.github.io/es/publication/nita-molecular-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/publication/nita-molecular-2014/</guid>
       <description></description>
     </item>
     
@@ -535,9 +777,25 @@ Three
     
     <item>
       <title>Epitaxial Crystal Growth of Nitratine on Calcite (10.4) Cleavage Faces at the Nanoscale</title>
+      <link>https://cpimentelguerra.github.io/es/publication/benages-vilau-epitaxial-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/publication/benages-vilau-epitaxial-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epitaxial Crystal Growth of Nitratine on Calcite (10.4) Cleavage Faces at the Nanoscale</title>
       <link>https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
       <guid>https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epitaxial Growth of Calcite Crystals on Dolomite and Kutnahorite (104) Surfaces</title>
+      <link>https://cpimentelguerra.github.io/es/publication/pimentel-epitaxial-2013/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-epitaxial-2013/</guid>
       <description></description>
     </item>
     
@@ -551,9 +809,9 @@ Three
     
     <item>
       <title>Structural evolution of Lavinia Planitia, Venus: Implications for the tectonics of the lowland plains</title>
-      <link>https://cpimentelguerra.github.io/publication/fernandez-structural-2010/</link>
+      <link>https://cpimentelguerra.github.io/es/publication/fernandez-structural-2010/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/fernandez-structural-2010/</guid>
+      <guid>https://cpimentelguerra.github.io/es/publication/fernandez-structural-2010/</guid>
       <description></description>
     </item>
     
@@ -562,6 +820,14 @@ Three
       <link>https://cpimentelguerra.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cpimentelguerra.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cpimentelguerra.github.io/es/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.github.io/es/admin/config.yml</guid>
       <description></description>
     </item>
     
