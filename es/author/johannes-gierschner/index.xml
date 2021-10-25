@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Johannes Gierschner | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/es/author/johannes-gierschner/</link>
-      <atom:link href="https://cpimentelguerra.github.io/es/author/johannes-gierschner/index.xml" rel="self" type="application/rss+xml" />
+    <link>/es/author/johannes-gierschner/</link>
+      <atom:link href="/es/author/johannes-gierschner/index.xml" rel="self" type="application/rss+xml" />
     <description>Johannes Gierschner</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Johannes Gierschner</title>
-      <link>https://cpimentelguerra.github.io/es/author/johannes-gierschner/</link>
+      <link>/es/author/johannes-gierschner/</link>
     </image>
     
     <item>
       <title>Molecular-scale shear response of the organic semiconductor β -DBDCS (100) surface</title>
-      <link>https://cpimentelguerra.github.io/es/publication/alvarez-asencio-molecular-scale-2017/</link>
+      <link>/es/publication/alvarez-asencio-molecular-scale-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/alvarez-asencio-molecular-scale-2017/</guid>
+      <guid>/es/publication/alvarez-asencio-molecular-scale-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub-nanometer resolution of an organic semiconductor crystal surface using friction force microscopy in water</title>
+      <link>/es/publication/pimentel-sub-nanometer-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/es/publication/pimentel-sub-nanometer-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular resolution friction microscopy of Cu phthalocyanine thin films on dolomite (104) in water</title>
-      <link>https://cpimentelguerra.github.io/es/publication/nita-molecular-2014/</link>
+      <link>/es/publication/nita-molecular-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/nita-molecular-2014/</guid>
+      <guid>/es/publication/nita-molecular-2014/</guid>
       <description></description>
     </item>
     

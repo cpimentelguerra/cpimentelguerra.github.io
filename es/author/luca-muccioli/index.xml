@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luca Muccioli | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/es/author/luca-muccioli/</link>
-      <atom:link href="https://cpimentelguerra.github.io/es/author/luca-muccioli/index.xml" rel="self" type="application/rss+xml" />
+    <link>/es/author/luca-muccioli/</link>
+      <atom:link href="/es/author/luca-muccioli/index.xml" rel="self" type="application/rss+xml" />
     <description>Luca Muccioli</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Luca Muccioli</title>
-      <link>https://cpimentelguerra.github.io/es/author/luca-muccioli/</link>
+      <link>/es/author/luca-muccioli/</link>
     </image>
     
     <item>
       <title>Molecular-scale shear response of the organic semiconductor β -DBDCS (100) surface</title>
-      <link>https://cpimentelguerra.github.io/es/publication/alvarez-asencio-molecular-scale-2017/</link>
+      <link>/es/publication/alvarez-asencio-molecular-scale-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/alvarez-asencio-molecular-scale-2017/</guid>
+      <guid>/es/publication/alvarez-asencio-molecular-scale-2017/</guid>
       <description></description>
     </item>
     

@@ -2,125 +2,241 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/es/author/carlos-pimentel/</link>
-      <atom:link href="https://cpimentelguerra.github.io/es/author/carlos-pimentel/index.xml" rel="self" type="application/rss+xml" />
+    <link>/es/author/carlos-pimentel/</link>
+      <atom:link href="/es/author/carlos-pimentel/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlos Pimentel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Sat, 23 Oct 2021 16:38:11 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Wed, 15 Dec 2021 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Carlos Pimentel</title>
-      <link>https://cpimentelguerra.github.io/es/author/carlos-pimentel/</link>
+      <link>/es/author/carlos-pimentel/</link>
     </image>
     
     <item>
+      <title>Entrega de premios del concurso &#39;Inventa un mineral&#39;</title>
+      <link>/es/inventa2021-award/</link>
+      <pubDate>Wed, 15 Dec 2021 18:00:00 +0000</pubDate>
+      <guid>/es/inventa2021-award/</guid>
+      <description>&lt;p&gt;Los premios del primer concurso &lt;a href=&#34;../../../es/inventa2021&#34;&gt;&amp;ldquo;Inventa un mineral&amp;rdquo;&lt;/a&gt; se entregarán durante la presentación de la &lt;em&gt;Pequeña guía de minerales inexistentes. Volumen II&lt;/em&gt;, que tendrá lugar en el Museo Geominero de Madrid el 15 de diciembre de 2021 a las 18.00 h. Durante la entrega de los premios, las personas ganadoras tendrán también la oportunidad de presentar los minerales que han creado.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Formation and structures of horizontal submarine fluid conduit and venting systems associated with marine seeps</title>
-      <link>https://cpimentelguerra.github.io/es/publication/rocha-formation-nodate/</link>
+      <link>/es/publication/rocha-formation-nodate/</link>
       <pubDate>Sat, 23 Oct 2021 16:38:11 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/rocha-formation-nodate/</guid>
+      <guid>/es/publication/rocha-formation-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concurso &#39;Inventa un mineral&#39;</title>
+      <link>/es/inventa2021/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/es/inventa2021/</guid>
+      <description>&lt;p&gt;La Universidad Complutense de Madrid, a través de su Vicerrectorado de Cultura, Deporte y Extensión Universitaria (Ediciones Complutense), con motivo de la publicación del libro &lt;em&gt;Pequeña guía de minerales inexistentes. Volumen II&lt;/em&gt;, y con el propósito de promover la creación artístico-científica, convoca el primer concurso “Inventa un mineral”.&lt;/p&gt;
+&lt;p&gt;Los premios se entregarán durante la presentación de la &lt;em&gt;Pequeña guía de minerales inexistentes. Volumen II&lt;/em&gt;, que tendrá lugar en el &lt;a href=&#34;../../../es/inventa2021-award&#34;&gt;Museo Geominero de Madrid el 15 de diciembre de 2021 a las 18.00 h&lt;/a&gt;. Durante la entrega de los premios, las personas ganadoras tendrán también la oportunidad de presentar los minerales que han creado.&lt;/p&gt;
+&lt;p&gt;Las bases del concurso pueden consultarse en el siguiente enlace: &lt;a href=&#34;https://eventos.ucm.es/72810/detail&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://eventos.ucm.es/72810/detail&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Effect of Stoichiometry, Mg-Ca Distribution, and Iron, Manganese, and Zinc Impurities on the Dolomite Order Degree: A Theoretical Study</title>
+      <link>/es/publication/zvir-effect-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/es/publication/zvir-effect-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DFT Simulations of the Structure and Cation Order of Norsethite, BaMg(CO3)2</title>
-      <link>https://cpimentelguerra.github.io/es/publication/pimentel-dft-2021/</link>
+      <link>/es/publication/pimentel-dft-2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-dft-2021/</guid>
+      <guid>/es/publication/pimentel-dft-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Tungstate Chemical Garden</title>
-      <link>https://cpimentelguerra.github.io/es/publication/pimentel-tungstate-2020/</link>
+      <link>/es/publication/pimentel-tungstate-2020/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-tungstate-2020/</guid>
+      <guid>/es/publication/pimentel-tungstate-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formation of zabuyelite, Li2CO3, on dolomite and kutnohorite 10.4 surfaces from supersaturated and undersaturated solutions: Growth behavior and anomalous friction at the nanoscale</title>
+      <link>/es/publication/pimentel-formation-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/pimentel-formation-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dolomite cation order in the geological record</title>
-      <link>https://cpimentelguerra.github.io/es/publication/pina-dolomite-2020/</link>
+      <link>/es/publication/pina-dolomite-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/pina-dolomite-2020/</guid>
+      <guid>/es/publication/pina-dolomite-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salt hydration and drop drying of two model calcium salts: Implications for foliar nutrient absorption and deposition</title>
+      <link>/es/publication/fernandez-salt-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/fernandez-salt-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface Wetting Controls Calcium Carbonate Crystallization Kinetics</title>
+      <link>/es/publication/koishi-surface-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/es/publication/koishi-surface-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of interaction energy and contact stiffness in atomic-scale sliding on a model sodium chloride surface in ethanol</title>
+      <link>/es/publication/agmon-estimation-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/es/publication/agmon-estimation-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epitaxial Growth and Frictional Response of Otavite and Spherocobaltite on Dolomite (10.4) Surfaces</title>
-      <link>https://cpimentelguerra.github.io/es/publication/pimentel-epitaxial-2018/</link>
+      <link>/es/publication/pimentel-epitaxial-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-epitaxial-2018/</guid>
+      <guid>/es/publication/pimentel-epitaxial-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First occurrence of the rare mineral slavikite in Spain</title>
+      <link>/es/publication/crespo-lopez-first-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/es/publication/crespo-lopez-first-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular-scale shear response of the organic semiconductor β -DBDCS (100) surface</title>
-      <link>https://cpimentelguerra.github.io/es/publication/alvarez-asencio-molecular-scale-2017/</link>
+      <link>/es/publication/alvarez-asencio-molecular-scale-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/alvarez-asencio-molecular-scale-2017/</guid>
+      <guid>/es/publication/alvarez-asencio-molecular-scale-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pseudomorphic Replacement of Mg–Ca Carbonates after Gypsum and Anhydrite</title>
-      <link>https://cpimentelguerra.github.io/es/publication/gonzalez-illanes-pseudomorphic-2017/</link>
+      <link>/es/publication/gonzalez-illanes-pseudomorphic-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/gonzalez-illanes-pseudomorphic-2017/</guid>
+      <guid>/es/publication/gonzalez-illanes-pseudomorphic-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and reactivity of minerals of dolomite group and analogue phases (Síntesis y reactividad de minerales del grupo de la dolomita y fases análogas)</title>
+      <link>/es/publication/pimentel-synthesis-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/es/publication/pimentel-synthesis-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formation of dolomite analogues at ambient conditions</title>
-      <link>https://cpimentelguerra.github.io/es/publication/pina-formation-2017/</link>
+      <link>/es/publication/pina-formation-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/pina-formation-2017/</guid>
+      <guid>/es/publication/pina-formation-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atomic-Scale Sliding Friction on Graphene in Water</title>
-      <link>https://cpimentelguerra.github.io/es/publication/vilhena-atomic-scale-2016/</link>
+      <link>/es/publication/vilhena-atomic-scale-2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/vilhena-atomic-scale-2016/</guid>
+      <guid>/es/publication/vilhena-atomic-scale-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reaction pathways towards the formation of dolomite-analogues at ambient conditions</title>
+      <link>/es/publication/pimentel-reaction-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/es/publication/pimentel-reaction-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub-nanometer resolution of an organic semiconductor crystal surface using friction force microscopy in water</title>
+      <link>/es/publication/pimentel-sub-nanometer-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/es/publication/pimentel-sub-nanometer-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-resolution imaging of (100) kyanite surfaces using friction force microscopy in water</title>
-      <link>https://cpimentelguerra.github.io/es/publication/pimentel-high-resolution-2015/</link>
+      <link>/es/publication/pimentel-high-resolution-2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-high-resolution-2015/</guid>
+      <guid>/es/publication/pimentel-high-resolution-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friction and Wear of Mineral Surfaces in Liquid Environments</title>
+      <link>/es/publication/gnecco-friction-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/es/publication/gnecco-friction-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Channeling motion of gold nanospheres on a rippled glassed surface</title>
-      <link>https://cpimentelguerra.github.io/es/publication/gnecco-channeling-2014/</link>
+      <link>/es/publication/gnecco-channeling-2014/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/gnecco-channeling-2014/</guid>
+      <guid>/es/publication/gnecco-channeling-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The formation of the dolomite-analogue norsethite: Reaction pathway and cation ordering</title>
+      <link>/es/publication/pimentel-formation-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/es/publication/pimentel-formation-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular resolution friction microscopy of Cu phthalocyanine thin films on dolomite (104) in water</title>
-      <link>https://cpimentelguerra.github.io/es/publication/nita-molecular-2014/</link>
+      <link>/es/publication/nita-molecular-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/nita-molecular-2014/</guid>
+      <guid>/es/publication/nita-molecular-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epitaxial Crystal Growth of Nitratine on Calcite (10.4) Cleavage Faces at the Nanoscale</title>
-      <link>https://cpimentelguerra.github.io/es/publication/benages-vilau-epitaxial-2013/</link>
+      <link>/es/publication/benages-vilau-epitaxial-2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/benages-vilau-epitaxial-2013/</guid>
+      <guid>/es/publication/benages-vilau-epitaxial-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epitaxial Growth of Calcite Crystals on Dolomite and Kutnahorite (104) Surfaces</title>
-      <link>https://cpimentelguerra.github.io/es/publication/pimentel-epitaxial-2013/</link>
+      <link>/es/publication/pimentel-epitaxial-2013/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-epitaxial-2013/</guid>
+      <guid>/es/publication/pimentel-epitaxial-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural evolution of Lavinia Planitia, Venus: Implications for the tectonics of the lowland plains</title>
+      <link>/es/publication/fernandez-structural-2010/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>/es/publication/fernandez-structural-2010/</guid>
       <description></description>
     </item>
     

@@ -2,15 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Upcoming events | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/event/</link>
-      <atom:link href="https://cpimentelguerra.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>/event/</link>
+      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Upcoming events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Dec 2021 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Upcoming events</title>
-      <link>https://cpimentelguerra.github.io/event/</link>
+      <link>/event/</link>
     </image>
+    
+    <item>
+      <title>Prize-giving ceremony of the &#39;Inventa un mineral&#39; competition</title>
+      <link>/inventa2021-award/</link>
+      <pubDate>Wed, 15 Dec 2021 18:00:00 +0000</pubDate>
+      <guid>/inventa2021-award/</guid>
+      <description>&lt;p&gt;The prizes of the first &amp;ldquo;Inventa un mineral&amp;rdquo; competition will be awarded during the presentation of the &lt;em&gt;Pequeña guía de minerales inexistentes. Volumen II&lt;/em&gt;, which will take place at the Geominero Museum in Madrid on 15 December 2021 at 18.00. During the awards ceremony, the winners will also have the opportunity to present the minerals they have created.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#39;Inventa un mineral&#39; competition</title>
+      <link>/inventa2021/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/inventa2021/</guid>
+      <description>&lt;p&gt;Universidad Complutense de Madrid, through its Vice-Rectorate for Culture, Sport and University Extension (Ediciones Complutense), on the occasion of the publication of the book &lt;em&gt;Pequeña guía de minerales inexistentes. Volumen II&lt;/em&gt;, and with the aim of promoting artistic and scientific creation, announces the first &amp;ldquo;Inventa un mineral&amp;rdquo; competition. (Only for people living in Spain)&lt;/p&gt;
+&lt;p&gt;The competition terms can be consulted at the following link: &lt;a href=&#34;https://eventos.ucm.es/72810/detail&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://eventos.ucm.es/72810/detail&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

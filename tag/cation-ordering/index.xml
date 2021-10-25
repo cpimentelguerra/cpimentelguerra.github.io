@@ -2,29 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cation ordering | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/tag/cation-ordering/</link>
-      <atom:link href="https://cpimentelguerra.github.io/tag/cation-ordering/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/cation-ordering/</link>
+      <atom:link href="/tag/cation-ordering/index.xml" rel="self" type="application/rss+xml" />
     <description>Cation ordering</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Cation ordering</title>
-      <link>https://cpimentelguerra.github.io/tag/cation-ordering/</link>
+      <link>/tag/cation-ordering/</link>
     </image>
     
     <item>
+      <title>The Effect of Stoichiometry, Mg-Ca Distribution, and Iron, Manganese, and Zinc Impurities on the Dolomite Order Degree: A Theoretical Study</title>
+      <link>/publication/zvir-effect-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/zvir-effect-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DFT Simulations of the Structure and Cation Order of Norsethite, BaMg(CO3)2</title>
-      <link>https://cpimentelguerra.github.io/publication/pimentel-dft-2021/</link>
+      <link>/publication/pimentel-dft-2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pimentel-dft-2021/</guid>
+      <guid>/publication/pimentel-dft-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dolomite cation order in the geological record</title>
-      <link>https://cpimentelguerra.github.io/publication/pina-dolomite-2020/</link>
+      <link>/publication/pina-dolomite-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pina-dolomite-2020/</guid>
+      <guid>/publication/pina-dolomite-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reaction pathways towards the formation of dolomite-analogues at ambient conditions</title>
+      <link>/publication/pimentel-reaction-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pimentel-reaction-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The formation of the dolomite-analogue norsethite: Reaction pathway and cation ordering</title>
+      <link>/publication/pimentel-formation-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pimentel-formation-2014/</guid>
       <description></description>
     </item>
     

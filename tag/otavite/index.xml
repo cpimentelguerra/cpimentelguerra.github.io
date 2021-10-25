@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Otavite | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/tag/otavite/</link>
-      <atom:link href="https://cpimentelguerra.github.io/tag/otavite/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/otavite/</link>
+      <atom:link href="/tag/otavite/index.xml" rel="self" type="application/rss+xml" />
     <description>Otavite</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Otavite</title>
-      <link>https://cpimentelguerra.github.io/tag/otavite/</link>
+      <link>/tag/otavite/</link>
     </image>
     
     <item>
       <title>Epitaxial Growth and Frictional Response of Otavite and Spherocobaltite on Dolomite (10.4) Surfaces</title>
-      <link>https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2018/</link>
+      <link>/publication/pimentel-epitaxial-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2018/</guid>
+      <guid>/publication/pimentel-epitaxial-2018/</guid>
       <description></description>
     </item>
     

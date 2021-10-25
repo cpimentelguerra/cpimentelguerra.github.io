@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pedro A. Serena | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/es/author/pedro-a.-serena/</link>
-      <atom:link href="https://cpimentelguerra.github.io/es/author/pedro-a.-serena/index.xml" rel="self" type="application/rss+xml" />
+    <link>/es/author/pedro-a.-serena/</link>
+      <atom:link href="/es/author/pedro-a.-serena/index.xml" rel="self" type="application/rss+xml" />
     <description>Pedro A. Serena</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Pedro A. Serena</title>
-      <link>https://cpimentelguerra.github.io/es/author/pedro-a.-serena/</link>
+      <link>/es/author/pedro-a.-serena/</link>
     </image>
     
     <item>
       <title>Atomic-Scale Sliding Friction on Graphene in Water</title>
-      <link>https://cpimentelguerra.github.io/es/publication/vilhena-atomic-scale-2016/</link>
+      <link>/es/publication/vilhena-atomic-scale-2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/vilhena-atomic-scale-2016/</guid>
+      <guid>/es/publication/vilhena-atomic-scale-2016/</guid>
       <description></description>
     </item>
     

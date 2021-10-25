@@ -2,53 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FFM | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/tag/ffm/</link>
-      <atom:link href="https://cpimentelguerra.github.io/tag/ffm/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/ffm/</link>
+      <atom:link href="/tag/ffm/index.xml" rel="self" type="application/rss+xml" />
     <description>FFM</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>FFM</title>
-      <link>https://cpimentelguerra.github.io/tag/ffm/</link>
+      <link>/tag/ffm/</link>
     </image>
     
     <item>
+      <title>Formation of zabuyelite, Li2CO3, on dolomite and kutnohorite 10.4 surfaces from supersaturated and undersaturated solutions: Growth behavior and anomalous friction at the nanoscale</title>
+      <link>/publication/pimentel-formation-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pimentel-formation-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of interaction energy and contact stiffness in atomic-scale sliding on a model sodium chloride surface in ethanol</title>
+      <link>/publication/agmon-estimation-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/agmon-estimation-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Molecular-scale shear response of the organic semiconductor β -DBDCS (100) surface</title>
-      <link>https://cpimentelguerra.github.io/publication/alvarez-asencio-molecular-scale-2017/</link>
+      <link>/publication/alvarez-asencio-molecular-scale-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/alvarez-asencio-molecular-scale-2017/</guid>
+      <guid>/publication/alvarez-asencio-molecular-scale-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and reactivity of minerals of dolomite group and analogue phases (Síntesis y reactividad de minerales del grupo de la dolomita y fases análogas)</title>
+      <link>/publication/pimentel-synthesis-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pimentel-synthesis-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atomic-Scale Sliding Friction on Graphene in Water</title>
-      <link>https://cpimentelguerra.github.io/publication/vilhena-atomic-scale-2016/</link>
+      <link>/publication/vilhena-atomic-scale-2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/vilhena-atomic-scale-2016/</guid>
+      <guid>/publication/vilhena-atomic-scale-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-resolution imaging of (100) kyanite surfaces using friction force microscopy in water</title>
-      <link>https://cpimentelguerra.github.io/publication/pimentel-high-resolution-2015/</link>
+      <link>/publication/pimentel-high-resolution-2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pimentel-high-resolution-2015/</guid>
+      <guid>/publication/pimentel-high-resolution-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friction and Wear of Mineral Surfaces in Liquid Environments</title>
+      <link>/publication/gnecco-friction-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/gnecco-friction-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Channeling motion of gold nanospheres on a rippled glassed surface</title>
-      <link>https://cpimentelguerra.github.io/publication/gnecco-channeling-2014/</link>
+      <link>/publication/gnecco-channeling-2014/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/gnecco-channeling-2014/</guid>
+      <guid>/publication/gnecco-channeling-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular resolution friction microscopy of Cu phthalocyanine thin films on dolomite (104) in water</title>
-      <link>https://cpimentelguerra.github.io/publication/nita-molecular-2014/</link>
+      <link>/publication/nita-molecular-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/nita-molecular-2014/</guid>
+      <guid>/publication/nita-molecular-2014/</guid>
       <description></description>
     </item>
     

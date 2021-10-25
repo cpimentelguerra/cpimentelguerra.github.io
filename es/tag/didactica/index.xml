@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Didáctica | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/es/tag/didactica/</link>
-      <atom:link href="https://cpimentelguerra.github.io/es/tag/didactica/index.xml" rel="self" type="application/rss+xml" />
+    <link>/es/tag/didactica/</link>
+      <atom:link href="/es/tag/didactica/index.xml" rel="self" type="application/rss+xml" />
     <description>Didáctica</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Sat, 23 Oct 2021 18:57:19 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Didáctica</title>
-      <link>https://cpimentelguerra.github.io/es/tag/didactica/</link>
+      <link>/es/tag/didactica/</link>
     </image>
     
     <item>
       <title>Modelos 3D de cristales y estructuras minerales</title>
-      <link>https://cpimentelguerra.github.io/es/project/crystal-model/</link>
+      <link>/es/project/crystal-model/</link>
       <pubDate>Sat, 23 Oct 2021 18:57:19 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/project/crystal-model/</guid>
+      <guid>/es/project/crystal-model/</guid>
       <description>&lt;p&gt;El objetivo de este proyecto es diseñar modelos 3D de formas cristalinas y de estructuras minerales que puedan visualizarse en el ordenador o imprimirse con una impresora 3D. Todos estos modelos pueden consultarse en los siguientes enlaces:
 &lt;br&gt;
 &lt;br&gt;

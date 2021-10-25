@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nitratine | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/tag/nitratine/</link>
-      <atom:link href="https://cpimentelguerra.github.io/tag/nitratine/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/nitratine/</link>
+      <atom:link href="/tag/nitratine/index.xml" rel="self" type="application/rss+xml" />
     <description>Nitratine</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Nitratine</title>
-      <link>https://cpimentelguerra.github.io/tag/nitratine/</link>
+      <link>/tag/nitratine/</link>
     </image>
     
     <item>
       <title>Epitaxial Crystal Growth of Nitratine on Calcite (10.4) Cleavage Faces at the Nanoscale</title>
-      <link>https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/</link>
+      <link>/publication/benages-vilau-epitaxial-2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/</guid>
+      <guid>/publication/benages-vilau-epitaxial-2013/</guid>
       <description></description>
     </item>
     

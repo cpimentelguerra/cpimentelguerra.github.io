@@ -2,37 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calcite | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/tag/calcite/</link>
-      <atom:link href="https://cpimentelguerra.github.io/tag/calcite/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/calcite/</link>
+      <atom:link href="/tag/calcite/index.xml" rel="self" type="application/rss+xml" />
     <description>Calcite</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Calcite</title>
-      <link>https://cpimentelguerra.github.io/tag/calcite/</link>
+      <link>/tag/calcite/</link>
     </image>
     
     <item>
+      <title>Surface Wetting Controls Calcium Carbonate Crystallization Kinetics</title>
+      <link>/publication/koishi-surface-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/koishi-surface-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pseudomorphic Replacement of Mg–Ca Carbonates after Gypsum and Anhydrite</title>
-      <link>https://cpimentelguerra.github.io/publication/gonzalez-illanes-pseudomorphic-2017/</link>
+      <link>/publication/gonzalez-illanes-pseudomorphic-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/gonzalez-illanes-pseudomorphic-2017/</guid>
+      <guid>/publication/gonzalez-illanes-pseudomorphic-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epitaxial Crystal Growth of Nitratine on Calcite (10.4) Cleavage Faces at the Nanoscale</title>
-      <link>https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/</link>
+      <link>/publication/benages-vilau-epitaxial-2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/</guid>
+      <guid>/publication/benages-vilau-epitaxial-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epitaxial Growth of Calcite Crystals on Dolomite and Kutnahorite (104) Surfaces</title>
-      <link>https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2013/</link>
+      <link>/publication/pimentel-epitaxial-2013/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2013/</guid>
+      <guid>/publication/pimentel-epitaxial-2013/</guid>
       <description></description>
     </item>
     

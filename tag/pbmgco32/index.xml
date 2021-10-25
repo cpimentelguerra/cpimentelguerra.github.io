@@ -2,21 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PbMg(CO3)2 | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/tag/pbmgco32/</link>
-      <atom:link href="https://cpimentelguerra.github.io/tag/pbmgco32/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/pbmgco32/</link>
+      <atom:link href="/tag/pbmgco32/index.xml" rel="self" type="application/rss+xml" />
     <description>PbMg(CO3)2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>PbMg(CO3)2</title>
-      <link>https://cpimentelguerra.github.io/tag/pbmgco32/</link>
+      <link>/tag/pbmgco32/</link>
     </image>
     
     <item>
+      <title>Synthesis and reactivity of minerals of dolomite group and analogue phases (Síntesis y reactividad de minerales del grupo de la dolomita y fases análogas)</title>
+      <link>/publication/pimentel-synthesis-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pimentel-synthesis-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Formation of dolomite analogues at ambient conditions</title>
-      <link>https://cpimentelguerra.github.io/publication/pina-formation-2017/</link>
+      <link>/publication/pina-formation-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pina-formation-2017/</guid>
+      <guid>/publication/pina-formation-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reaction pathways towards the formation of dolomite-analogues at ambient conditions</title>
+      <link>/publication/pimentel-reaction-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pimentel-reaction-2016/</guid>
       <description></description>
     </item>
     

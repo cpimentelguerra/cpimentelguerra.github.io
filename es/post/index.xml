@@ -2,15 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/es/post/</link>
-      <atom:link href="https://cpimentelguerra.github.io/es/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/es/post/</link>
+      <atom:link href="/es/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Thu, 21 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://cpimentelguerra.github.io/es/post/</link>
+      <link>/es/post/</link>
     </image>
+    
+    <item>
+      <title>Divulgación</title>
+      <link>/es/post/dissemination/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/es/post/dissemination/</guid>
+      <description>&lt;p&gt;En esta sección se pueden encontrar todas mis actividades divulgativas.
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Libros&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Pequeña guía de minerales inexistentes. Volumen II&lt;/em&gt; por Carlos M. Pina y Carlos Pimentel [&lt;a href=&#34;https://youtu.be/pD_FCn67wiA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Presentación del libro&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Pequeña guía de minerales inexistentes&lt;/em&gt; por Carlos M. Pina y Carlos Pimentel [&lt;a href=&#34;https://youtu.be/Afw4FnUInC4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Presentación del libro&lt;/a&gt;]
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Páginas web&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tarugos3d.home.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Páginas web con modelos cristalográficos y estructuras en 3D&lt;/a&gt; (&lt;a href=&#34;https://crystalmodels3d.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;y también en inglés&lt;/a&gt;)
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Artículos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pimentel, C., Pina, C. M. (2019) &lt;a href=&#34;http://www.revistareduca.es/index.php/reduca-geologia/article/view/1959/1950&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proyección de estructuras minerales mediante el programa Vesta&lt;/a&gt;. Reduca (Geología). Serie Cristalografía., 11 (1), 1-15.&lt;/p&gt;
+&lt;p&gt;Llorens, J. M., Pina, C. M., Pimentel, C. (2018) &lt;a href=&#34;http://www.revistareduca.es/index.php/reduca-geologia/article/view/1957/1951&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Determinación experimental de las dimensiones de una red bidimensional mediante difracción&lt;/a&gt;. Reduca (Geología). Serie Cristalografía., 10 (1), 1-15.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Proyectos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pina, C. M., Crespo, Á., Pimentel, C., Cabeza, A., Ávila, D., Castillo, E., López-Acevedo, V., Otero, C. (2022) Diseño de modelos cristalográficos y mineralógicos para impresoras 3D. Proyecto de Innovación Docente UCM.&lt;/p&gt;
+&lt;p&gt;Pina, C. M., Crespo, Á., Pimentel, C., Cabeza, A., Ávila, D., Castillo, E., López-Acevedo, V., Otero, C. (2021) &lt;a href=&#34;https://eprints.ucm.es/id/eprint/65843/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diseño de estructuras cristalográficas para impresoras 3D&lt;/a&gt;. Proyecto de Innovación Docente UCM.&lt;/p&gt;
+&lt;p&gt;Pina, C. M., López-Acevedo, V., Pimentel, C., Otero, C., Ávila, D., Castillo, E., Crespo, Á., Cabeza, A. (2020) &lt;a href=&#34;https://tarugos3d.home.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diseño de modelos cristalográficos para impresoras 3D&lt;/a&gt;. Proyecto de Innovación Docente UCM.&lt;/p&gt;
+&lt;p&gt;Pina, C. M., López-Acevedo, V., Pimentel, C., Toja, M., Otero, C., Ávila, D., Arenas, D., Crespo, Á. (2019) &lt;a href=&#34;https://eprints.ucm.es/55920/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cristales, cristalización y difracción: nuevo material audiovisual para la enseñanza de la cristalografía&lt;/a&gt;. Teaching Innovation Project. (In Spanish)&lt;/p&gt;
+&lt;p&gt;Pina, C. M., López-Acevedo, V., Otero, C., Ávila, D., Toja, M., Pimentel, C., Crespo, Á. (2018) &lt;a href=&#34;http://eprints.ucm.es/48199/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nuevos recursos audiovisuales para la enseñanza de la cristalografía: Cristales y difracción en videoclips&lt;/a&gt;. Proyecto de Innovación Docente UCM.&lt;/p&gt;
+&lt;p&gt;López-Acevedo, V., Pina, C. M., Vindel, E., Pimentel, C., Otero, L. C., Ávila, D., Crespo, Á. (2016) &lt;a href=&#34;http://eprints.ucm.es/36386/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modelos de redes cristalográficas&lt;/a&gt;. Proyecto de Innovación Docente UCM.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Exposiciones&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pina, C. M., Pimentel, C. (2019) &lt;a href=&#34;http://bibliotecaexposiciones.ucm.es/exhibits/show/minerales-inexistentes/portada&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exposición de Minerales Inexistentes&lt;/a&gt;. Biblioteca José Luis Amorós, Facultad de Ciencias Geológicas, Universidad Complutense de Madrid. Del 6 de marzo al 30 de abril de 2019.&lt;/p&gt;
+&lt;p&gt;Pina, C. M., Pimentel, C. (2019) &lt;a href=&#34;http://bibliotecaexposiciones.ucm.es/exhibits/show/minerales-inexistentes/portada&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exposición de Minerales Inexistentes&lt;/a&gt;. Biblioteca María Zambrano, Universidad Complutense de Madrid. Del 9 de octubre al 11 de noviembre de 2019
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Fotografía científica&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fotografía “Cristales de otoño” seleccionada en el concurso FOTCIENCIA13 y publicada en el &lt;a href=&#34;https://www.fotciencia.es/Resources/documentos/Catalogo_FOTCIENCIA13.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;libro FOTCIENCIA13&lt;/a&gt; (paginas 88 y 89)&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Victoria Fernández | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/author/victoria-fernandez/</link>
-      <atom:link href="https://cpimentelguerra.github.io/author/victoria-fernandez/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/victoria-fernandez/</link>
+      <atom:link href="/author/victoria-fernandez/index.xml" rel="self" type="application/rss+xml" />
     <description>Victoria Fernández</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Victoria Fernández</title>
-      <link>https://cpimentelguerra.github.io/author/victoria-fernandez/</link>
+      <link>/author/victoria-fernandez/</link>
     </image>
     
     <item>
       <title>Salt hydration and drop drying of two model calcium salts: Implications for foliar nutrient absorption and deposition</title>
-      <link>https://cpimentelguerra.github.io/es/publication/fernandez-salt-2020/</link>
+      <link>/publication/fernandez-salt-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/fernandez-salt-2020/</guid>
+      <guid>/publication/fernandez-salt-2020/</guid>
       <description></description>
     </item>
     

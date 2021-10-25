@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mineralogy | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/category/mineralogy/</link>
-      <atom:link href="https://cpimentelguerra.github.io/category/mineralogy/index.xml" rel="self" type="application/rss+xml" />
+    <link>/category/mineralogy/</link>
+      <atom:link href="/category/mineralogy/index.xml" rel="self" type="application/rss+xml" />
     <description>Mineralogy</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Oct 2021 19:31:19 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Mineralogy</title>
-      <link>https://cpimentelguerra.github.io/category/mineralogy/</link>
+      <link>/category/mineralogy/</link>
     </image>
     
     <item>
       <title>MSCA project</title>
-      <link>https://cpimentelguerra.github.io/project/msca-project/</link>
+      <link>/project/msca-project/</link>
       <pubDate>Wed, 20 Oct 2021 16:57:19 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/project/msca-project/</guid>
+      <guid>/project/msca-project/</guid>
       <description>&lt;p&gt;This project will start next year. Stay tuned for further updates.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cation ordering</title>
-      <link>https://cpimentelguerra.github.io/project/cation-ordering/</link>
+      <link>/project/cation-ordering/</link>
       <pubDate>Sat, 23 Oct 2021 19:31:19 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/project/cation-ordering/</guid>
+      <guid>/project/cation-ordering/</guid>
       <description>&lt;p&gt;Some minerals are composed by two or more cations that can be arranged in the crystal structure in different ways, e.g. dolomite, norsethite and LDH. In many of these cases, it is interesting to know how these cations are arranged, as this information allows, for example, to understand their formation process or how it affects their properties.&lt;/p&gt;
 </description>
     </item>

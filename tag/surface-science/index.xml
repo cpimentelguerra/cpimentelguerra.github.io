@@ -1,70 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Surface science | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/tag/surface-science/</link>
-      <atom:link href="https://cpimentelguerra.github.io/tag/surface-science/index.xml" rel="self" type="application/rss+xml" />
-    <description>Surface science</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <title>surface science | Carlos Pimentel</title>
+    <link>/tag/surface-science/</link>
+      <atom:link href="/tag/surface-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>surface science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Surface science</title>
-      <link>https://cpimentelguerra.github.io/tag/surface-science/</link>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>surface science</title>
+      <link>/tag/surface-science/</link>
     </image>
     
     <item>
+      <title>Estimation of interaction energy and contact stiffness in atomic-scale sliding on a model sodium chloride surface in ethanol</title>
+      <link>/publication/agmon-estimation-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/agmon-estimation-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Epitaxial Growth and Frictional Response of Otavite and Spherocobaltite on Dolomite (10.4) Surfaces</title>
-      <link>https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2018/</link>
+      <link>/publication/pimentel-epitaxial-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2018/</guid>
+      <guid>/publication/pimentel-epitaxial-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular-scale shear response of the organic semiconductor β -DBDCS (100) surface</title>
-      <link>https://cpimentelguerra.github.io/publication/alvarez-asencio-molecular-scale-2017/</link>
+      <link>/publication/alvarez-asencio-molecular-scale-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/alvarez-asencio-molecular-scale-2017/</guid>
+      <guid>/publication/alvarez-asencio-molecular-scale-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atomic-Scale Sliding Friction on Graphene in Water</title>
-      <link>https://cpimentelguerra.github.io/publication/vilhena-atomic-scale-2016/</link>
+      <link>/publication/vilhena-atomic-scale-2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/vilhena-atomic-scale-2016/</guid>
+      <guid>/publication/vilhena-atomic-scale-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub-nanometer resolution of an organic semiconductor crystal surface using friction force microscopy in water</title>
+      <link>/publication/pimentel-sub-nanometer-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pimentel-sub-nanometer-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-resolution imaging of (100) kyanite surfaces using friction force microscopy in water</title>
-      <link>https://cpimentelguerra.github.io/publication/pimentel-high-resolution-2015/</link>
+      <link>/publication/pimentel-high-resolution-2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pimentel-high-resolution-2015/</guid>
+      <guid>/publication/pimentel-high-resolution-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friction and Wear of Mineral Surfaces in Liquid Environments</title>
+      <link>/publication/gnecco-friction-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/gnecco-friction-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Channeling motion of gold nanospheres on a rippled glassed surface</title>
-      <link>https://cpimentelguerra.github.io/publication/gnecco-channeling-2014/</link>
+      <link>/publication/gnecco-channeling-2014/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/gnecco-channeling-2014/</guid>
+      <guid>/publication/gnecco-channeling-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epitaxial Crystal Growth of Nitratine on Calcite (10.4) Cleavage Faces at the Nanoscale</title>
-      <link>https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/</link>
+      <link>/publication/benages-vilau-epitaxial-2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/</guid>
+      <guid>/publication/benages-vilau-epitaxial-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epitaxial Growth of Calcite Crystals on Dolomite and Kutnahorite (104) Surfaces</title>
-      <link>https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2013/</link>
+      <link>/publication/pimentel-epitaxial-2013/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2013/</guid>
+      <guid>/publication/pimentel-epitaxial-2013/</guid>
       <description></description>
     </item>
     

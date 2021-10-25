@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geology | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/tag/geology/</link>
-      <atom:link href="https://cpimentelguerra.github.io/tag/geology/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/geology/</link>
+      <atom:link href="/tag/geology/index.xml" rel="self" type="application/rss+xml" />
     <description>Geology</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Geology</title>
-      <link>https://cpimentelguerra.github.io/tag/geology/</link>
+      <link>/tag/geology/</link>
     </image>
     
     <item>
       <title>Structural evolution of Lavinia Planitia, Venus: Implications for the tectonics of the lowland plains</title>
-      <link>https://cpimentelguerra.github.io/publication/fernandez-structural-2010/</link>
+      <link>/publication/fernandez-structural-2010/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/fernandez-structural-2010/</guid>
+      <guid>/publication/fernandez-structural-2010/</guid>
       <description></description>
     </item>
     

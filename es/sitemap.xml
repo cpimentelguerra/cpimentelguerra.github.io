@@ -2,1053 +2,1469 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cpimentelguerra.github.io/es/project/msca-project/</loc>
+    <loc>/es/project/msca-project/</loc>
     <lastmod>2021-10-20T16:57:19+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/project/msca-project/"
+                href="/project/msca-project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/project/msca-project/"
+                href="/es/project/msca-project/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/project/cation-ordering/</loc>
+    <loc>/es/project/cation-ordering/</loc>
     <lastmod>2021-10-23T19:31:19+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/project/cation-ordering/"
+                href="/project/cation-ordering/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/project/cation-ordering/"
+                href="/es/project/cation-ordering/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/courses/example/python/</loc>
+    <loc>/es/courses/example/python/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/courses/example/python/"
+                href="/courses/example/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/courses/example/python/"
+                href="/es/courses/example/python/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/project/crystal-model/</loc>
+    <loc>/es/project/crystal-model/</loc>
     <lastmod>2021-10-23T18:57:19+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/project/crystal-model/"
+                href="/project/crystal-model/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/project/crystal-model/"
+                href="/es/project/crystal-model/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/courses/example/visualization/</loc>
+    <loc>/es/courses/example/visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/courses/example/visualization/"
+                href="/courses/example/visualization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/courses/example/visualization/"
+                href="/es/courses/example/visualization/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/project/non-existent-minerals/</loc>
+    <loc>/es/project/non-existent-minerals/</loc>
     <lastmod>2021-10-23T19:11:19+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/project/non-existent-minerals/"
+                href="/project/non-existent-minerals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/project/non-existent-minerals/"
+                href="/es/project/non-existent-minerals/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/courses/example/stats/</loc>
+    <loc>/es/courses/example/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/courses/example/stats/"
+                href="/courses/example/stats/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/courses/example/stats/"
+                href="/es/courses/example/stats/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/</loc>
+    <loc>/es/</loc>
+    <lastmod>2021-12-15T18:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+  </url><url>
+    <loc>/es/authors/</loc>
+    <lastmod>2021-12-15T18:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/"
+                />
+  </url><url>
+    <loc>/es/author/carlos-pimentel/</loc>
+    <lastmod>2021-12-15T18:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/carlos-pimentel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/carlos-pimentel/"
+                />
+  </url><url>
+    <loc>/es/inventa2021-award/</loc>
+    <lastmod>2021-12-15T18:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/inventa2021-award/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/inventa2021-award/"
+                />
+  </url><url>
+    <loc>/es/event/</loc>
+    <lastmod>2021-12-15T18:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/event/"
+                />
+  </url><url>
+    <loc>/es/categories/</loc>
     <lastmod>2021-10-23T19:31:19+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/"
+                href="/es/categories/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/categories/</loc>
+    <loc>/es/tag/cristalografia/</loc>
+    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
+  </url><url>
+    <loc>/es/category/cristalografia/</loc>
+    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
+  </url><url>
+    <loc>/es/tag/mineralogia/</loc>
+    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
+  </url><url>
+    <loc>/es/category/mineralogia/</loc>
+    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
+  </url><url>
+    <loc>/es/project/</loc>
     <lastmod>2021-10-23T19:31:19+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/categories/"
+                href="/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/categories/"
+                href="/es/project/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/tag/cristalografia/</loc>
+    <loc>/es/tags/</loc>
     <lastmod>2021-10-23T19:31:19+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/tag/cristalografia/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/tag/cristalografia/"
+                href="/es/tags/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/category/cristalografia/</loc>
-    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/category/cristalografia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/category/cristalografia/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/tag/mineralogia/</loc>
-    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/tag/mineralogia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/tag/mineralogia/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/category/mineralogia/</loc>
-    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/category/mineralogia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/category/mineralogia/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/project/</loc>
-    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/project/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/tags/</loc>
-    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/tags/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/category/divulgacion/</loc>
+    <loc>/es/category/divulgacion/</loc>
     <lastmod>2021-10-23T19:11:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/category/divulgacion/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/category/divulgacion/"
-                />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/tag/didactica/</loc>
+    <loc>/es/tag/didactica/</loc>
     <lastmod>2021-10-23T18:57:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/tag/didactica/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/tag/didactica/"
-                />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/category/didactica/</loc>
+    <loc>/es/category/didactica/</loc>
     <lastmod>2021-10-23T18:57:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/category/didactica/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/category/didactica/"
-                />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/tag/divulgacion/</loc>
+    <loc>/es/tag/divulgacion/</loc>
     <lastmod>2021-10-23T18:57:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/tag/divulgacion/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/tag/divulgacion/"
-                />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication-type/2/</loc>
+    <loc>/es/publication-type/2/</loc>
     <lastmod>2021-10-23T18:38:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/publication-type/2/"
+                href="/publication-type/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication-type/2/"
+                href="/es/publication-type/2/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/authors/</loc>
+    <loc>/es/author/c.-ignacio-sainz-diaz/</loc>
     <lastmod>2021-10-23T18:38:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/authors/"
+                href="/author/c.-ignacio-sainz-diaz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/authors/"
+                href="/es/author/c.-ignacio-sainz-diaz/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/c.-ignacio-sainz-diaz/</loc>
+    <loc>/es/author/carlos-gutierrez-ariza/</loc>
     <lastmod>2021-10-23T18:38:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/c.-ignacio-sainz-diaz/"
+                href="/author/carlos-gutierrez-ariza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/c.-ignacio-sainz-diaz/"
+                href="/es/author/carlos-gutierrez-ariza/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/carlos-gutierrez-ariza/</loc>
+    <loc>/es/publication/rocha-formation-nodate/</loc>
     <lastmod>2021-10-23T18:38:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/carlos-gutierrez-ariza/"
+                href="/publication/rocha-formation-nodate/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/carlos-gutierrez-ariza/"
+                href="/es/publication/rocha-formation-nodate/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/carlos-pimentel/</loc>
+    <loc>/es/author/isabel-sanchez-almazo/</loc>
     <lastmod>2021-10-23T18:38:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/carlos-pimentel/"
+                href="/author/isabel-sanchez-almazo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/carlos-pimentel/"
+                href="/es/author/isabel-sanchez-almazo/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/rocha-formation-nodate/</loc>
+    <loc>/es/author/julyan-h.-e.-cartwright/</loc>
     <lastmod>2021-10-23T18:38:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/rocha-formation-nodate/"
+                href="/author/julyan-h.-e.-cartwright/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/rocha-formation-nodate/"
+                href="/es/author/julyan-h.-e.-cartwright/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/isabel-sanchez-almazo/</loc>
+    <loc>/es/author/luis-a.-m.-rocha/</loc>
     <lastmod>2021-10-23T18:38:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/isabel-sanchez-almazo/"
+                href="/author/luis-a.-m.-rocha/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/isabel-sanchez-almazo/"
+                href="/es/author/luis-a.-m.-rocha/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/julyan-h.-e.-cartwright/</loc>
+    <loc>/es/publication/</loc>
     <lastmod>2021-10-23T18:38:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/julyan-h.-e.-cartwright/"
+                href="/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/julyan-h.-e.-cartwright/"
+                href="/es/publication/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/luis-a.-m.-rocha/</loc>
+    <loc>/es/publication_types/</loc>
     <lastmod>2021-10-23T18:38:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/luis-a.-m.-rocha/"
+                href="/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/luis-a.-m.-rocha/"
+                href="/es/publication_types/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/</loc>
+    <loc>/es/author/silvana-s.-s.-cardoso/</loc>
     <lastmod>2021-10-23T18:38:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/"
+                href="/author/silvana-s.-s.-cardoso/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/"
+                href="/es/author/silvana-s.-s.-cardoso/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication_types/</loc>
-    <lastmod>2021-10-23T18:38:12+02:00</lastmod>
+    <loc>/es/post/dissemination/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/publication_types/"
+                href="/post/dissemination/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication_types/"
+                href="/es/post/dissemination/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/silvana-s.-s.-cardoso/</loc>
-    <lastmod>2021-10-23T18:38:12+02:00</lastmod>
+    <loc>/es/post/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/silvana-s.-s.-cardoso/"
+                href="/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/silvana-s.-s.-cardoso/"
+                href="/es/post/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/carlos-m.-pina/</loc>
+    <loc>/es/inventa2021/</loc>
+    <lastmod>2021-10-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/inventa2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/inventa2021/"
+                />
+  </url><url>
+    <loc>/es/author/carlos-m.-pina/</loc>
     <lastmod>2021-10-20T17:39:09+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/carlos-m.-pina/"
+                href="/author/carlos-m.-pina/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/carlos-m.-pina/"
+                href="/es/author/carlos-m.-pina/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/pimentel-dft-2021/</loc>
+    <loc>/es/publication/zvir-effect-2021/</loc>
+    <lastmod>2021-10-20T17:39:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/zvir-effect-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/zvir-effect-2021/"
+                />
+  </url><url>
+    <loc>/es/author/yuliya-zvir/</loc>
+    <lastmod>2021-10-20T17:39:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/yuliya-zvir/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/yuliya-zvir/"
+                />
+  </url><url>
+    <loc>/es/publication/pimentel-dft-2021/</loc>
     <lastmod>2021-10-20T17:39:07+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/pimentel-dft-2021/"
+                href="/publication/pimentel-dft-2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/pimentel-dft-2021/"
+                href="/es/publication/pimentel-dft-2021/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/courses/</loc>
+    <loc>/es/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/courses/"
+                href="/courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/courses/"
+                href="/es/courses/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/courses/example/</loc>
+    <loc>/es/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/courses/example/"
+                href="/courses/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/courses/example/"
+                href="/es/courses/example/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/pimentel-tungstate-2020/</loc>
+    <loc>/es/publication/pimentel-tungstate-2020/</loc>
     <lastmod>2021-10-20T17:38:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/pimentel-tungstate-2020/"
+                href="/publication/pimentel-tungstate-2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/pimentel-tungstate-2020/"
+                href="/es/publication/pimentel-tungstate-2020/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/c.-ignacio-sainzdiaz/</loc>
+    <loc>/es/author/c.-ignacio-sainzdiaz/</loc>
     <lastmod>2021-10-20T17:38:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/c.-ignacio-sainzdiaz/"
+                href="/author/c.-ignacio-sainzdiaz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/c.-ignacio-sainzdiaz/"
+                href="/es/author/c.-ignacio-sainzdiaz/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/pina-dolomite-2020/</loc>
-    <lastmod>2021-10-20T17:38:57+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/pina-dolomite-2020/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/pina-dolomite-2020/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/angel-crespo/</loc>
-    <lastmod>2021-10-20T17:38:57+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/author/angel-crespo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/angel-crespo/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/enrico-gnecco/</loc>
+    <loc>/es/author/enrico-gnecco/</loc>
     <lastmod>2021-10-20T17:39:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/enrico-gnecco/"
+                href="/author/enrico-gnecco/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/enrico-gnecco/"
+                href="/es/author/enrico-gnecco/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/pimentel-epitaxial-2018/</loc>
-    <lastmod>2021-10-20T17:39:00+02:00</lastmod>
+    <loc>/es/publication/pimentel-formation-2020/</loc>
+    <lastmod>2021-10-20T17:38:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2018/"
+                href="/publication/pimentel-formation-2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/pimentel-epitaxial-2018/"
+                href="/es/publication/pimentel-formation-2020/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/johannes-gierschner/</loc>
-    <lastmod>2021-10-20T17:39:05+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/author/johannes-gierschner/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/johannes-gierschner/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/jorge-s.-moreno-ramirez/</loc>
-    <lastmod>2021-10-20T17:39:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/author/jorge-s.-moreno-ramirez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/jorge-s.-moreno-ramirez/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/luca-muccioli/</loc>
-    <lastmod>2021-10-20T17:39:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/author/luca-muccioli/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/luca-muccioli/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/micaela-matta/</loc>
-    <lastmod>2021-10-20T17:39:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/author/micaela-matta/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/micaela-matta/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/alvarez-asencio-molecular-scale-2017/</loc>
-    <lastmod>2021-10-20T17:39:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/alvarez-asencio-molecular-scale-2017/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/alvarez-asencio-molecular-scale-2017/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/ruben-alvarez-asencio/</loc>
-    <lastmod>2021-10-20T17:39:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/author/ruben-alvarez-asencio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/ruben-alvarez-asencio/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/santiago-casado/</loc>
+    <loc>/es/author/karine-mougin/</loc>
     <lastmod>2021-10-20T17:39:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/santiago-casado/"
+                href="/author/karine-mougin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/santiago-casado/"
+                href="/es/author/karine-mougin/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/seong-jun-yoon/</loc>
+    <loc>/es/publication/pina-dolomite-2020/</loc>
+    <lastmod>2021-10-20T17:38:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/pina-dolomite-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/pina-dolomite-2020/"
+                />
+  </url><url>
+    <loc>/es/author/hector-a.-bahamonde/</loc>
+    <lastmod>2021-10-20T17:38:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/hector-a.-bahamonde/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/hector-a.-bahamonde/"
+                />
+  </url><url>
+    <loc>/es/publication/fernandez-salt-2020/</loc>
+    <lastmod>2021-10-20T17:38:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/fernandez-salt-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/fernandez-salt-2020/"
+                />
+  </url><url>
+    <loc>/es/author/victoria-fernandez/</loc>
+    <lastmod>2021-10-20T17:38:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/victoria-fernandez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/victoria-fernandez/"
+                />
+  </url><url>
+    <loc>/es/author/angel-crespo/</loc>
+    <lastmod>2021-10-20T17:38:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/angel-crespo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/angel-crespo/"
+                />
+  </url><url>
+    <loc>/es/author/alejandro-fernandez-martinez/</loc>
+    <lastmod>2021-10-20T17:39:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/alejandro-fernandez-martinez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/alejandro-fernandez-martinez/"
+                />
+  </url><url>
+    <loc>/es/author/alexander-e.-s.-van-driessche/</loc>
+    <lastmod>2021-10-20T17:39:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/alexander-e.-s.-van-driessche/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/alexander-e.-s.-van-driessche/"
+                />
+  </url><url>
+    <loc>/es/author/ayumi-koishi/</loc>
+    <lastmod>2021-10-20T17:39:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/ayumi-koishi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/ayumi-koishi/"
+                />
+  </url><url>
+    <loc>/es/author/byeongdu-lee/</loc>
+    <lastmod>2021-10-20T17:39:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/byeongdu-lee/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/byeongdu-lee/"
+                />
+  </url><url>
+    <loc>/es/author/german-montes-hernandez/</loc>
+    <lastmod>2021-10-20T17:39:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/german-montes-hernandez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/german-montes-hernandez/"
+                />
+  </url><url>
+    <loc>/es/author/laurent-j.-michot/</loc>
+    <lastmod>2021-10-20T17:39:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/laurent-j.-michot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/laurent-j.-michot/"
+                />
+  </url><url>
+    <loc>/es/publication/koishi-surface-2019/</loc>
+    <lastmod>2021-10-20T17:39:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/koishi-surface-2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/koishi-surface-2019/"
+                />
+  </url><url>
+    <loc>/es/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/slides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/slides/"
+                />
+  </url><url>
+    <loc>/es/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/slides/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/slides/example/"
+                />
+  </url><url>
+    <loc>/es/author/danny-yosufov/</loc>
+    <lastmod>2021-10-20T17:38:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/danny-yosufov/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/danny-yosufov/"
+                />
+  </url><url>
+    <loc>/es/publication/agmon-estimation-2018/</loc>
+    <lastmod>2021-10-20T17:38:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/agmon-estimation-2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/agmon-estimation-2018/"
+                />
+  </url><url>
+    <loc>/es/author/itai-shahar/</loc>
+    <lastmod>2021-10-20T17:38:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/itai-shahar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/itai-shahar/"
+                />
+  </url><url>
+    <loc>/es/author/liron-agmon/</loc>
+    <lastmod>2021-10-20T17:38:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/liron-agmon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/liron-agmon/"
+                />
+  </url><url>
+    <loc>/es/author/ronen-berkovich/</loc>
+    <lastmod>2021-10-20T17:38:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/ronen-berkovich/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/ronen-berkovich/"
+                />
+  </url><url>
+    <loc>/es/publication/pimentel-epitaxial-2018/</loc>
     <lastmod>2021-10-20T17:39:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/seong-jun-yoon/"
+                href="/publication/pimentel-epitaxial-2018/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/seong-jun-yoon/"
+                href="/es/publication/pimentel-epitaxial-2018/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/shinto-varghese/</loc>
-    <lastmod>2021-10-20T17:39:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/author/shinto-varghese/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/shinto-varghese/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/soo-young-park/</loc>
-    <lastmod>2021-10-20T17:39:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/author/soo-young-park/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/soo-young-park/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/maria-teresa-borrero/</loc>
-    <lastmod>2021-10-20T17:39:01+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/author/maria-teresa-borrero/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/maria-teresa-borrero/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/miriam-m.-herraez/</loc>
-    <lastmod>2021-10-20T17:39:01+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/author/miriam-m.-herraez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/miriam-m.-herraez/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/gonzalez-illanes-pseudomorphic-2017/</loc>
-    <lastmod>2021-10-20T17:39:01+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/gonzalez-illanes-pseudomorphic-2017/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/gonzalez-illanes-pseudomorphic-2017/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/tamara-gonzalez-illanes/</loc>
-    <lastmod>2021-10-20T17:39:01+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/author/tamara-gonzalez-illanes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/tamara-gonzalez-illanes/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication-type/6/</loc>
-    <lastmod>2021-10-20T17:39:09+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/publication-type/6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication-type/6/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/pina-formation-2017/</loc>
-    <lastmod>2021-10-20T17:39:09+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/pina-formation-2017/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/pina-formation-2017/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/vilhena-atomic-scale-2016/</loc>
+    <loc>/es/publication/crespo-lopez-first-2017/</loc>
     <lastmod>2021-10-20T17:38:59+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/vilhena-atomic-scale-2016/"
+                href="/publication/crespo-lopez-first-2017/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/vilhena-atomic-scale-2016/"
+                href="/es/publication/crespo-lopez-first-2017/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/feng-luo/</loc>
+    <loc>/es/author/johannes-gierschner/</loc>
     <lastmod>2021-10-20T17:39:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/feng-luo/"
+                href="/author/johannes-gierschner/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/feng-luo/"
+                href="/es/author/johannes-gierschner/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/j.-g.-vilhena/</loc>
+    <loc>/es/author/jorge-s.-moreno-ramirez/</loc>
+    <lastmod>2021-10-20T17:39:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/jorge-s.-moreno-ramirez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/jorge-s.-moreno-ramirez/"
+                />
+  </url><url>
+    <loc>/es/author/luca-muccioli/</loc>
+    <lastmod>2021-10-20T17:39:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/luca-muccioli/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/luca-muccioli/"
+                />
+  </url><url>
+    <loc>/es/author/micaela-matta/</loc>
+    <lastmod>2021-10-20T17:39:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/micaela-matta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/micaela-matta/"
+                />
+  </url><url>
+    <loc>/es/publication/alvarez-asencio-molecular-scale-2017/</loc>
+    <lastmod>2021-10-20T17:39:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/alvarez-asencio-molecular-scale-2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/alvarez-asencio-molecular-scale-2017/"
+                />
+  </url><url>
+    <loc>/es/author/patricia-pedraz/</loc>
     <lastmod>2021-10-20T17:38:59+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/j.-g.-vilhena/"
+                href="/author/patricia-pedraz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/j.-g.-vilhena/"
+                href="/es/author/patricia-pedraz/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/patricia-pedraz/</loc>
-    <lastmod>2021-10-20T17:38:59+02:00</lastmod>
+    <loc>/es/author/ruben-alvarez-asencio/</loc>
+    <lastmod>2021-10-20T17:39:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/patricia-pedraz/"
+                href="/author/ruben-alvarez-asencio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/patricia-pedraz/"
+                href="/es/author/ruben-alvarez-asencio/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/pedro-a.-serena/</loc>
-    <lastmod>2021-10-20T17:38:59+02:00</lastmod>
+    <loc>/es/author/santiago-casado/</loc>
+    <lastmod>2021-10-20T17:39:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/pedro-a.-serena/"
+                href="/author/santiago-casado/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/pedro-a.-serena/"
+                href="/es/author/santiago-casado/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/ruben-perez/</loc>
-    <lastmod>2021-10-20T17:38:59+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cpimentelguerra.github.io/author/ruben-perez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/ruben-perez/"
-                />
-  </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/pimentel-high-resolution-2015/</loc>
+    <loc>/es/author/seong-jun-yoon/</loc>
     <lastmod>2021-10-20T17:39:02+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/pimentel-high-resolution-2015/"
+                href="/author/seong-jun-yoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/pimentel-high-resolution-2015/"
+                href="/es/author/seong-jun-yoon/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/gnecco-channeling-2014/</loc>
+    <loc>/es/author/shinto-varghese/</loc>
+    <lastmod>2021-10-20T17:39:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/shinto-varghese/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/shinto-varghese/"
+                />
+  </url><url>
+    <loc>/es/author/soo-young-park/</loc>
+    <lastmod>2021-10-20T17:39:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/soo-young-park/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/soo-young-park/"
+                />
+  </url><url>
+    <loc>/es/author/angel-crespo-lopez/</loc>
+    <lastmod>2021-10-20T17:38:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/angel-crespo-lopez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/angel-crespo-lopez/"
+                />
+  </url><url>
+    <loc>/es/publication-type/7/</loc>
+    <lastmod>2021-10-20T17:39:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication-type/7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication-type/7/"
+                />
+  </url><url>
+    <loc>/es/author/maria-teresa-borrero/</loc>
+    <lastmod>2021-10-20T17:39:01+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/maria-teresa-borrero/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/maria-teresa-borrero/"
+                />
+  </url><url>
+    <loc>/es/author/miriam-m.-herraez/</loc>
+    <lastmod>2021-10-20T17:39:01+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/miriam-m.-herraez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/miriam-m.-herraez/"
+                />
+  </url><url>
+    <loc>/es/publication/gonzalez-illanes-pseudomorphic-2017/</loc>
+    <lastmod>2021-10-20T17:39:01+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/gonzalez-illanes-pseudomorphic-2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/gonzalez-illanes-pseudomorphic-2017/"
+                />
+  </url><url>
+    <loc>/es/publication/pimentel-synthesis-2017/</loc>
+    <lastmod>2021-10-20T17:39:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/pimentel-synthesis-2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/pimentel-synthesis-2017/"
+                />
+  </url><url>
+    <loc>/es/author/tamara-gonzalez-illanes/</loc>
+    <lastmod>2021-10-20T17:39:01+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/tamara-gonzalez-illanes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/tamara-gonzalez-illanes/"
+                />
+  </url><url>
+    <loc>/es/publication-type/6/</loc>
+    <lastmod>2021-10-20T17:39:09+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication-type/6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication-type/6/"
+                />
+  </url><url>
+    <loc>/es/publication/pina-formation-2017/</loc>
+    <lastmod>2021-10-20T17:39:09+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/pina-formation-2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/pina-formation-2017/"
+                />
+  </url><url>
+    <loc>/es/publication/vilhena-atomic-scale-2016/</loc>
+    <lastmod>2021-10-20T17:38:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/vilhena-atomic-scale-2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/vilhena-atomic-scale-2016/"
+                />
+  </url><url>
+    <loc>/es/author/feng-luo/</loc>
+    <lastmod>2021-10-20T17:39:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/feng-luo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/feng-luo/"
+                />
+  </url><url>
+    <loc>/es/author/j.-g.-vilhena/</loc>
+    <lastmod>2021-10-20T17:38:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/j.-g.-vilhena/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/j.-g.-vilhena/"
+                />
+  </url><url>
+    <loc>/es/author/pedro-a.-serena/</loc>
+    <lastmod>2021-10-20T17:38:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/pedro-a.-serena/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/pedro-a.-serena/"
+                />
+  </url><url>
+    <loc>/es/publication/pimentel-reaction-2016/</loc>
+    <lastmod>2021-10-20T17:39:01+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/pimentel-reaction-2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/pimentel-reaction-2016/"
+                />
+  </url><url>
+    <loc>/es/author/ruben-perez/</loc>
+    <lastmod>2021-10-20T17:38:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/ruben-perez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/ruben-perez/"
+                />
+  </url><url>
+    <loc>/es/publication/pimentel-sub-nanometer-2016/</loc>
+    <lastmod>2021-10-20T17:39:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/pimentel-sub-nanometer-2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/pimentel-sub-nanometer-2016/"
+                />
+  </url><url>
+    <loc>/es/publication/pimentel-high-resolution-2015/</loc>
+    <lastmod>2021-10-20T17:39:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/pimentel-high-resolution-2015/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/pimentel-high-resolution-2015/"
+                />
+  </url><url>
+    <loc>/es/publication/gnecco-friction-2015/</loc>
     <lastmod>2021-10-20T17:39:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/gnecco-channeling-2014/"
+                href="/publication/gnecco-friction-2015/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/gnecco-channeling-2014/"
+                href="/es/publication/gnecco-friction-2015/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/diego-repetto/</loc>
+    <loc>/es/publication/gnecco-channeling-2014/</loc>
     <lastmod>2021-10-20T17:39:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/diego-repetto/"
+                href="/publication/gnecco-channeling-2014/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/diego-repetto/"
+                href="/es/publication/gnecco-channeling-2014/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/francesco-buatier-de-mongeot/</loc>
+    <loc>/es/author/diego-repetto/</loc>
     <lastmod>2021-10-20T17:39:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/francesco-buatier-de-mongeot/"
+                href="/author/diego-repetto/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/francesco-buatier-de-mongeot/"
+                href="/es/author/diego-repetto/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/karine-mougin/</loc>
+    <loc>/es/author/francesco-buatier-de-mongeot/</loc>
     <lastmod>2021-10-20T17:39:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/karine-mougin/"
+                href="/author/francesco-buatier-de-mongeot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/karine-mougin/"
+                href="/es/author/francesco-buatier-de-mongeot/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/maria-caterina-giordano/</loc>
+    <loc>/es/author/maria-caterina-giordano/</loc>
     <lastmod>2021-10-20T17:39:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/maria-caterina-giordano/"
+                href="/author/maria-caterina-giordano/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/maria-caterina-giordano/"
+                href="/es/author/maria-caterina-giordano/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/pawel-nita/</loc>
+    <loc>/es/author/pawel-nita/</loc>
     <lastmod>2021-10-20T17:39:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/pawel-nita/"
+                href="/author/pawel-nita/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/pawel-nita/"
+                href="/es/author/pawel-nita/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/begona-milian-medina/</loc>
+    <loc>/es/publication/pimentel-formation-2014/</loc>
+    <lastmod>2021-10-20T17:39:03+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/pimentel-formation-2014/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/pimentel-formation-2014/"
+                />
+  </url><url>
+    <loc>/es/author/begona-milian-medina/</loc>
     <lastmod>2021-10-20T17:39:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/begona-milian-medina/"
+                href="/author/begona-milian-medina/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/begona-milian-medina/"
+                href="/es/author/begona-milian-medina/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/nita-molecular-2014/</loc>
+    <loc>/es/publication/nita-molecular-2014/</loc>
     <lastmod>2021-10-20T17:39:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/nita-molecular-2014/"
+                href="/publication/nita-molecular-2014/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/nita-molecular-2014/"
+                href="/es/publication/nita-molecular-2014/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/benages-vilau-epitaxial-2013/</loc>
+    <loc>/es/publication/benages-vilau-epitaxial-2013/</loc>
     <lastmod>2021-10-20T17:39:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/"
+                href="/publication/benages-vilau-epitaxial-2013/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/benages-vilau-epitaxial-2013/"
+                href="/es/publication/benages-vilau-epitaxial-2013/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/miquel-angel-cuevas-diarte/</loc>
+    <loc>/es/author/miquel-angel-cuevas-diarte/</loc>
     <lastmod>2021-10-20T17:39:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/miquel-angel-cuevas-diarte/"
+                href="/author/miquel-angel-cuevas-diarte/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/miquel-angel-cuevas-diarte/"
+                href="/es/author/miquel-angel-cuevas-diarte/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/raul-benages-vilau/</loc>
+    <loc>/es/author/raul-benages-vilau/</loc>
     <lastmod>2021-10-20T17:39:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/raul-benages-vilau/"
+                href="/author/raul-benages-vilau/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/raul-benages-vilau/"
+                href="/es/author/raul-benages-vilau/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/teresa-calvet/</loc>
+    <loc>/es/author/teresa-calvet/</loc>
     <lastmod>2021-10-20T17:39:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/teresa-calvet/"
+                href="/author/teresa-calvet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/teresa-calvet/"
+                href="/es/author/teresa-calvet/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/publication/pimentel-epitaxial-2013/</loc>
+    <loc>/es/publication/pimentel-epitaxial-2013/</loc>
     <lastmod>2021-10-20T17:39:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2013/"
+                href="/publication/pimentel-epitaxial-2013/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/publication/pimentel-epitaxial-2013/"
+                href="/es/publication/pimentel-epitaxial-2013/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/admin/</loc>
+    <loc>/es/author/alberto-rodriguez/</loc>
+    <lastmod>2021-10-20T17:39:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/admin/"
+                href="/author/alberto-rodriguez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/admin/"
+                href="/es/author/alberto-rodriguez/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/author/carlos-pimentel/</loc>
+    <loc>/es/author/carlos-fernandez/</loc>
+    <lastmod>2021-10-20T17:39:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/author/carlos-pimentel/"
+                href="/author/carlos-fernandez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/author/carlos-pimentel/"
+                href="/es/author/carlos-fernandez/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/post/</loc>
+    <loc>/es/author/francisco-anguita/</loc>
+    <lastmod>2021-10-20T17:39:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/post/"
+                href="/author/francisco-anguita/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/post/"
+                href="/es/author/francisco-anguita/"
                 />
   </url><url>
-    <loc>https://cpimentelguerra.github.io/es/event/</loc>
+    <loc>/es/author/ignacio-romeo/</loc>
+    <lastmod>2021-10-20T17:39:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cpimentelguerra.github.io/event/"
+                href="/author/ignacio-romeo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cpimentelguerra.github.io/es/event/"
+                href="/es/author/ignacio-romeo/"
+                />
+  </url><url>
+    <loc>/es/author/javier-ruiz/</loc>
+    <lastmod>2021-10-20T17:39:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/javier-ruiz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/javier-ruiz/"
+                />
+  </url><url>
+    <loc>/es/publication/fernandez-structural-2010/</loc>
+    <lastmod>2021-10-20T17:39:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/fernandez-structural-2010/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/fernandez-structural-2010/"
+                />
+  </url><url>
+    <loc>/es/author/alvaro-i.-martin-herrero/</loc>
+    <lastmod>2021-10-20T17:39:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/alvaro-i.-martin-herrero/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/alvaro-i.-martin-herrero/"
+                />
+  </url><url>
+    <loc>/es/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/admin/"
+                />
+  </url><url>
+    <loc>/es/author/carlos-pimentel/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/carlos-pimentel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/carlos-pimentel/"
                 />
   </url>
 </urlset>

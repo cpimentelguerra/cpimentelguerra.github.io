@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geological record | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/tag/geological-record/</link>
-      <atom:link href="https://cpimentelguerra.github.io/tag/geological-record/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/geological-record/</link>
+      <atom:link href="/tag/geological-record/index.xml" rel="self" type="application/rss+xml" />
     <description>Geological record</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Geological record</title>
-      <link>https://cpimentelguerra.github.io/tag/geological-record/</link>
+      <link>/tag/geological-record/</link>
     </image>
     
     <item>
       <title>Dolomite cation order in the geological record</title>
-      <link>https://cpimentelguerra.github.io/publication/pina-dolomite-2020/</link>
+      <link>/publication/pina-dolomite-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pina-dolomite-2020/</guid>
+      <guid>/publication/pina-dolomite-2020/</guid>
       <description></description>
     </item>
     

@@ -2,45 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Ignacio Sainz-Díaz | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/author/c.-ignacio-sainz-diaz/</link>
-      <atom:link href="https://cpimentelguerra.github.io/author/c.-ignacio-sainz-diaz/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/c.-ignacio-sainz-diaz/</link>
+      <atom:link href="/author/c.-ignacio-sainz-diaz/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Ignacio Sainz-Díaz</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Oct 2021 16:38:11 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>C. Ignacio Sainz-Díaz</title>
-      <link>https://cpimentelguerra.github.io/author/c.-ignacio-sainz-diaz/</link>
+      <link>/author/c.-ignacio-sainz-diaz/</link>
     </image>
     
     <item>
       <title>Formation and structures of horizontal submarine fluid conduit and venting systems associated with marine seeps</title>
-      <link>https://cpimentelguerra.github.io/es/publication/rocha-formation-nodate/</link>
+      <link>/publication/rocha-formation-nodate/</link>
       <pubDate>Sat, 23 Oct 2021 16:38:11 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/rocha-formation-nodate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Formation and structures of horizontal submarine fluid conduit and venting systems associated with marine seeps</title>
-      <link>https://cpimentelguerra.github.io/publication/rocha-formation-nodate/</link>
-      <pubDate>Sat, 23 Oct 2021 16:38:11 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/rocha-formation-nodate/</guid>
+      <guid>/publication/rocha-formation-nodate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DFT Simulations of the Structure and Cation Order of Norsethite, BaMg(CO3)2</title>
-      <link>https://cpimentelguerra.github.io/es/publication/pimentel-dft-2021/</link>
+      <link>/publication/pimentel-dft-2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/es/publication/pimentel-dft-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DFT Simulations of the Structure and Cation Order of Norsethite, BaMg(CO3)2</title>
-      <link>https://cpimentelguerra.github.io/publication/pimentel-dft-2021/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pimentel-dft-2021/</guid>
+      <guid>/publication/pimentel-dft-2021/</guid>
       <description></description>
     </item>
     

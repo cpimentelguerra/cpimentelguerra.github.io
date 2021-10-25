@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mineralogy | Carlos Pimentel</title>
-    <link>https://cpimentelguerra.github.io/tag/mineralogy/</link>
-      <atom:link href="https://cpimentelguerra.github.io/tag/mineralogy/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/mineralogy/</link>
+      <atom:link href="/tag/mineralogy/index.xml" rel="self" type="application/rss+xml" />
     <description>Mineralogy</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Oct 2021 19:31:19 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Mineralogy</title>
-      <link>https://cpimentelguerra.github.io/tag/mineralogy/</link>
+      <link>/tag/mineralogy/</link>
     </image>
     
     <item>
       <title>MSCA project</title>
-      <link>https://cpimentelguerra.github.io/project/msca-project/</link>
+      <link>/project/msca-project/</link>
       <pubDate>Wed, 20 Oct 2021 16:57:19 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/project/msca-project/</guid>
+      <guid>/project/msca-project/</guid>
       <description>&lt;p&gt;This project will start next year. Stay tuned for further updates.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cation ordering</title>
-      <link>https://cpimentelguerra.github.io/project/cation-ordering/</link>
+      <link>/project/cation-ordering/</link>
       <pubDate>Sat, 23 Oct 2021 19:31:19 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/project/cation-ordering/</guid>
+      <guid>/project/cation-ordering/</guid>
       <description>&lt;p&gt;Some minerals are composed by two or more cations that can be arranged in the crystal structure in different ways, e.g. dolomite, norsethite and LDH. In many of these cases, it is interesting to know how these cations are arranged, as this information allows, for example, to understand their formation process or how it affects their properties.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>3D crystal models and 3D structures</title>
-      <link>https://cpimentelguerra.github.io/project/crystal-model/</link>
+      <link>/project/crystal-model/</link>
       <pubDate>Sat, 23 Oct 2021 18:57:19 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/project/crystal-model/</guid>
+      <guid>/project/crystal-model/</guid>
       <description>&lt;p&gt;This project aims to design 3D models of crystal models and mineral structures that can be visualised on the computer or printed with a 3D printer. All these models can be consulted in the following links:
 &lt;br&gt;
 &lt;br&gt;
@@ -53,51 +53,83 @@ This project has been made possible thanks to the funding received through the t
     
     <item>
       <title>Non-existent minerals</title>
-      <link>https://cpimentelguerra.github.io/project/non-existent-minerals/</link>
+      <link>/project/non-existent-minerals/</link>
       <pubDate>Sat, 23 Oct 2021 19:11:19 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/project/non-existent-minerals/</guid>
+      <guid>/project/non-existent-minerals/</guid>
       <description>&lt;p&gt;This project, in collaboration with Carlos M. Pina, focuses on disseminating different scientific concepts, with special emphasis on mineralogy, based on the minerals that appear in science fiction and fantasy films, books, comics and video games.&lt;/p&gt;
-&lt;p&gt;Thanks to this project, we have published two books, held several exhibitions and given numerous talks. For a comprehensive list of these activities see &lt;a href=&#34;https://cpimentelguerra.github.io/post/dissemination&#34;&gt;dissemination&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks to this project, we have published two books, held several exhibitions and given numerous talks. For a comprehensive list of these activities see &lt;a href=&#34;../../post/dissemination&#34;&gt;dissemination&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Formation and structures of horizontal submarine fluid conduit and venting systems associated with marine seeps</title>
-      <link>https://cpimentelguerra.github.io/publication/rocha-formation-nodate/</link>
+      <link>/publication/rocha-formation-nodate/</link>
       <pubDate>Sat, 23 Oct 2021 16:38:11 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/rocha-formation-nodate/</guid>
+      <guid>/publication/rocha-formation-nodate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dolomite cation order in the geological record</title>
-      <link>https://cpimentelguerra.github.io/publication/pina-dolomite-2020/</link>
+      <link>/publication/pina-dolomite-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pina-dolomite-2020/</guid>
+      <guid>/publication/pina-dolomite-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First occurrence of the rare mineral slavikite in Spain</title>
+      <link>/publication/crespo-lopez-first-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/crespo-lopez-first-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pseudomorphic Replacement of Mg–Ca Carbonates after Gypsum and Anhydrite</title>
-      <link>https://cpimentelguerra.github.io/publication/gonzalez-illanes-pseudomorphic-2017/</link>
+      <link>/publication/gonzalez-illanes-pseudomorphic-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/gonzalez-illanes-pseudomorphic-2017/</guid>
+      <guid>/publication/gonzalez-illanes-pseudomorphic-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and reactivity of minerals of dolomite group and analogue phases (Síntesis y reactividad de minerales del grupo de la dolomita y fases análogas)</title>
+      <link>/publication/pimentel-synthesis-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pimentel-synthesis-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reaction pathways towards the formation of dolomite-analogues at ambient conditions</title>
+      <link>/publication/pimentel-reaction-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pimentel-reaction-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The formation of the dolomite-analogue norsethite: Reaction pathway and cation ordering</title>
+      <link>/publication/pimentel-formation-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pimentel-formation-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epitaxial Crystal Growth of Nitratine on Calcite (10.4) Cleavage Faces at the Nanoscale</title>
-      <link>https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/</link>
+      <link>/publication/benages-vilau-epitaxial-2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/benages-vilau-epitaxial-2013/</guid>
+      <guid>/publication/benages-vilau-epitaxial-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epitaxial Growth of Calcite Crystals on Dolomite and Kutnahorite (104) Surfaces</title>
-      <link>https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2013/</link>
+      <link>/publication/pimentel-epitaxial-2013/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.github.io/publication/pimentel-epitaxial-2013/</guid>
+      <guid>/publication/pimentel-epitaxial-2013/</guid>
       <description></description>
     </item>
     
