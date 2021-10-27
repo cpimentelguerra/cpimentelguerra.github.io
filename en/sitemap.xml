@@ -910,6 +910,19 @@
     <loc>/tag/spherocobaltite/</loc>
     <lastmod>2021-10-20T17:39:00+02:00</lastmod>
   </url><url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/privacy/"
+                />
+  </url><url>
     <loc>/publication/crespo-lopez-first-2017/</loc>
     <lastmod>2021-10-20T17:38:59+02:00</lastmod>
     <xhtml:link
