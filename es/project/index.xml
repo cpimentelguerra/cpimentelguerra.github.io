@@ -5,7 +5,7 @@
     <link>/es/project/</link>
       <atom:link href="/es/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Sat, 23 Oct 2021 19:31:19 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Thu, 28 Oct 2021 19:11:19 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -26,7 +26,552 @@
       <link>/es/project/cation-ordering/</link>
       <pubDate>Sat, 23 Oct 2021 19:31:19 +0000</pubDate>
       <guid>/es/project/cation-ordering/</guid>
-      <description>&lt;p&gt;Algunos minerales están compuestos por dos o más cationes que pueden disponerse en su estructura cristalina de diferentes maneras, por ejemplo, en la dolomita, la norsethita y los LDH. En muchos de estos casos, es interesante conocer cómo se disponen estos cationes, ya que esta información permite, por ejemplo, entender su proceso de formación o cómo afecta a sus propiedades.&lt;/p&gt;
+      <description>&lt;p&gt;Algunos minerales están compuestos por dos o más cationes que pueden disponerse en su estructura cristalina de diferentes maneras, por ejemplo, en la dolomita, la norsethita y los LDH. En muchos de estos casos, es interesante conocer cómo se disponen estos cationes, ya que esta información permite, por ejemplo, entender su proceso de formación o cómo afecta a sus propiedades
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+References:
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;../../es/author/carlos-pimentel/&#34;&gt;Carlos Pimentel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../../es/author/carlos-m.-pina/&#34;&gt;Carlos M. Pina&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../../es/author/c.-ignacio-sainz-diaz/&#34;&gt;C. Ignacio Sainz-Díaz&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2021).
+  &lt;a href=&#34;../../es/publication/pimentel-dft-2021/&#34;&gt;DFT Simulations of the Structure and Cation Order of Norsethite, BaMg(CO3)2&lt;/a&gt;.
+  &lt;em&gt;ACS Earth and Space Chemistry&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1021/acsearthspacechem.1c00058&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/es/publication/pimentel-dft-2021/cite.bib&#34;&gt;
+  Citar
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1021/acsearthspacechem.1c00058&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;../../es/author/carlos-pimentel/&#34;&gt;Carlos Pimentel&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2017).
+  &lt;a href=&#34;../../es/publication/pimentel-synthesis-2017/&#34;&gt;Synthesis and reactivity of minerals of dolomite group and analogue phases (Síntesis y reactividad de minerales del grupo de la dolomita y fases análogas)&lt;/a&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://eprints.ucm.es/id/eprint/45758/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/es/publication/pimentel-synthesis-2017/cite.bib&#34;&gt;
+  Citar
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;../../es/author/carlos-pimentel/&#34;&gt;Carlos Pimentel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../../es/author/carlos-m.-pina/&#34;&gt;Carlos M. Pina&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2016).
+  &lt;a href=&#34;../../es/publication/pimentel-reaction-2016/&#34;&gt;Reaction pathways towards the formation of dolomite-analogues at ambient conditions&lt;/a&gt;.
+  &lt;em&gt;Geochimica et Cosmochimica Acta&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://linkinghub.elsevier.com/retrieve/pii/S0016703716300175&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/es/publication/pimentel-reaction-2016/cite.bib&#34;&gt;
+  Citar
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.gca.2015.12.040&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;../../es/author/carlos-pimentel/&#34;&gt;Carlos Pimentel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../../es/author/carlos-m.-pina/&#34;&gt;Carlos M. Pina&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2014).
+  &lt;a href=&#34;../../es/publication/pimentel-formation-2014/&#34;&gt;The formation of the dolomite-analogue norsethite: Reaction pathway and cation ordering&lt;/a&gt;.
+  &lt;em&gt;Geochimica et Cosmochimica Acta&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://linkinghub.elsevier.com/retrieve/pii/S0016703714004839&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/es/publication/pimentel-formation-2014/cite.bib&#34;&gt;
+  Citar
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.gca.2014.07.021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;../../es/author/carlos-m.-pina/&#34;&gt;Carlos M. Pina&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../../es/author/carlos-pimentel/&#34;&gt;Carlos Pimentel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../../es/author/angel-crespo/&#34;&gt;Ángel Crespo&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2020).
+  &lt;a href=&#34;../../es/publication/pina-dolomite-2020/&#34;&gt;Dolomite cation order in the geological record&lt;/a&gt;.
+  &lt;em&gt;Chemical Geology&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.sciencedirect.com/science/article/pii/S0009254120302060&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/es/publication/pina-dolomite-2020/cite.bib&#34;&gt;
+  Citar
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.chemgeo.2020.119667&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;../../es/author/carlos-m.-pina/&#34;&gt;Carlos M. Pina&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../../es/author/carlos-pimentel/&#34;&gt;Carlos Pimentel&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2017).
+  &lt;a href=&#34;../../es/publication/pina-formation-2017/&#34;&gt;Formation of dolomite analogues at ambient conditions&lt;/a&gt;.
+  &lt;em&gt;Dolomite: Formation, characteristics and environmental impact&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/es/publication/pina-formation-2017/cite.bib&#34;&gt;
+  Citar
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;../../es/author/yuliya-zvir/&#34;&gt;Yuliya Zvir&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../../es/author/carlos-pimentel/&#34;&gt;Carlos Pimentel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../../es/author/carlos-m.-pina/&#34;&gt;Carlos M. Pina&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2021).
+  &lt;a href=&#34;../../es/publication/zvir-effect-2021/&#34;&gt;The Effect of Stoichiometry, Mg-Ca Distribution, and Iron, Manganese, and Zinc Impurities on the Dolomite Order Degree: A Theoretical Study&lt;/a&gt;.
+  &lt;em&gt;Minerals&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.mdpi.com/2075-163X/11/7/702&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/es/publication/zvir-effect-2021/cite.bib&#34;&gt;
+  Citar
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3390/min11070702&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -58,6 +603,100 @@ Este proyecto es posible gracias a la financiación recibida mediante Proyectos 
       <guid>/es/project/non-existent-minerals/</guid>
       <description>&lt;p&gt;Este proyecto, en colaboración con Carlos M. Pina, se centra en la divulgación de diferentes conceptos científicos, con especial énfasis en la mineralogía, a partir de los minerales que aparecen en películas, libros, cómics y videojuegos de ciencia ficción y fantasía.&lt;/p&gt;
 &lt;p&gt;Gracias a este proyecto, hemos publicado dos libros, realizado varias exposiciones e impartido numerosas charlas. Para ver una lista completa de estas actividades, consulte &lt;a href=&#34;../../es/post/dissemination&#34;&gt;divulgación&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Minerales para fertilización foliar</title>
+      <link>/es/project/foliar-mineral/</link>
+      <pubDate>Thu, 28 Oct 2021 19:11:19 +0000</pubDate>
+      <guid>/es/project/foliar-mineral/</guid>
+      <description>&lt;p&gt;En este proyecto dirigido por la Dra. Victoria Fernández, investigamos la utilidad de diversos minerales en suspensiones acuosas para ser utilizados como fertilizantes foliares. Para ello estudiamos la cinética de disolución de los minerales y su comportamiento en equilibrio. Además, estudiamos otros compuestos para el desarrollo de formulaciones foliares.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+Referencias:
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;../../es/author/victoria-fernandez/&#34;&gt;Victoria Fernández&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../../es/author/carlos-pimentel/&#34;&gt;Carlos Pimentel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../../es/author/hector-a.-bahamonde/&#34;&gt;Héctor A. Bahamonde&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2020).
+  &lt;a href=&#34;../../es/publication/fernandez-salt-2020/&#34;&gt;Salt hydration and drop drying of two model calcium salts: Implications for foliar nutrient absorption and deposition&lt;/a&gt;.
+  &lt;em&gt;Journal of Plant Nutrition and Soil Science&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://doi.wiley.com/10.1002/jpln.202000168&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/es/publication/fernandez-salt-2020/cite.bib&#34;&gt;
+  Citar
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1002/jpln.202000168&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/p&gt;
 </description>
     </item>
     

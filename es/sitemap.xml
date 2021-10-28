@@ -93,6 +93,19 @@
                 href="/es/courses/example/stats/"
                 />
   </url><url>
+    <loc>/es/project/foliar-mineral/</loc>
+    <lastmod>2021-10-28T19:11:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/foliar-mineral/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/project/foliar-mineral/"
+                />
+  </url><url>
     <loc>/es/</loc>
     <lastmod>2021-12-15T18:00:00+00:00</lastmod>
     <xhtml:link
@@ -158,6 +171,51 @@
                 href="/es/event/"
                 />
   </url><url>
+    <loc>/es/categories/</loc>
+    <lastmod>2021-10-28T19:11:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+  </url><url>
+    <loc>/es/tag/otros/</loc>
+    <lastmod>2021-10-28T19:11:19+00:00</lastmod>
+  </url><url>
+    <loc>/es/category/otros/</loc>
+    <lastmod>2021-10-28T19:11:19+00:00</lastmod>
+  </url><url>
+    <loc>/es/project/</loc>
+    <lastmod>2021-10-28T19:11:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/project/"
+                />
+  </url><url>
+    <loc>/es/tags/</loc>
+    <lastmod>2021-10-28T19:11:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+  </url><url>
     <loc>/es/privacy/</loc>
     <lastmod>2021-10-27T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -171,19 +229,6 @@
                 href="/es/privacy/"
                 />
   </url><url>
-    <loc>/es/categories/</loc>
-    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
-                />
-  </url><url>
     <loc>/es/tag/cristalografia/</loc>
     <lastmod>2021-10-23T19:31:19+00:00</lastmod>
   </url><url>
@@ -195,32 +240,6 @@
   </url><url>
     <loc>/es/category/mineralogia/</loc>
     <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-  </url><url>
-    <loc>/es/project/</loc>
-    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/project/"
-                />
-  </url><url>
-    <loc>/es/tags/</loc>
-    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
-                />
   </url><url>
     <loc>/es/tag/divulgacion/</loc>
     <lastmod>2021-10-23T19:11:19+00:00</lastmod>
