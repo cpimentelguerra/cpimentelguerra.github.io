@@ -5,7 +5,7 @@
     <link>/es/tag/divulgacion/</link>
       <atom:link href="/es/tag/divulgacion/index.xml" rel="self" type="application/rss+xml" />
     <description>Divulgación</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Sat, 23 Oct 2021 18:57:19 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Sat, 23 Oct 2021 19:11:19 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Divulgación</title>
@@ -30,6 +30,16 @@
 &lt;br&gt;
 &lt;br&gt;
 Este proyecto es posible gracias a la financiación recibida mediante Proyectos de Innovación Docente de la Universidad Complutense de Madrid (IP: Carlos M. Pina).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Minerales inexistentes</title>
+      <link>/es/project/non-existent-minerals/</link>
+      <pubDate>Sat, 23 Oct 2021 19:11:19 +0000</pubDate>
+      <guid>/es/project/non-existent-minerals/</guid>
+      <description>&lt;p&gt;Este proyecto, en colaboración con Carlos M. Pina, se centra en la divulgación de diferentes conceptos científicos, con especial énfasis en la mineralogía, a partir de los minerales que aparecen en películas, libros, cómics y videojuegos de ciencia ficción y fantasía.&lt;/p&gt;
+&lt;p&gt;Gracias a este proyecto, hemos publicado dos libros, realizado varias exposiciones e impartido numerosas charlas. Para ver una lista completa de estas actividades, consulte &lt;a href=&#34;../../../es/post/dissemination&#34;&gt;divulgación&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

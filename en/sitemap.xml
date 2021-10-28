@@ -93,6 +93,9 @@
                 href="/courses/example/stats/"
                 />
   </url><url>
+    <loc>/project/foliar-mineral/</loc>
+    <lastmod>2021-10-28T19:11:19+00:00</lastmod>
+  </url><url>
     <loc>/</loc>
     <lastmod>2021-12-15T18:00:00+00:00</lastmod>
     <xhtml:link
@@ -135,17 +138,17 @@
     <loc>/tag/dissemination/</loc>
     <lastmod>2021-12-15T18:00:00+00:00</lastmod>
   </url><url>
-    <loc>/inventa2021-award/</loc>
+    <loc>/talk/inventa2021-award/</loc>
     <lastmod>2021-12-15T18:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/inventa2021-award/"
+                href="/es/talk/inventa2021-award/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/inventa2021-award/"
+                href="/talk/inventa2021-award/"
                 />
   </url><url>
     <loc>/tag/scientific-dissemination/</loc>
@@ -177,6 +180,38 @@
                 href="/event/"
                 />
   </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2021-10-28T19:11:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+  </url><url>
+    <loc>/tag/other/</loc>
+    <lastmod>2021-10-28T19:11:19+00:00</lastmod>
+  </url><url>
+    <loc>/category/other/</loc>
+    <lastmod>2021-10-28T19:11:19+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2021-10-28T19:11:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/"
+                />
+  </url><url>
     <loc>/privacy/</loc>
     <lastmod>2021-10-27T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -190,19 +225,6 @@
                 href="/privacy/"
                 />
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-  </url><url>
     <loc>/tag/crystallography/</loc>
     <lastmod>2021-10-23T19:31:19+00:00</lastmod>
   </url><url>
@@ -214,19 +236,6 @@
   </url><url>
     <loc>/category/mineralogy/</loc>
     <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/"
-                />
   </url><url>
     <loc>/category/dissemination/</loc>
     <lastmod>2021-10-23T19:11:19+00:00</lastmod>
@@ -408,17 +417,17 @@
                 href="/post/dissemination/"
                 />
   </url><url>
-    <loc>/inventa2021/</loc>
+    <loc>/talk/inventa2021/</loc>
     <lastmod>2021-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/inventa2021/"
+                href="/es/talk/inventa2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/inventa2021/"
+                href="/talk/inventa2021/"
                 />
   </url><url>
     <loc>/tag/carbonate-minerals/</loc>

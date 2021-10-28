@@ -132,17 +132,17 @@
                 href="/es/author/carlos-pimentel/"
                 />
   </url><url>
-    <loc>/es/inventa2021-award/</loc>
+    <loc>/es/talk/inventa2021-award/</loc>
     <lastmod>2021-12-15T18:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/inventa2021-award/"
+                href="/talk/inventa2021-award/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/inventa2021-award/"
+                href="/es/talk/inventa2021-award/"
                 />
   </url><url>
     <loc>/es/event/</loc>
@@ -222,6 +222,9 @@
                 href="/es/tags/"
                 />
   </url><url>
+    <loc>/es/tag/divulgacion/</loc>
+    <lastmod>2021-10-23T19:11:19+00:00</lastmod>
+  </url><url>
     <loc>/es/category/divulgacion/</loc>
     <lastmod>2021-10-23T19:11:19+00:00</lastmod>
   </url><url>
@@ -229,9 +232,6 @@
     <lastmod>2021-10-23T18:57:19+00:00</lastmod>
   </url><url>
     <loc>/es/category/didactica/</loc>
-    <lastmod>2021-10-23T18:57:19+00:00</lastmod>
-  </url><url>
-    <loc>/es/tag/divulgacion/</loc>
     <lastmod>2021-10-23T18:57:19+00:00</lastmod>
   </url><url>
     <loc>/es/publication-type/2/</loc>
@@ -390,17 +390,17 @@
                 href="/es/post/"
                 />
   </url><url>
-    <loc>/es/inventa2021/</loc>
+    <loc>/es/talk/inventa2021/</loc>
     <lastmod>2021-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/inventa2021/"
+                href="/talk/inventa2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/inventa2021/"
+                href="/es/talk/inventa2021/"
                 />
   </url><url>
     <loc>/es/author/carlos-m.-pina/</loc>

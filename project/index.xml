@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Oct 2021 19:31:19 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Oct 2021 19:11:19 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -59,6 +59,14 @@ This project has been made possible thanks to the funding received through the t
       <description>&lt;p&gt;This project, in collaboration with Carlos M. Pina, focuses on disseminating different scientific concepts, with special emphasis on mineralogy, based on the minerals that appear in science fiction and fantasy films, books, comics and video games.&lt;/p&gt;
 &lt;p&gt;Thanks to this project, we have published two books, held several exhibitions and given numerous talks. For a comprehensive list of these activities see &lt;a href=&#34;../post/dissemination&#34;&gt;dissemination&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Minerals for foliar fertilization</title>
+      <link>/project/foliar-mineral/</link>
+      <pubDate>Thu, 28 Oct 2021 19:11:19 +0000</pubDate>
+      <guid>/project/foliar-mineral/</guid>
+      <description></description>
     </item>
     
   </channel>
