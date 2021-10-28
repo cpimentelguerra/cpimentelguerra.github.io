@@ -41,6 +41,19 @@
                 href="/es/courses/example/python/"
                 />
   </url><url>
+    <loc>/es/project/mineral-surfaces/</loc>
+    <lastmod>2021-10-23T19:31:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/mineral-surfaces/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/project/mineral-surfaces/"
+                />
+  </url><url>
     <loc>/es/project/crystal-model/</loc>
     <lastmod>2021-10-23T18:57:19+00:00</lastmod>
     <xhtml:link
@@ -254,7 +267,7 @@
     <lastmod>2021-10-23T18:57:19+00:00</lastmod>
   </url><url>
     <loc>/es/publication-type/2/</loc>
-    <lastmod>2021-10-23T18:38:12+02:00</lastmod>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -345,7 +358,7 @@
                 />
   </url><url>
     <loc>/es/publication/</loc>
-    <lastmod>2021-10-23T18:38:12+02:00</lastmod>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -358,7 +371,7 @@
                 />
   </url><url>
     <loc>/es/publication_types/</loc>
-    <lastmod>2021-10-23T18:38:12+02:00</lastmod>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -422,8 +435,86 @@
                 href="/es/talk/inventa2021/"
                 />
   </url><url>
+    <loc>/es/author/enrique-rodriguez-canas/</loc>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/enrique-rodriguez-canas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/enrique-rodriguez-canas/"
+                />
+  </url><url>
+    <loc>/es/author/jaime-colchero/</loc>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/jaime-colchero/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/jaime-colchero/"
+                />
+  </url><url>
+    <loc>/es/author/jose-abad/</loc>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/jose-abad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/jose-abad/"
+                />
+  </url><url>
+    <loc>/es/author/lisa-almonte/</loc>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/lisa-almonte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/lisa-almonte/"
+                />
+  </url><url>
+    <loc>/es/publication/almonte-rose-2021/</loc>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/almonte-rose-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/almonte-rose-2021/"
+                />
+  </url><url>
+    <loc>/es/author/victoria-fernandez/</loc>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/victoria-fernandez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/victoria-fernandez/"
+                />
+  </url><url>
     <loc>/es/author/carlos-m.-pina/</loc>
-    <lastmod>2021-10-20T17:39:09+02:00</lastmod>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -602,19 +693,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/publication/fernandez-salt-2020/"
-                />
-  </url><url>
-    <loc>/es/author/victoria-fernandez/</loc>
-    <lastmod>2021-10-20T17:38:58+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/victoria-fernandez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/author/victoria-fernandez/"
                 />
   </url><url>
     <loc>/es/author/angel-crespo/</loc>
@@ -1382,6 +1460,71 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/publication/pimentel-epitaxial-2013/"
+                />
+  </url><url>
+    <loc>/es/tag/atomic-force-microscope/</loc>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tag/atomic-force-microscope/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tag/atomic-force-microscope/"
+                />
+  </url><url>
+    <loc>/es/tag/dolomite/</loc>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tag/dolomite/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tag/dolomite/"
+                />
+  </url><url>
+    <loc>/es/tag/solidliquid-interfaces/</loc>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tag/solidliquid-interfaces/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tag/solidliquid-interfaces/"
+                />
+  </url><url>
+    <loc>/es/publication/pina-high-2010/</loc>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/pina-high-2010/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/pina-high-2010/"
+                />
+  </url><url>
+    <loc>/es/author/marta-garcia-merino/</loc>
+    <lastmod>2021-10-28T18:09:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/marta-garcia-merino/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/author/marta-garcia-merino/"
                 />
   </url><url>
     <loc>/es/author/alberto-rodriguez/</loc>
