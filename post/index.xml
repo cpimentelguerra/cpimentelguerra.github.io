@@ -5,12 +5,61 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Useful links</title>
+      <link>/post/useful-links/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/post/useful-links/</guid>
+      <description>&lt;p&gt;In this section I have compiled the software, websites and other resources that I use on a daily basis in my research.
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Software&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Reference manager&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zotero.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero&lt;/a&gt;: In my opinion, the best reference manager (available for Windows, Mac and Linux).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.mickstarify.zooforzotero&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoo for Zotero&lt;/a&gt;: An android app for Zotero.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zotero.org/iosbeta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero iOS&lt;/a&gt;: The official Zotero app for iPhone and iPad.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;Aqueous geochemical calculations&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hydrochemistry.eu/downl.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PHREEQC notepad++&lt;/a&gt;: The best version for working with PHREEQC when you have experience.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://water.usgs.gov/water-resources/software/PHREEQC/phreeqci-3.7.1-15876.msi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PHREEQCi&lt;/a&gt;: The best version for getting started with PHREEQC.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;Crystal structure visualization&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jp-minerals.org/vesta/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VESTA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.revistareduca.es/index.php/reduca-geologia/article/view/1959&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VESTA tutorial&lt;/a&gt;: Tutorial for visualising structures using VESTA (in Spanish).
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;X-Ray diffraction analysis&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.profex-xrd.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCNxka_-vfLfqGdRO-cIHA4A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profex youtube channel&lt;/a&gt;: Tutorials, tips and Profex tutorials, tips and update reviews.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Websites&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mineral database&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mindat.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mindat&lt;/a&gt;: The most complete mineral database.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://webmineral.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Webmineral&lt;/a&gt;: Outdated website. However, it has a very interesting tool to search for minerals by diffraction peaks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://rruff.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RRUFF&lt;/a&gt;: Mineral database including Raman spectra and X-ray diffraction.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;Crystal structure database&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://rruff.geo.arizona.edu/AMS/amcsd.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American Mineralogist crystal structure database&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.crystallography.net/cod/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crystallography Open Database&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Scientific dissemination activities</title>

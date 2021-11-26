@@ -238,6 +238,26 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/post/</loc>
+      <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/post/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/post/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/post/useful-links/</loc>
+      <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/categories/</loc>
       <lastmod>2021-10-28T19:11:19+00:00</lastmod>
       <xhtml:link
@@ -500,21 +520,6 @@
     <url>
       <loc>https://cpimentelguerra.com/tag/xrd/</loc>
       <lastmod>2021-10-23T18:38:12+02:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/post/</loc>
-      <lastmod>2021-10-21T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/post/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/post/"
-                  />
     </url>
   
     <url>
