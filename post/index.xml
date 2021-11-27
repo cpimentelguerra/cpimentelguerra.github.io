@@ -20,7 +20,7 @@
       <description>&lt;p&gt;In this section I have compiled the software, websites and other resources that I use on a daily basis in my research.
 &lt;br&gt;
 &lt;br&gt;
-&lt;strong&gt;Software&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;Scientific software&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Reference manager&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.zotero.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero&lt;/a&gt;: In my opinion, the best reference manager (available for Windows, Mac and Linux).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.mickstarify.zooforzotero&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoo for Zotero&lt;/a&gt;: An android app for Zotero.&lt;/p&gt;
@@ -30,7 +30,9 @@
 &lt;br&gt;
 &lt;em&gt;Aqueous geochemical calculations&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.hydrochemistry.eu/downl.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PHREEQC notepad++&lt;/a&gt;: The best version for working with PHREEQC when you have experience.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://water.usgs.gov/water-resources/software/PHREEQC/phreeqci-3.7.1-15876.msi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PHREEQCi&lt;/a&gt;: The best version for getting started with PHREEQC.
+&lt;p&gt;&lt;a href=&#34;https://water.usgs.gov/water-resources/software/PHREEQC/phreeqci-3.7.1-15876.msi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PHREEQCi&lt;/a&gt;: The best version for getting started with PHREEQC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.usgs.gov/software/phreeqc-version-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PHREEQC webpage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://phreeqcusers.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PHREEQC Users forum&lt;/a&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
@@ -57,7 +59,28 @@
 &lt;br&gt;
 &lt;em&gt;Crystal structure database&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://rruff.geo.arizona.edu/AMS/amcsd.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American Mineralogist crystal structure database&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.crystallography.net/cod/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crystallography Open Database&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.crystallography.net/cod/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crystallography Open Database&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;3D crystal models&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://crystalmodels3d.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D crystal models&lt;/a&gt;: 3D crystal morphologies and structures for 3D printing.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.smorf.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smorf crystals&lt;/a&gt;: Crystal morphologies for 3D viewing (including face indexing).
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;LaTeX&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://es.overleaf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt;: Online LaTeX editor.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Other software&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;3D software&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.freecadweb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FreeCAD&lt;/a&gt;: Open Source CAD.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.blender.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blender&lt;/a&gt;: Open Source 3D modeling software.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.3dflow.net/3df-zephyr-photogrammetry-software/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3DF Zephyr&lt;/a&gt;: An user friendly photogrammetry software.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alicevision.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meshroom&lt;/a&gt;: Open Source photogrammetry software.&lt;/p&gt;
 </description>
     </item>
     
