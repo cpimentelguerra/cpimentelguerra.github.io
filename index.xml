@@ -2216,7 +2216,7 @@ References related to this project:
       <link>/post/useful-links/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/post/useful-links/</guid>
-      <description>&lt;p&gt;In this section I have compiled the software, websites and other resources that I use on a daily basis in my research.
+      <description>&lt;p&gt;In this section I have compiled the software, websites and other resources that I use on a daily basis in my research. In addition, I have added also other kind of useful software, websites and apps. This section is continually updated as I find new interesting tools.
 &lt;br&gt;
 &lt;br&gt;
 &lt;strong&gt;Scientific software&lt;/strong&gt;&lt;/p&gt;
@@ -2243,7 +2243,7 @@ References related to this project:
 &lt;br&gt;
 &lt;em&gt;X-Ray diffraction analysis&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.profex-xrd.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profex&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCNxka_-vfLfqGdRO-cIHA4A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profex youtube channel&lt;/a&gt;: Tutorials, tips and Profex tutorials, tips and update reviews.
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCNxka_-vfLfqGdRO-cIHA4A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profex youtube channel&lt;/a&gt;: Profex tutorials, tips and update reviews.
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
@@ -2269,7 +2269,12 @@ References related to this project:
 &lt;br&gt;
 &lt;br&gt;
 &lt;em&gt;LaTeX&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://es.overleaf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt;: Online LaTeX editor.
+&lt;p&gt;&lt;a href=&#34;https://overleaf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt;: Online LaTeX editor.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;Miscellaneous&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.epfl.ch/schools/sb/research/iphys/teaching/crystallography/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EPFL Crsytallography&lt;/a&gt;: EPFL webpage with several java apps for crystallography.
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
@@ -2279,7 +2284,13 @@ References related to this project:
 &lt;p&gt;&lt;a href=&#34;https://www.freecadweb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FreeCAD&lt;/a&gt;: Open Source CAD.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.blender.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blender&lt;/a&gt;: Open Source 3D modeling software.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.3dflow.net/3df-zephyr-photogrammetry-software/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3DF Zephyr&lt;/a&gt;: An user friendly photogrammetry software.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://alicevision.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meshroom&lt;/a&gt;: Open Source photogrammetry software.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alicevision.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meshroom&lt;/a&gt;: Open Source photogrammetry software.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Apps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://xtereo.lionrigstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XteroApp&lt;/a&gt;: App to practice stereographic projection of crystallographic models.&lt;/p&gt;
 </description>
     </item>
     

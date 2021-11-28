@@ -213,6 +213,36 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/es/post/useful-links/</loc>
+      <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/post/useful-links/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/post/useful-links/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/post/</loc>
+      <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/post/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/post/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/es/categories/</loc>
       <lastmod>2021-10-28T19:11:19+00:00</lastmod>
       <xhtml:link
@@ -484,21 +514,6 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/post/dissemination/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/post/</loc>
-      <lastmod>2021-10-21T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/post/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/post/"
                   />
     </url>
   

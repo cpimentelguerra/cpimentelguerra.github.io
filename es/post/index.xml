@@ -5,12 +5,95 @@
     <link>/es/post/</link>
       <atom:link href="/es/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Thu, 21 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Fri, 26 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu89b1626e126321b947b1558354cc8402_5323_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>/es/post/</link>
     </image>
+    
+    <item>
+      <title>Links de interés</title>
+      <link>/es/post/useful-links/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/es/post/useful-links/</guid>
+      <description>&lt;p&gt;En esta sección he recogido diferentes programas, páginas web y otros recursos que utilizo diariamente en mi trabajo. Además, también he añadido otros enlaces a programas, páginas web y apps que considero interesantes. Esta sección se actualiza constantemente según voy encontrando nuevas utilidades.
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Programas científicos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Gestor de referencias&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zotero.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero&lt;/a&gt;: En mi opinión, el mejor gestor de referencias (para Windows, Mac and Linux).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.mickstarify.zooforzotero&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoo for Zotero&lt;/a&gt;: App de Zotero para Android.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zotero.org/iosbeta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero iOS&lt;/a&gt;: App oficial de Zotero para iPhone y iPad.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;Cálculos de geoquímica acuosa&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hydrochemistry.eu/downl.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PHREEQC notepad++&lt;/a&gt;: La mejor versión para trabajar con PHREEQC cuando tienes experiencia.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://water.usgs.gov/water-resources/software/PHREEQC/phreeqci-3.7.1-15876.msi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PHREEQCi&lt;/a&gt;: La mejor versión de PHREEQC para aprender.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.usgs.gov/software/phreeqc-version-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PHREEQC página web&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://phreeqcusers.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PHREEQC Users (foro)&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;Visualización de estructuras cristalinas&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jp-minerals.org/vesta/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VESTA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.revistareduca.es/index.php/reduca-geologia/article/view/1959&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VESTA tutorial&lt;/a&gt;: Tutorial para visualizar estructuras cristalinas en VESTA.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;X-Ray diffraction analysis&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.profex-xrd.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCNxka_-vfLfqGdRO-cIHA4A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profex canal de youtube&lt;/a&gt;: Tutoriales, consejos y revisiones de la actualizaciones de Profex.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Páginas web&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bases de datos de minerales&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mindat.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mindat&lt;/a&gt;: La base de datos de minerales más completa.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://webmineral.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Webmineral&lt;/a&gt;: Página web desactualizada. Sin embargo, tiene una herramienta de búsqueda muy interesante que permite buscar los minerales por los picos de difracción.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://rruff.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RRUFF&lt;/a&gt;: Base de datos de minerales que incluye espectros Raman y difracción de rayos X.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;Bases de datos de estructuras cristalinas&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://rruff.geo.arizona.edu/AMS/amcsd.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American Mineralogist crystal structure database&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.crystallography.net/cod/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crystallography Open Database&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;Modelos cristalinos en 3D&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tarugos3d.home.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tarugos 3D&lt;/a&gt;: Morfologías de cristales y estructuras para imprimir en 3D.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.smorf.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smorf crystals&lt;/a&gt;: Morfologías de cristales para visualizar en 3D (incluye la indexacción de las caras).
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;LaTeX&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://es.overleaf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt;: Editor de LaTeX online.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;Varios&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.epfl.ch/schools/sb/research/iphys/teaching/crystallography/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EPFL Crsytallography&lt;/a&gt;: Página web del EPFL con numerosas aplicaciones java para cristalografía.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Otros programas&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;3D software&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.freecadweb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FreeCAD&lt;/a&gt;: Open Source CAD.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.blender.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blender&lt;/a&gt;: Programa de modelado 3D Open Source.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.3dflow.net/3df-zephyr-photogrammetry-software/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3DF Zephyr&lt;/a&gt;: Programa de fotogrametría fácil de usar.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alicevision.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meshroom&lt;/a&gt;: Programa de fotogrametría Open Source.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Apps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://xtereo.lionrigstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XteroApp&lt;/a&gt;: App para practicar la proyección estereográfica de modelos cristalográficos.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Divulgación</title>
