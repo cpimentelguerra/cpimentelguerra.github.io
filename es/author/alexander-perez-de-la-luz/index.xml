@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Pérez de la Luz | Carlos Pimentel</title>
+    <link>/es/author/alexander-perez-de-la-luz/</link>
+      <atom:link href="/es/author/alexander-perez-de-la-luz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander Pérez de la Luz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu89b1626e126321b947b1558354cc8402_5323_512x512_fill_lanczos_center_3.png</url>
+      <title>Alexander Pérez de la Luz</title>
+      <link>/es/author/alexander-perez-de-la-luz/</link>
+    </image>
+    
+    <item>
+      <title>Effects of the cation ordering in Mg:Al and Zn:Al layered double hydroxides on crystallographic and spectroscopical properties by means of first principles calculations</title>
+      <link>/es/publication/pimentel-effects-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/es/publication/pimentel-effects-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -139,7 +139,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/</loc>
-      <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -153,8 +153,53 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/publication-type/2/</loc>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication-type/2/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication-type/2/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/alexander-perez-de-la-luz/</loc>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/alexander-perez-de-la-luz/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/alexander-perez-de-la-luz/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/alfonso-hernandez-laguna/</loc>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/alfonso-hernandez-laguna/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/alfonso-hernandez-laguna/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/authors/</loc>
-      <lastmod>2021-12-15T18:00:00+00:00</lastmod>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -168,8 +213,23 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/author/c.-ignacio-sainz-diaz/</loc>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/c.-ignacio-sainz-diaz/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/c.-ignacio-sainz-diaz/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/author/carlos-pimentel/</loc>
-      <lastmod>2021-12-15T18:00:00+00:00</lastmod>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -180,6 +240,96 @@
                   hreflang="en"
                   href="/author/carlos-pimentel/"
                   />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/castep/</loc>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/cation-ordering/</loc>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/dft/</loc>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication/pimentel-effects-2022/</loc>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/pimentel-effects-2022/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/pimentel-effects-2022/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/ldh/</loc>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication_types/</loc>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication_types/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication_types/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication/</loc>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/quantum-espresso/</loc>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tags/</loc>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tags/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tags/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/vibrational-properties/</loc>
+      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
     </url>
   
     <url>
@@ -205,21 +355,6 @@
     <url>
       <loc>https://cpimentelguerra.com/tag/scientific-dissemination/</loc>
       <lastmod>2021-12-15T18:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tags/</loc>
-      <lastmod>2021-12-15T18:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/tags/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/tags/"
-                  />
     </url>
   
     <url>
@@ -358,36 +493,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/publication-type/2/</loc>
-      <lastmod>2021-10-28T18:09:12+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication-type/2/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication-type/2/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/author/c.-ignacio-sainz-diaz/</loc>
-      <lastmod>2021-10-23T18:38:12+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/c.-ignacio-sainz-diaz/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/c.-ignacio-sainz-diaz/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/tag/carbonates/</loc>
       <lastmod>2021-10-23T18:38:12+02:00</lastmod>
     </url>
@@ -475,36 +580,6 @@
     <url>
       <loc>https://cpimentelguerra.com/tag/minerals/</loc>
       <lastmod>2021-10-23T18:38:12+02:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/publication_types/</loc>
-      <lastmod>2021-10-28T18:09:12+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication_types/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication_types/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/publication/</loc>
-      <lastmod>2021-10-28T18:09:12+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication/"
-                  />
     </url>
   
     <url>
@@ -693,11 +768,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/tag/cation-ordering/</loc>
-      <lastmod>2021-10-20T17:39:07+02:00</lastmod>
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/tag/dolomite/</loc>
       <lastmod>2021-10-28T18:09:12+02:00</lastmod>
       <xhtml:link
@@ -749,11 +819,6 @@
   
     <url>
       <loc>https://cpimentelguerra.com/tag/computational-mineralogy/</loc>
-      <lastmod>2021-10-20T17:39:07+02:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tag/dft/</loc>
       <lastmod>2021-10-20T17:39:07+02:00</lastmod>
     </url>
   
@@ -845,11 +910,6 @@
                   hreflang="en"
                   href="/author/c.-ignacio-sainzdiaz/"
                   />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tag/castep/</loc>
-      <lastmod>2021-10-20T17:38:56+02:00</lastmod>
     </url>
   
     <url>
