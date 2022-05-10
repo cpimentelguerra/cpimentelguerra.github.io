@@ -259,45 +259,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-TNZ686NMF8"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-TNZ686NMF8', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
   
@@ -1052,75 +1013,6 @@ Referencias relacionadas con este proyecto:
 
 
 
-
-  
-    
-
-<div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span >
-      <a href="../../../es/author/lisa-almonte/">Lisa Almonte</a></span>, <span >
-      <a href="../../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
-      <a href="../../../es/author/enrique-rodriguez-canas/">Enrique Rodríguez Cañas</a></span>, <span >
-      <a href="../../../es/author/jose-abad/">José Abad</a></span>, <span >
-      <a href="../../../es/author/victoria-fernandez/">Victoria Fernández</a></span>, <span >
-      <a href="../../../es/author/jaime-colchero/">Jaime Colchero</a></span>
-  </span>
-  (2021).
-  <a href="../../../es/publication/almonte-rose-2021/">Rose Petal Effect: a subtle combination of nano-scale roughness and chemical variability</a>.
-  <em>Nano Select</em>.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/es/publication/almonte-rose-2021/cite.bib">
-  Citar
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1002/nano.202100193" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-</p>
-
-  
-  
-</div>
-
-  
 
 
 

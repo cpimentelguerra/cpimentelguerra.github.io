@@ -718,75 +718,6 @@ References related to this project:
 
 
 
-  
-    
-
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-  &lt;span &gt;
-      &lt;a href=&#34;./author/lisa-almonte/&#34;&gt;Lisa Almonte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;./author/carlos-pimentel/&#34;&gt;Carlos Pimentel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;./author/enrique-rodriguez-canas/&#34;&gt;Enrique Rodríguez Cañas&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;./author/jose-abad/&#34;&gt;José Abad&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;./author/victoria-fernandez/&#34;&gt;Victoria Fernández&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;./author/jaime-colchero/&#34;&gt;Jaime Colchero&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2021).
-  &lt;a href=&#34;./publication/almonte-rose-2021/&#34;&gt;Rose Petal Effect: a subtle combination of nano-scale roughness and chemical variability&lt;/a&gt;.
-  &lt;em&gt;Nano Select&lt;/em&gt;.
-  
-  &lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/almonte-rose-2021/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1002/nano.202100193&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  DOI
-&lt;/a&gt;
-
-
-&lt;/p&gt;
-
-  
-  
-&lt;/div&gt;
-
-  
-
 
 
 
@@ -2214,6 +2145,14 @@ References related to this project:
     </item>
     
     <item>
+      <title>Rose petal effect: A subtle combination of nano-scale roughness and chemical variability</title>
+      <link>/publication/almonte-rose-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/almonte-rose-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prize-giving ceremony of the &#39;Inventa un mineral&#39; competition</title>
       <link>/talk/inventa2021-award/</link>
       <pubDate>Wed, 15 Dec 2021 18:00:00 +0000</pubDate>
@@ -2478,14 +2417,6 @@ d.parentNode.insertBefore(e,d);
       <description>&lt;p&gt;Universidad Complutense de Madrid, through its Vice-Rectorate for Culture, Sport and University Extension (Ediciones Complutense), on the occasion of the publication of the book &lt;em&gt;Pequeña guía de minerales inexistentes. Volumen II&lt;/em&gt;, and with the aim of promoting artistic and scientific creation, announces the first &amp;ldquo;Inventa un mineral&amp;rdquo; competition. (Only for people living in Spain)&lt;/p&gt;
 &lt;p&gt;The competition terms can be consulted at the following link: &lt;a href=&#34;https://eventos.ucm.es/72810/detail&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://eventos.ucm.es/72810/detail&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Rose Petal Effect: a subtle combination of nano-scale roughness and chemical variability</title>
-      <link>/publication/almonte-rose-2021/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/almonte-rose-2021/</guid>
-      <description></description>
     </item>
     
     <item>

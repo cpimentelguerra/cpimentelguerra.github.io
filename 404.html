@@ -257,45 +257,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-TNZ686NMF8"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-TNZ686NMF8', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
   
@@ -817,6 +778,8 @@
     
       <li><a href="./publication/pimentel-effects-2022/">Effects of the cation ordering in Mg:Al and Zn:Al layered double hydroxides on crystallographic and spectroscopical properties by means of first principles calculations</a></li>
     
+      <li><a href="./publication/almonte-rose-2022/">Rose petal effect: A subtle combination of nano-scale roughness and chemical variability</a></li>
+    
       <li><a href="./event/">Upcoming events</a></li>
     
       <li><a href="./talk/inventa2021-award/">Prize-giving ceremony of the &#39;Inventa un mineral&#39; competition</a></li>
@@ -830,8 +793,6 @@
       <li><a href="./project/foliar-mineral/">Minerals for foliar fertilization</a></li>
     
       <li><a href="./privacy/">Privacy Policy</a></li>
-    
-      <li><a href="./project/mineral-surfaces/">Observing mineral surfaces with AFM</a></li>
     
   </ul>
   

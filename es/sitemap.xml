@@ -139,7 +139,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/</loc>
-      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -154,7 +154,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/publication-type/2/</loc>
-      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -199,7 +199,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/authors/</loc>
-      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -229,7 +229,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/author/carlos-pimentel/</loc>
-      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -259,7 +259,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/publication/</loc>
-      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -274,7 +274,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/publication_types/</loc>
-      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -284,6 +284,96 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/publication_types/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/enrique-rodriguez-canas/</loc>
+      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/enrique-rodriguez-canas/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/enrique-rodriguez-canas/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/jaime-colchero/</loc>
+      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/jaime-colchero/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/jaime-colchero/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/jose-abad/</loc>
+      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/jose-abad/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/jose-abad/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/lisa-almonte/</loc>
+      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/lisa-almonte/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/lisa-almonte/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/publication/almonte-rose-2022/</loc>
+      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/almonte-rose-2022/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/almonte-rose-2022/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/victoria-fernandez/</loc>
+      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/victoria-fernandez/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/victoria-fernandez/"
                   />
     </url>
   
@@ -574,96 +664,6 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/talk/inventa2021/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/enrique-rodriguez-canas/</loc>
-      <lastmod>2021-10-28T18:09:12+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/enrique-rodriguez-canas/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/enrique-rodriguez-canas/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/jaime-colchero/</loc>
-      <lastmod>2021-10-28T18:09:12+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/jaime-colchero/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/jaime-colchero/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/jose-abad/</loc>
-      <lastmod>2021-10-28T18:09:12+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/jose-abad/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/jose-abad/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/lisa-almonte/</loc>
-      <lastmod>2021-10-28T18:09:12+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/lisa-almonte/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/lisa-almonte/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/publication/almonte-rose-2021/</loc>
-      <lastmod>2021-10-28T18:09:12+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication/almonte-rose-2021/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication/almonte-rose-2021/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/victoria-fernandez/</loc>
-      <lastmod>2021-10-28T18:09:12+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/victoria-fernandez/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/victoria-fernandez/"
                   />
     </url>
   
