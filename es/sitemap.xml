@@ -139,7 +139,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/</loc>
-      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -154,7 +154,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/publication-type/2/</loc>
-      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -169,7 +169,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/author/alexander-perez-de-la-luz/</loc>
-      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -198,8 +198,23 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/es/author/ana-borrego-sanchez/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/ana-borrego-sanchez/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/ana-borrego-sanchez/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/es/authors/</loc>
-      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -213,8 +228,23 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/es/tag/biomaterials/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tag/biomaterials/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tag/biomaterials/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/es/author/c.-ignacio-sainz-diaz/</loc>
-      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -228,8 +258,23 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/es/author/carlos-m.-pina/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/carlos-m.-pina/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/carlos-m.-pina/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/es/author/carlos-pimentel/</loc>
-      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -239,6 +284,96 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/author/carlos-pimentel/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tag/castep/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tag/castep/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tag/castep/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tag/cation-ordering/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tag/cation-ordering/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tag/cation-ordering/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/cesar-viseras/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/cesar-viseras/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/cesar-viseras/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tag/dft/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tag/dft/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tag/dft/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tag/dolomite/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tag/dolomite/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tag/dolomite/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tag/drug-delivery/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tag/drug-delivery/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tag/drug-delivery/"
                   />
     </url>
   
@@ -258,8 +393,68 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/es/publication/figueiredo-experimental-2022/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/figueiredo-experimental-2022/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/figueiredo-experimental-2022/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tag/ldh/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tag/ldh/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tag/ldh/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/mariana-pires-figueiredo/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/mariana-pires-figueiredo/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/mariana-pires-figueiredo/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tag/physicochemical-properties/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tag/physicochemical-properties/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tag/physicochemical-properties/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/es/publication/</loc>
-      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -274,7 +469,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/publication_types/</loc>
-      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -284,6 +479,66 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/publication_types/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tag/quantum-espresso/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tag/quantum-espresso/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tag/quantum-espresso/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tags/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tags/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tags/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/publication/pina-dolomite-2022/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/pina-dolomite-2022/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/pina-dolomite-2022/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/angel-crespo/</loc>
+      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/angel-crespo/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/angel-crespo/"
                   />
     </url>
   
@@ -478,21 +733,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/es/tags/</loc>
-      <lastmod>2021-10-28T19:11:19+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/tags/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/tags/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/es/privacy/</loc>
       <lastmod>2021-10-27T00:00:00+01:00</lastmod>
       <xhtml:link
@@ -664,21 +904,6 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/talk/inventa2021/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/carlos-m.-pina/</loc>
-      <lastmod>2021-10-28T18:09:12+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/carlos-m.-pina/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/carlos-m.-pina/"
                   />
     </url>
   
@@ -874,21 +1099,6 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/publication/fernandez-salt-2020/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/angel-crespo/</loc>
-      <lastmod>2021-10-20T17:38:57+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/angel-crespo/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/angel-crespo/"
                   />
     </url>
   
@@ -1774,21 +1984,6 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/tag/atomic-force-microscope/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/tag/dolomite/</loc>
-      <lastmod>2021-10-28T18:09:12+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/tag/dolomite/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/tag/dolomite/"
                   />
     </url>
   
