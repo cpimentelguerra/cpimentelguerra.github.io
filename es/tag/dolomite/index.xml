@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dolomite | Carlos Pimentel</title>
+    <title>&#34;Dolomite&#34; | Carlos Pimentel</title>
     <link>/es/tag/dolomite/</link>
       <atom:link href="/es/tag/dolomite/index.xml" rel="self" type="application/rss+xml" />
-    <description>Dolomite</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <description>&#34;Dolomite&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Fri, 01 Oct 2010 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu89b1626e126321b947b1558354cc8402_5323_512x512_fill_lanczos_center_3.png</url>
-      <title>Dolomite</title>
+      <title>&#34;Dolomite&#34;</title>
       <link>/es/tag/dolomite/</link>
     </image>
-    
-    <item>
-      <title>The Dolomite Problem: A Matter of Time</title>
-      <link>/es/publication/pina-dolomite-2022/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/es/publication/pina-dolomite-2022/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>High resolution imaging of the dolomite (104) cleavage surface by atomic force microscopy</title>
