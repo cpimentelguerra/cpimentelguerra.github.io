@@ -139,7 +139,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -154,7 +154,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/publication-type/2/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -168,8 +168,23 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/author/alfonso-hernandez-laguna/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/alfonso-hernandez-laguna/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/alfonso-hernandez-laguna/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/authors/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -184,7 +199,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/author/c.-ignacio-sainz-diaz/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -194,6 +209,106 @@
                   rel="alternate"
                   hreflang="en"
                   href="/author/c.-ignacio-sainz-diaz/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/carlos-pimentel/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/carlos-pimentel/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/carlos-pimentel/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/castep/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/crystal-structure/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/dft/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication/pimentel-effect-2022/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/pimentel-effect-2022/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/pimentel-effect-2022/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/iron/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/ldh/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication_types/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication_types/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication_types/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tags/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tags/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tags/"
                   />
     </url>
   
@@ -209,21 +324,6 @@
                   rel="alternate"
                   hreflang="en"
                   href="/author/carlos-m.-pina/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/author/carlos-pimentel/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/carlos-pimentel/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/carlos-pimentel/"
                   />
     </url>
   
@@ -268,51 +368,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/publication_types/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication_types/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication_types/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/publication/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tags/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/tags/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/tags/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/author/alexander-perez-de-la-luz/</loc>
       <lastmod>2022-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
@@ -324,21 +379,6 @@
                   rel="alternate"
                   hreflang="en"
                   href="/author/alexander-perez-de-la-luz/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/author/alfonso-hernandez-laguna/</loc>
-      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/alfonso-hernandez-laguna/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/alfonso-hernandez-laguna/"
                   />
     </url>
   
@@ -363,11 +403,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/tag/castep/</loc>
-      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/tag/cation-ordering/</loc>
       <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     </url>
@@ -385,11 +420,6 @@
                   hreflang="en"
                   href="/author/cesar-viseras/"
                   />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tag/dft/</loc>
-      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -425,11 +455,6 @@
                   hreflang="en"
                   href="/publication/figueiredo-experimental-2022/"
                   />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tag/ldh/</loc>
-      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     </url>
   
     <url>

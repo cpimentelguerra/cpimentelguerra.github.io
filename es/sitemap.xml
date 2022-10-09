@@ -139,7 +139,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -154,7 +154,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/publication-type/2/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -168,8 +168,23 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/es/author/alfonso-hernandez-laguna/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/alfonso-hernandez-laguna/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/alfonso-hernandez-laguna/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/es/authors/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -184,7 +199,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/author/c.-ignacio-sainz-diaz/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -194,6 +209,66 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/author/c.-ignacio-sainz-diaz/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/carlos-pimentel/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/carlos-pimentel/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/carlos-pimentel/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/publication/pimentel-effect-2022/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/pimentel-effect-2022/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/pimentel-effect-2022/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/publication/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/publication_types/</loc>
+      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication_types/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication_types/"
                   />
     </url>
   
@@ -213,21 +288,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/es/author/carlos-pimentel/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/carlos-pimentel/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/carlos-pimentel/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/es/publication/pimentel-new-2022/</loc>
       <lastmod>2022-09-30T00:00:00+00:00</lastmod>
       <xhtml:link
@@ -243,36 +303,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/es/publication/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/publication_types/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication_types/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication_types/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/es/author/alexander-perez-de-la-luz/</loc>
       <lastmod>2022-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
@@ -284,21 +314,6 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/author/alexander-perez-de-la-luz/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/alfonso-hernandez-laguna/</loc>
-      <lastmod>2022-04-12T12:26:03+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/alfonso-hernandez-laguna/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/alfonso-hernandez-laguna/"
                   />
     </url>
   
