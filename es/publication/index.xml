@@ -5,12 +5,20 @@
     <link>/es/publication/</link>
       <atom:link href="/es/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publicaciones</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Sun, 09 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu89b1626e126321b947b1558354cc8402_5323_512x512_fill_lanczos_center_3.png</url>
       <title>Publicaciones</title>
       <link>/es/publication/</link>
     </image>
+    
+    <item>
+      <title>Helical microstructures in molluscan biomineralization are a biological example of close packed helices that may form from a colloidal liquid crystal precursor in a twist--bend nematic phase</title>
+      <link>/es/publication/berent-helical-2022/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/es/publication/berent-helical-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effect of Iron Isomorphic Substitution in Mg:Al and Zn:Al-Layered Double-Hydroxide Structures by Means of First Principle Calculations</title>

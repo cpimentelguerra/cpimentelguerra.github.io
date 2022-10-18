@@ -139,7 +139,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/</loc>
-      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+      <lastmod>2022-10-18T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -154,7 +154,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/publication-type/2/</loc>
-      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+      <lastmod>2022-10-18T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -164,6 +164,156 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/publication-type/2/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/antonio-g.-checa/</loc>
+      <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/antonio-g.-checa/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/antonio-g.-checa/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/authors/</loc>
+      <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/authors/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/authors/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/c.-ignacio-sainz-diaz/</loc>
+      <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/c.-ignacio-sainz-diaz/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/c.-ignacio-sainz-diaz/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/carlos-pimentel/</loc>
+      <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/carlos-pimentel/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/carlos-pimentel/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/publication/berent-helical-2022/</loc>
+      <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/berent-helical-2022/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/berent-helical-2022/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/julyan-h.-e.-cartwright/</loc>
+      <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/julyan-h.-e.-cartwright/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/julyan-h.-e.-cartwright/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/katarzyna-berent/</loc>
+      <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/katarzyna-berent/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/katarzyna-berent/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/paula-ramos-silva/</loc>
+      <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/paula-ramos-silva/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/paula-ramos-silva/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/publication/</loc>
+      <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/publication_types/</loc>
+      <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication_types/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication_types/"
                   />
     </url>
   
@@ -183,51 +333,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/es/authors/</loc>
-      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/authors/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/authors/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/c.-ignacio-sainz-diaz/</loc>
-      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/c.-ignacio-sainz-diaz/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/c.-ignacio-sainz-diaz/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/carlos-pimentel/</loc>
-      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/carlos-pimentel/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/carlos-pimentel/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/es/publication/pimentel-effect-2022/</loc>
       <lastmod>2022-10-09T00:00:00+00:00</lastmod>
       <xhtml:link
@@ -239,36 +344,6 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/publication/pimentel-effect-2022/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/publication/</loc>
-      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/publication_types/</loc>
-      <lastmod>2022-10-09T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication_types/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication_types/"
                   />
     </url>
   
@@ -724,21 +799,6 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/author/isabel-sanchez-almazo/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/julyan-h.-e.-cartwright/</loc>
-      <lastmod>2021-10-23T18:38:12+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/julyan-h.-e.-cartwright/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/julyan-h.-e.-cartwright/"
                   />
     </url>
   
