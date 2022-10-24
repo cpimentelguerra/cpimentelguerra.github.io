@@ -5,7 +5,7 @@
     <link>/es/project/</link>
       <atom:link href="/es/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Thu, 28 Oct 2021 19:11:19 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu89b1626e126321b947b1558354cc8402_5323_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -2313,6 +2313,15 @@ Referencias relacionadas con este proyecto:
   
 
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Base de datos de jardines químicos</title>
+      <link>/es/project/chemgardendb/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/es/project/chemgardendb/</guid>
+      <description>&lt;p&gt;La base de datos, las referencias e información adicional pueden encontrarse aquí: &lt;a href=&#34;https://cpimentelguerra.com/chemicalgardens/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chemical Gardens Database&lt;/a&gt; (en inglés)&lt;/p&gt;
 </description>
     </item>
     

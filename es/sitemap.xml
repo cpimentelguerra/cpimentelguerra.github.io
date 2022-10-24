@@ -78,6 +78,21 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/es/project/chemgardendb/</loc>
+      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/project/chemgardendb/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/project/chemgardendb/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/es/courses/example/stats/</loc>
       <lastmod>2021-01-01T00:00:00+00:00</lastmod>
       <xhtml:link
@@ -139,7 +154,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/</loc>
-      <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -149,6 +164,71 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/categories/</loc>
+      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/categories/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/categories/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tag/cristalografia/</loc>
+      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/category/cristalografia/</loc>
+      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tag/mineralogia/</loc>
+      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/category/mineralogia/</loc>
+      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/project/</loc>
+      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/project/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/project/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tags/</loc>
+      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tags/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tags/"
                   />
     </url>
   
@@ -648,21 +728,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/es/categories/</loc>
-      <lastmod>2021-10-28T19:11:19+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/categories/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/categories/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/es/tag/otros/</loc>
       <lastmod>2021-10-28T19:11:19+00:00</lastmod>
     </url>
@@ -670,36 +735,6 @@
     <url>
       <loc>https://cpimentelguerra.com/es/category/otros/</loc>
       <lastmod>2021-10-28T19:11:19+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/project/</loc>
-      <lastmod>2021-10-28T19:11:19+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/project/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/project/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/tags/</loc>
-      <lastmod>2021-10-28T19:11:19+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/tags/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/tags/"
-                  />
     </url>
   
     <url>
@@ -715,26 +750,6 @@
                   hreflang="es"
                   href="/es/privacy/"
                   />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/tag/cristalografia/</loc>
-      <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/category/cristalografia/</loc>
-      <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/tag/mineralogia/</loc>
-      <lastmod>2021-10-23T19:31:19+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/category/mineralogia/</loc>
-      <lastmod>2021-10-23T19:31:19+00:00</lastmod>
     </url>
   
     <url>
