@@ -2354,29 +2354,6 @@ Referencias relacionadas con este proyecto:
     </item>
     
     <item>
-      <title>Modelos 3D de cristales y estructuras minerales</title>
-      <link>/es/project/crystal-model/</link>
-      <pubDate>Sat, 23 Oct 2021 18:57:19 +0000</pubDate>
-      <guid>/es/project/crystal-model/</guid>
-      <description>&lt;p&gt;El objetivo de este proyecto es diseñar modelos 3D de formas cristalinas y de estructuras minerales que puedan visualizarse en el ordenador o imprimirse con una impresora 3D. Todos estos modelos pueden consultarse en los siguientes enlaces:
-&lt;br&gt;
-&lt;br&gt;
-&lt;a href=&#34;https://tarugos3d.home.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modelos cristalográficos y estructuras en 3D&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;a href=&#34;https://crystalmodels3d.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D crystal models and structures&lt;/a&gt; (En inglés)
-&lt;br&gt;
-&lt;br&gt;
-&lt;a href=&#34;https://www.thingiverse.com/cpimentel/designs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;En mi página de thingiverse&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;
-Este proyecto es posible gracias a la financiación recibida mediante Proyectos de Innovación Docente de la Universidad Complutense de Madrid (IP: Carlos M. Pina).&lt;/p&gt;
-&lt;iframe loading=&#34;lazy&#34; align=&#34;center&#34; src=&#34;https://cpimentelguerra.com/uploads/calcite.html&#34; height=&#34;300&#34; width=&#34;100%&#34;&gt;&lt;/iframe&gt;
-&lt;p align=&#34;right&#34;&gt;Ejemplo de un modelo 3D de calcita&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Visualization</title>
       <link>/es/courses/example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -2407,16 +2384,6 @@ fig.show()
     </item>
     
     <item>
-      <title>Minerales inexistentes</title>
-      <link>/es/project/non-existent-minerals/</link>
-      <pubDate>Sat, 23 Oct 2021 19:11:19 +0000</pubDate>
-      <guid>/es/project/non-existent-minerals/</guid>
-      <description>&lt;p&gt;Este proyecto, en colaboración con Carlos M. Pina, se centra en la divulgación de diferentes conceptos científicos, con especial énfasis en la mineralogía, a partir de los minerales que aparecen en películas, libros, cómics y videojuegos de ciencia ficción y fantasía.&lt;/p&gt;
-&lt;p&gt;Gracias a este proyecto, hemos publicado dos libros, realizado varias exposiciones e impartido numerosas charlas. Para ver una lista completa de estas actividades, consulte &lt;a href=&#34;../es/post/dissemination&#34;&gt;divulgación&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Statistics</title>
       <link>/es/courses/example/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -2442,6 +2409,39 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Modelos 3D de cristales y estructuras minerales</title>
+      <link>/es/project/crystal-model/</link>
+      <pubDate>Sat, 23 Oct 2021 18:57:19 +0000</pubDate>
+      <guid>/es/project/crystal-model/</guid>
+      <description>&lt;p&gt;El objetivo de este proyecto es diseñar modelos 3D de formas cristalinas y de estructuras minerales que puedan visualizarse en el ordenador o imprimirse con una impresora 3D. Todos estos modelos pueden consultarse en los siguientes enlaces:
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://tarugos3d.home.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modelos cristalográficos y estructuras en 3D&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://crystalmodels3d.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D crystal models and structures&lt;/a&gt; (En inglés)
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.thingiverse.com/cpimentel/designs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;En mi página de thingiverse&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+Este proyecto es posible gracias a la financiación recibida mediante Proyectos de Innovación Docente de la Universidad Complutense de Madrid (IP: Carlos M. Pina).&lt;/p&gt;
+&lt;iframe loading=&#34;lazy&#34; align=&#34;center&#34; src=&#34;https://cpimentelguerra.com/uploads/calcite.html&#34; height=&#34;300&#34; width=&#34;100%&#34;&gt;&lt;/iframe&gt;
+&lt;p align=&#34;right&#34;&gt;Ejemplo de un modelo 3D de calcita&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Minerales inexistentes</title>
+      <link>/es/project/non-existent-minerals/</link>
+      <pubDate>Sat, 23 Oct 2021 19:11:19 +0000</pubDate>
+      <guid>/es/project/non-existent-minerals/</guid>
+      <description>&lt;p&gt;Este proyecto, en colaboración con Carlos M. Pina, se centra en la divulgación de diferentes conceptos científicos, con especial énfasis en la mineralogía, a partir de los minerales que aparecen en películas, libros, cómics y videojuegos de ciencia ficción y fantasía.&lt;/p&gt;
+&lt;p&gt;Gracias a este proyecto, hemos publicado dos libros, realizado varias exposiciones e impartido numerosas charlas. Para ver una lista completa de estas actividades, consulte &lt;a href=&#34;../es/post/dissemination&#34;&gt;divulgación&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>

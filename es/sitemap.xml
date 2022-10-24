@@ -63,21 +63,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/es/project/crystal-model/</loc>
-      <lastmod>2021-10-23T18:57:19+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/project/crystal-model/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/project/crystal-model/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/es/courses/example/visualization/</loc>
       <lastmod>2021-01-01T00:00:00+00:00</lastmod>
       <xhtml:link
@@ -93,21 +78,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/es/project/non-existent-minerals/</loc>
-      <lastmod>2021-10-23T19:11:19+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/project/non-existent-minerals/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/project/non-existent-minerals/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/es/courses/example/stats/</loc>
       <lastmod>2021-01-01T00:00:00+00:00</lastmod>
       <xhtml:link
@@ -119,6 +89,36 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/courses/example/stats/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/project/crystal-model/</loc>
+      <lastmod>2021-10-23T18:57:19+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/project/crystal-model/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/project/crystal-model/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/project/non-existent-minerals/</loc>
+      <lastmod>2021-10-23T19:11:19+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/project/non-existent-minerals/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/project/non-existent-minerals/"
                   />
     </url>
   
