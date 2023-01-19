@@ -1,0 +1,4033 @@
+<!DOCTYPE html><html lang="es-es" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+    <meta name="google-site-verification" content="nn9EdsajtrVPBYJ8IL9As9oYd0nJBDFHoC2tbZjhImM" />
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Carlos Pimentel" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Investigador Postdoctoral - MSCA" />
+
+  
+    <link rel="alternate" hreflang="en" href="../../publication/" />
+  
+  <link rel="alternate" hreflang="es-es" href="../../es/publication/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="../../css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="../../css/wowchemy.f971bc844dba19558ec96892d210188b.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+    <link rel="alternate" href="../../es/publication/index.xml" type="application/rss+xml" title="Carlos Pimentel" />
+  
+
+  
+    <link rel="manifest" href="../../es/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="../../media/icon_hu89b1626e126321b947b1558354cc8402_5323_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="../../media/icon_hu89b1626e126321b947b1558354cc8402_5323_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="../../es/publication/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="Carlos Pimentel" />
+  <meta property="og:url" content="/es/publication/" />
+  <meta property="og:title" content="Publicaciones | Carlos Pimentel" />
+  <meta property="og:description" content="Investigador Postdoctoral - MSCA" /><meta property="og:image" content="/media/icon_hu89b1626e126321b947b1558354cc8402_5323_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="/media/icon_hu89b1626e126321b947b1558354cc8402_5323_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="es-es" />
+  
+    
+      <meta property="og:updated_time" content="2023-11-01T00:00:00&#43;00:00" />
+    
+  
+
+  
+
+
+
+  
+
+  
+
+
+
+
+
+  <title>Publicaciones | Carlos Pimentel</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="3a079e7dad19be978a318345a7749d34" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="../../js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Buscar</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Cerrar"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Buscar..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Buscar...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="../../es">Carlos Pimentel</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Barra de navegación">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="../../es">Carlos Pimentel</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="../../es/#about"><span>Inicio</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="../../es/#publications"><span>Publicaciones</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="../../es/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="../../es/#projects"><span>Proyectos</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="../../es/#events"><span>Próximos eventos</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="../../es/post/dissemination/"><span>Divulgación</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="../../es/post/useful-links/"><span>Links</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="../../es/#contact"><span>Contacto</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Buscar"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Mostrar preferencias">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Claro</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Oscuro</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automático</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
+           aria-haspopup="true" aria-label="Idiomas">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">Español</span></a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>Español</span>
+          </div>
+          
+          <a class="dropdown-item" href="../../publication/">
+            <span>English</span>
+          </a>
+          
+        </div>
+      </li>
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <h1>Publicaciones</h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+
+      
+
+      
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+
+      <div class="form-row mb-4">
+        <div class="col-auto">
+          <input type="search" class="filter-search" placeholder="Buscar..." autocapitalize="off"
+          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
+            <option value="*">Tipo</option>
+            
+            
+            <option value=".pubtype-2">
+              Artículo de revista
+            </option>
+            
+            <option value=".pubtype-6">
+              Capítulo de libro
+            </option>
+            
+            <option value=".pubtype-7">
+              Tesis
+            </option>
+            
+          </select>
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
+            <option value="*">Fecha</option>
+            
+            
+            
+            <option value=".year-2023">
+              2023
+            </option>
+            
+            <option value=".year-2022">
+              2022
+            </option>
+            
+            <option value=".year-2021">
+              2021
+            </option>
+            
+            <option value=".year-2020">
+              2020
+            </option>
+            
+            <option value=".year-2019">
+              2019
+            </option>
+            
+            <option value=".year-2018">
+              2018
+            </option>
+            
+            <option value=".year-2017">
+              2017
+            </option>
+            
+            <option value=".year-2016">
+              2016
+            </option>
+            
+            <option value=".year-2015">
+              2015
+            </option>
+            
+            <option value=".year-2014">
+              2014
+            </option>
+            
+            <option value=".year-2013">
+              2013
+            </option>
+            
+            <option value=".year-2010">
+              2010
+            </option>
+            
+            
+          </select>
+        </div>
+      </div>
+
+      <div id="container-publications">
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2023">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/antonio-g.-checa/">Antonio G. Checa</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/katarzyna-berent/">Katarzyna Berent</a></span>, <span >
+      <a href="../../es/author/paula-ramos-silva/">Paula Ramos-Silva</a></span>, <span >
+      <a href="../../es/author/alejandro-b.-rodriguez-navarro/">Alejandro B. Rodríguez-Navarro</a></span>, <span >
+      <a href="../../es/author/julyan-h.-e.-cartwright/">Julyan H. E. Cartwright</a></span>, <span >
+      <a href="../../es/author/claro-i.-sainz-diaz/">Claro I. Sainz-Díaz</a></span>
+  </span>
+  (2023).
+  <a href="../../es/publication/checa-evidence-2023/">Evidence for helical microstructure of aragonite fibers in pteropod shells</a>.
+  <em>MRS Bulletin</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1557/s43577-022-00418-y" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/checa-evidence-2023/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1557/s43577-022-00418-y" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2022">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/katarzyna-berent/">Katarzyna Berent</a></span>, <span >
+      <a href="../../es/author/julyan-h.-e.-cartwright/">Julyan H. E. Cartwright</a></span>, <span >
+      <a href="../../es/author/antonio-g.-checa/">Antonio G. Checa</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/paula-ramos-silva/">Paula Ramos-Silva</a></span>, <span >
+      <a href="../../es/author/c.-ignacio-sainz-diaz/">C. Ignacio Sainz-Díaz</a></span>
+  </span>
+  (2022).
+  <a href="../../es/publication/berent-helical-2022/">Helical microstructures in molluscan biomineralization are a biological example of close packed helices that may form from a colloidal liquid crystal precursor in a twist--bend nematic phase</a>.
+  <em>Physical Review Materials</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://link.aps.org/doi/10.1103/PhysRevMaterials.6.105601" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/berent-helical-2022/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1103/PhysRevMaterials.6.105601" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2022">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/alfonso-hernandez-laguna/">Alfonso Hernández-Laguna</a></span>, <span >
+      <a href="../../es/author/c.-ignacio-sainz-diaz/">C. Ignacio Sainz-Díaz</a></span>
+  </span>
+  (2022).
+  <a href="../../es/publication/pimentel-effect-2022/">Effect of Iron Isomorphic Substitution in Mg:Al and Zn:Al-Layered Double-Hydroxide Structures by Means of First Principle Calculations</a>.
+  <em>ACS Earth and Space Chemistry</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pubs.acs.org/doi/abs/10.1021/acsearthspacechem.2c00205" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pimentel-effect-2022/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/acsearthspacechem.2c00205" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2022">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>, <span >
+      <a href="../../es/author/c.-ignacio-sainz-diaz/">C. Ignacio Sainz-Díaz</a></span>
+  </span>
+  (2022).
+  <a href="../../es/publication/pimentel-new-2022/">New Insights into Dolomite and Dolomite-Analogue Structures from First Principles Calculations</a>.
+  <em>ACS Earth and Space Chemistry</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pubs.acs.org/doi/abs/10.1021/acsearthspacechem.2c00100" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pimentel-new-2022/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/acsearthspacechem.2c00100" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2022">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/angel-crespo/">Ángel Crespo</a></span>
+  </span>
+  (2022).
+  <a href="../../es/publication/pina-dolomite-2022/">The Dolomite Problem: A Matter of Time</a>.
+  <em>ACS Earth and Space Chemistry</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/acsearthspacechem.2c00078" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pina-dolomite-2022/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/acsearthspacechem.2c00078" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2022">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/mariana-pires-figueiredo/">Mariana Pires Figueiredo</a></span>, <span >
+      <a href="../../es/author/ana-borrego-sanchez/">Ana Borrego-Sánchez</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/alexander-perez-de-la-luz/">Alexander Pérez de la Luz</a></span>, <span >
+      <a href="../../es/author/cesar-viseras/">César Viseras</a></span>, <span >
+      <a href="../../es/author/c.-ignacio-sainz-diaz/">C. Ignacio Sainz-Díaz</a></span>
+  </span>
+  (2022).
+  <a href="../../es/publication/figueiredo-experimental-2022/">Experimental and theoretical studies on the intercalation of naproxen into the Mg2Al and Zn2Al Layered Double Hydroxides by ion exchange reaction</a>.
+  <em>Journal of Pharmaceutical Sciences</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.jpharmsci.org/article/S0022-3549%2822%2900209-X/fulltext#%20" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/figueiredo-experimental-2022/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.xphs.2022.05.012" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2022">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/alexander-perez-de-la-luz/">Alexander Pérez de la Luz</a></span>, <span >
+      <a href="../../es/author/alfonso-hernandez-laguna/">Alfonso Hernández-Laguna</a></span>, <span >
+      <a href="../../es/author/c.-ignacio-sainz-diaz/">C. Ignacio Sainz-Díaz</a></span>
+  </span>
+  (2022).
+  <a href="../../es/publication/pimentel-effects-2022/">Effects of the cation ordering in Mg:Al and Zn:Al layered double hydroxides on crystallographic and spectroscopical properties by means of first principles calculations</a>.
+  <em>Applied Clay Science</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0169131722000916" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pimentel-effects-2022/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.clay.2022.106496" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2022">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/lisa-almonte/">Lisa Almonte</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/enrique-rodriguez-canas/">Enrique Rodríguez-Cañas</a></span>, <span >
+      <a href="../../es/author/jose-abad/">José Abad</a></span>, <span >
+      <a href="../../es/author/victoria-fernandez/">Victoria Fernández</a></span>, <span >
+      <a href="../../es/author/jaime-colchero/">Jaime Colchero</a></span>
+  </span>
+  (2022).
+  <a href="../../es/publication/almonte-rose-2022/">Rose petal effect: A subtle combination of nano-scale roughness and chemical variability</a>.
+  <em>Nano Select</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://onlinelibrary.wiley.com/doi/abs/10.1002/nano.202100193" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/almonte-rose-2022/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1002/nano.202100193" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2021">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/luis-a.-m.-rocha/">Luis A. M. Rocha</a></span>, <span >
+      <a href="../../es/author/carlos-gutierrez-ariza/">Carlos Gutiérrez-Ariza</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/isabel-sanchez-almazo/">Isabel Sánchez-Almazo</a></span>, <span >
+      <a href="../../es/author/c.-ignacio-sainz-diaz/">C. Ignacio Sainz-Díaz</a></span>, <span >
+      <a href="../../es/author/silvana-s.-s.-cardoso/">Silvana S. S. Cardoso</a></span>, <span >
+      <a href="../../es/author/julyan-h.-e.-cartwright/">Julyan H. E. Cartwright</a></span>
+  </span>
+  (2021).
+  <a href="../../es/publication/rocha-formation-nodate/">Formation and structures of horizontal submarine fluid conduit and venting systems associated with marine seeps</a>.
+  <em>Geochemistry, Geophysics, Geosystems</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://onlinelibrary.wiley.com/doi/abs/10.1029/2021GC009724" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/rocha-formation-nodate/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1029/2021GC009724" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2021">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/yuliya-zvir/">Yuliya Zvir</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>
+  </span>
+  (2021).
+  <a href="../../es/publication/zvir-effect-2021/">The Effect of Stoichiometry, Mg-Ca Distribution, and Iron, Manganese, and Zinc Impurities on the Dolomite Order Degree: A Theoretical Study</a>.
+  <em>Minerals</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.mdpi.com/2075-163X/11/7/702" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/zvir-effect-2021/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3390/min11070702" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2021">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>, <span >
+      <a href="../../es/author/c.-ignacio-sainz-diaz/">C. Ignacio Sainz-Díaz</a></span>
+  </span>
+  (2021).
+  <a href="../../es/publication/pimentel-dft-2021/">DFT Simulations of the Structure and Cation Order of Norsethite, BaMg(CO3)2</a>.
+  <em>ACS Earth and Space Chemistry</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/acsearthspacechem.1c00058" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pimentel-dft-2021/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/acsearthspacechem.1c00058" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2020">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/karine-mougin/">Karine Mougin</a></span>, <span >
+      <a href="../../es/author/enrico-gnecco/">Enrico Gnecco</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>
+  </span>
+  (2020).
+  <a href="../../es/publication/pimentel-formation-2020/">Formation of zabuyelite, Li2CO3, on dolomite and kutnohorite 10.4 surfaces from supersaturated and undersaturated solutions: Growth behavior and anomalous friction at the nanoscale</a>.
+  <em>Journal of Crystal Growth</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://linkinghub.elsevier.com/retrieve/pii/S0022024820304152" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pimentel-formation-2020/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.jcrysgro.2020.125892" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2020">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/julyan-h.-e.-cartwright/">Julyan H. E. Cartwright</a></span>, <span >
+      <a href="../../es/author/c.-ignacio-sainzdiaz/">C. Ignacio Sainz‐Díaz</a></span>
+  </span>
+  (2020).
+  <a href="../../es/publication/pimentel-tungstate-2020/">A Tungstate Chemical Garden</a>.
+  <em>ChemSystemsChem</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://onlinelibrary.wiley.com/doi/10.1002/syst.202000023" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pimentel-tungstate-2020/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1002/syst.202000023" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2020">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/victoria-fernandez/">Victoria Fernández</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/hector-a.-bahamonde/">Héctor A. Bahamonde</a></span>
+  </span>
+  (2020).
+  <a href="../../es/publication/fernandez-salt-2020/">Salt hydration and drop drying of two model calcium salts: Implications for foliar nutrient absorption and deposition</a>.
+  <em>Journal of Plant Nutrition and Soil Science</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://doi.wiley.com/10.1002/jpln.202000168" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/fernandez-salt-2020/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1002/jpln.202000168" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2020">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/angel-crespo/">Ángel Crespo</a></span>
+  </span>
+  (2020).
+  <a href="../../es/publication/pina-dolomite-2020/">Dolomite cation order in the geological record</a>.
+  <em>Chemical Geology</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0009254120302060" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pina-dolomite-2020/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.chemgeo.2020.119667" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2019">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/ayumi-koishi/">Ayumi Koishi</a></span>, <span >
+      <a href="../../es/author/alejandro-fernandez-martinez/">Alejandro Fernandez-Martinez</a></span>, <span >
+      <a href="../../es/author/alexander-e.-s.-van-driessche/">Alexander E. S. Van Driessche</a></span>, <span >
+      <a href="../../es/author/laurent-j.-michot/">Laurent J. Michot</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/byeongdu-lee/">Byeongdu Lee</a></span>, <span >
+      <a href="../../es/author/german-montes-hernandez/">German Montes-Hernandez</a></span>
+  </span>
+  (2019).
+  <a href="../../es/publication/koishi-surface-2019/">Surface Wetting Controls Calcium Carbonate Crystallization Kinetics</a>.
+  <em>Chemistry of Materials</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/acs.chemmater.9b00417" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/koishi-surface-2019/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/acs.chemmater.9b00417" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2018">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/liron-agmon/">Liron Agmon</a></span>, <span >
+      <a href="../../es/author/itai-shahar/">Itai Shahar</a></span>, <span >
+      <a href="../../es/author/danny-yosufov/">Danny Yosufov</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>, <span >
+      <a href="../../es/author/enrico-gnecco/">Enrico Gnecco</a></span>, <span >
+      <a href="../../es/author/ronen-berkovich/">Ronen Berkovich</a></span>
+  </span>
+  (2018).
+  <a href="../../es/publication/agmon-estimation-2018/">Estimation of interaction energy and contact stiffness in atomic-scale sliding on a model sodium chloride surface in ethanol</a>.
+  <em>Scientific Reports</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.nature.com/articles/s41598-018-22847-z" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/agmon-estimation-2018/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1038/s41598-018-22847-z" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2018">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/enrico-gnecco/">Enrico Gnecco</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>
+  </span>
+  (2018).
+  <a href="../../es/publication/pimentel-epitaxial-2018/">Epitaxial Growth and Frictional Response of Otavite and Spherocobaltite on Dolomite (10.4) Surfaces</a>.
+  <em>The Journal of Physical Chemistry C</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pubs.acs.org/doi/10.1021/acs.jpcc.8b05963" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pimentel-epitaxial-2018/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/acs.jpcc.8b05963" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2017">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/ruben-alvarez-asencio/">Rubén Álvarez-Asencio</a></span>, <span >
+      <a href="../../es/author/jorge-s.-moreno-ramirez/">Jorge S. Moreno-Ramírez</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/santiago-casado/">Santiago Casado</a></span>, <span >
+      <a href="../../es/author/micaela-matta/">Micaela Matta</a></span>, <span >
+      <a href="../../es/author/johannes-gierschner/">Johannes Gierschner</a></span>, <span >
+      <a href="../../es/author/luca-muccioli/">Luca Muccioli</a></span>, <span >
+      <a href="../../es/author/seong-jun-yoon/">Seong-Jun Yoon</a></span>, <span >
+      <a href="../../es/author/shinto-varghese/">Shinto Varghese</a></span>, <span >
+      <a href="../../es/author/soo-young-park/">Soo Young Park</a></span>, <span >
+      <a href="../../es/author/enrico-gnecco/">Enrico Gnecco</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>
+  </span>
+  (2017).
+  <a href="../../es/publication/alvarez-asencio-molecular-scale-2017/">Molecular-scale shear response of the organic semiconductor β -DBDCS (100) surface</a>.
+  <em>Physical Review B</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://link.aps.org/doi/10.1103/PhysRevB.96.115422" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/alvarez-asencio-molecular-scale-2017/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1103/PhysRevB.96.115422" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2017">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/angel-crespo-lopez/">Ángel Crespo López</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/patricia-pedraz/">Patricia Pedraz</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>
+  </span>
+  (2017).
+  <a href="../../es/publication/crespo-lopez-first-2017/">First occurrence of the rare mineral slavikite in Spain</a>.
+  <em>Journal of Iberian Geology</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://link.springer.com/10.1007/s41513-017-0030-6" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/crespo-lopez-first-2017/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s41513-017-0030-6" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-7 year-2017">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>
+  </span>
+  (2017).
+  <a href="../../es/publication/pimentel-synthesis-2017/">Synthesis and reactivity of minerals of dolomite group and analogue phases (Síntesis y reactividad de minerales del grupo de la dolomita y fases análogas)</a>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://eprints.ucm.es/id/eprint/45758/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pimentel-synthesis-2017/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2017">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/tamara-gonzalez-illanes/">Tamara González-Illanes</a></span>, <span >
+      <a href="../../es/author/maria-teresa-borrero/">María Teresa Borrero</a></span>, <span >
+      <a href="../../es/author/miriam-m.-herraez/">Miriam M. Herráez</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>
+  </span>
+  (2017).
+  <a href="../../es/publication/gonzalez-illanes-pseudomorphic-2017/">Pseudomorphic Replacement of Mg–Ca Carbonates after Gypsum and Anhydrite</a>.
+  <em>ACS Earth and Space Chemistry</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pubs.acs.org/doi/10.1021/acsearthspacechem.7b00027" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/gonzalez-illanes-pseudomorphic-2017/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/acsearthspacechem.7b00027" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-6 year-2017">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>
+  </span>
+  (2017).
+  <a href="../../es/publication/pina-formation-2017/">Formation of dolomite analogues at ambient conditions</a>.
+  <em>Dolomite: Formation, characteristics and environmental impact</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pina-formation-2017/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2016">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/shinto-varghese/">Shinto Varghese</a></span>, <span >
+      <a href="../../es/author/seong-jun-yoon/">Seong-Jun Yoon</a></span>, <span >
+      <a href="../../es/author/soo-young-park/">Soo Young Park</a></span>, <span >
+      <a href="../../es/author/johannes-gierschner/">Johannes Gierschner</a></span>, <span >
+      <a href="../../es/author/enrico-gnecco/">Enrico Gnecco</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>
+  </span>
+  (2016).
+  <a href="../../es/publication/pimentel-sub-nanometer-2016/">Sub-nanometer resolution of an organic semiconductor crystal surface using friction force microscopy in water</a>.
+  <em>Journal of Physics: Condensed Matter</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://iopscience.iop.org/article/10.1088/0953-8984/28/13/134002" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pimentel-sub-nanometer-2016/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1088/0953-8984/28/13/134002" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2016">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>
+  </span>
+  (2016).
+  <a href="../../es/publication/pimentel-reaction-2016/">Reaction pathways towards the formation of dolomite-analogues at ambient conditions</a>.
+  <em>Geochimica et Cosmochimica Acta</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://linkinghub.elsevier.com/retrieve/pii/S0016703716300175" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pimentel-reaction-2016/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.gca.2015.12.040" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2016">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/j.-g.-vilhena/">J. G. Vilhena</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/patricia-pedraz/">Patricia Pedraz</a></span>, <span >
+      <a href="../../es/author/feng-luo/">Feng Luo</a></span>, <span >
+      <a href="../../es/author/pedro-a.-serena/">Pedro A. Serena</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>, <span >
+      <a href="../../es/author/enrico-gnecco/">Enrico Gnecco</a></span>, <span >
+      <a href="../../es/author/ruben-perez/">Rubén Pérez</a></span>
+  </span>
+  (2016).
+  <a href="../../es/publication/vilhena-atomic-scale-2016/">Atomic-Scale Sliding Friction on Graphene in Water</a>.
+  <em>ACS Nano</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/acsnano.5b07825" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/vilhena-atomic-scale-2016/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/acsnano.5b07825" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2015">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/enrico-gnecco/">Enrico Gnecco</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>
+  </span>
+  (2015).
+  <a href="../../es/publication/pimentel-high-resolution-2015/">High-resolution imaging of (100) kyanite surfaces using friction force microscopy in water</a>.
+  <em>Surface Science</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://linkinghub.elsevier.com/retrieve/pii/S0039602815000114" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pimentel-high-resolution-2015/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.susc.2015.01.008" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-6 year-2015">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/enrico-gnecco/">Enrico Gnecco</a></span>
+  </span>
+  (2015).
+  <a href="../../es/publication/gnecco-friction-2015/">Friction and Wear of Mineral Surfaces in Liquid Environments</a>.
+  <em>Fundamentals of Friction and Wear on the Nanoscale</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://link.springer.com/10.1007/978-3-319-10560-4_9" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/gnecco-friction-2015/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-319-10560-4_9" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2014">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/enrico-gnecco/">Enrico Gnecco</a></span>, <span >
+      <a href="../../es/author/pawel-nita/">Pawel Nita</a></span>, <span >
+      <a href="../../es/author/santiago-casado/">Santiago Casado</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/karine-mougin/">Karine Mougin</a></span>, <span >
+      <a href="../../es/author/maria-caterina-giordano/">Maria Caterina Giordano</a></span>, <span >
+      <a href="../../es/author/diego-repetto/">Diego Repetto</a></span>, <span >
+      <a href="../../es/author/francesco-buatier-de-mongeot/">Francesco Buatier de Mongeot</a></span>
+  </span>
+  (2014).
+  <a href="../../es/publication/gnecco-channeling-2014/">Channeling motion of gold nanospheres on a rippled glassed surface</a>.
+  <em>Nanotechnology</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://iopscience.iop.org/article/10.1088/0957-4484/25/48/485302" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/gnecco-channeling-2014/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1088/0957-4484/25/48/485302" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2014">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>
+  </span>
+  (2014).
+  <a href="../../es/publication/pimentel-formation-2014/">The formation of the dolomite-analogue norsethite: Reaction pathway and cation ordering</a>.
+  <em>Geochimica et Cosmochimica Acta</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://linkinghub.elsevier.com/retrieve/pii/S0016703714004839" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pimentel-formation-2014/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.gca.2014.07.021" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2014">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/pawel-nita/">Pawel Nita</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/feng-luo/">Feng Luo</a></span>, <span >
+      <a href="../../es/author/begona-milian-medina/">Begoña Milián-Medina</a></span>, <span >
+      <a href="../../es/author/johannes-gierschner/">Johannes Gierschner</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>, <span >
+      <a href="../../es/author/enrico-gnecco/">Enrico Gnecco</a></span>
+  </span>
+  (2014).
+  <a href="../../es/publication/nita-molecular-2014/">Molecular resolution friction microscopy of Cu phthalocyanine thin films on dolomite (104) in water</a>.
+  <em>Nanoscale</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://xlink.rsc.org/?DOI=C4NR01522C" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/nita-molecular-2014/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1039/C4NR01522C" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2013">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/raul-benages-vilau/">Raúl Benages-Vilau</a></span>, <span >
+      <a href="../../es/author/teresa-calvet/">Teresa Calvet</a></span>, <span >
+      <a href="../../es/author/miquel-angel-cuevas-diarte/">Miquel Àngel Cuevas-Diarte</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>
+  </span>
+  (2013).
+  <a href="../../es/publication/benages-vilau-epitaxial-2013/">Epitaxial Crystal Growth of Nitratine on Calcite (10.4) Cleavage Faces at the Nanoscale</a>.
+  <em>Crystal Growth &amp; Design</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pubs.acs.org/doi/10.1021/cg401327h" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/benages-vilau-epitaxial-2013/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/cg401327h" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2013">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>, <span >
+      <a href="../../es/author/enrico-gnecco/">Enrico Gnecco</a></span>
+  </span>
+  (2013).
+  <a href="../../es/publication/pimentel-epitaxial-2013/">Epitaxial Growth of Calcite Crystals on Dolomite and Kutnahorite (104) Surfaces</a>.
+  <em>Crystal Growth &amp; Design</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pubs.acs.org/doi/10.1021/cg400315g" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pimentel-epitaxial-2013/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/cg400315g" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2010">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-m.-pina/">Carlos M. Pina</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>, <span >
+      <a href="../../es/author/marta-garcia-merino/">Marta García-Merino</a></span>
+  </span>
+  (2010).
+  <a href="../../es/publication/pina-high-2010/">High resolution imaging of the dolomite (104) cleavage surface by atomic force microscopy</a>.
+  <em>Surface Science</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0039602810003055" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/pina-high-2010/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.susc.2010.07.019" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2010">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="../../es/author/carlos-fernandez/">Carlos Fernández</a></span>, <span >
+      <a href="../../es/author/francisco-anguita/">Francisco Anguita</a></span>, <span >
+      <a href="../../es/author/javier-ruiz/">Javier Ruiz</a></span>, <span >
+      <a href="../../es/author/ignacio-romeo/">Ignacio Romeo</a></span>, <span >
+      <a href="../../es/author/alvaro-i.-martin-herrero/">Álvaro I. Martín-Herrero</a></span>, <span >
+      <a href="../../es/author/alberto-rodriguez/">Alberto Rodríguez</a></span>, <span >
+      <a href="../../es/author/carlos-pimentel/">Carlos Pimentel</a></span>
+  </span>
+  (2010).
+  <a href="../../es/publication/fernandez-structural-2010/">Structural evolution of Lavinia Planitia, Venus: Implications for the tectonics of the lowland plains</a>.
+  <em>Icarus</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://linkinghub.elsevier.com/retrieve/pii/S0019103509003224" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/es/publication/fernandez-structural-2010/cite.bib">
+  Citar
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.icarus.2009.07.030" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+      </div>
+
+    </div>
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+  <p class="powered-by">
+    
+      <a href="../../es/privacy/">Política de privacidad</a>
+    
+    
+  </p>
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Citar</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copiar
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Descargar
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="../../js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="../../es/js/wowchemy.min.c1a05dff37d751130e71dc3e253ec639.js"></script>
+
+    
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+</body>
+</html>

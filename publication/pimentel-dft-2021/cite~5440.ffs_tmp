@@ -1,0 +1,18 @@
+@article{pimentel_dft_2021,
+ abstract = {Norsethite, BaMg(CO3)2, is an interesting mineral that can be used to investigate processes leading to the formation of dolomite and other dolomite-type structures. To this end, it is first necessary to study in detail the Ba–Mg cation arrangement in the crystal structure of norsethite. In this work, first-principles calculations based on density functional theory (DFT) have been used to simulate cation ordering for the crystal structures of two BaMg(CO3)2 polymorphs: the low-temperature polymorph (up to ∼360 K), α-norsethite (R3̅c), and the high-temperature polymorph (above ∼360 K), β-norsethite (R3̅m). We found that for both structural variants of norsethite, the most stable cation arrangements are those with the alternation of barium and magnesium layers along the c-axis. Furthermore, we have adequately simulated nonstoichiometric β-norsethite structures since some synthetic norsethites were found to have an excess of magnesium, which seems to favor the crystallization of β-norsethite at room temperature.},
+ author = {Pimentel, Carlos and Pina, Carlos M. and Sainz-Díaz, C. Ignacio},
+ copyright = {All rights reserved},
+ doi = {10.1021/acsearthspacechem.1c00058},
+ file = {Full Text PDF:G\:\\Mi unidad\\ZoteroLibrary\\storage\\CPDIJE44\Πmentel et al. - 2021 - DFT Simulations of the Structure and Cation Order .pdf:application/pdf},
+ journal = {ACS Earth and Space Chemistry},
+ month = {June},
+ note = {Publisher: American Chemical Society},
+ number = {6},
+ pages = {1486--1497},
+ title = {DFT Simulations of the Structure and Cation Order of Norsethite, BaMg(CO3)2},
+ url = {https://doi.org/10.1021/acsearthspacechem.1c00058},
+ urldate = {2021-06-30},
+ volume = {5},
+ year = {2021}
+}
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luis Adrián Lara | Carlos Pimentel</title>
+    <link>/es/author/luis-adrian-lara/</link>
+      <atom:link href="/es/author/luis-adrian-lara/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luis Adrián Lara</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu89b1626e126321b947b1558354cc8402_5323_512x512_fill_lanczos_center_3.png</url>
+      <title>Luis Adrián Lara</title>
+      <link>/es/author/luis-adrian-lara/</link>
+    </image>
+    
+    <item>
+      <title>Foliar Application of Potassium Salts to Olive, with Focus on Accompanying Anions</title>
+      <link>/es/publication/bahamonde-foliar-2023/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/es/publication/bahamonde-foliar-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
