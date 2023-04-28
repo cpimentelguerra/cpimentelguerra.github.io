@@ -348,6 +348,51 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/es/author/c.-ignacio-sainz-diaz/</loc>
+      <lastmod>2023-03-16T16:38:58+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/c.-ignacio-sainz-diaz/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/c.-ignacio-sainz-diaz/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/publication/pimentel-chemobrionics-2023/</loc>
+      <lastmod>2023-03-16T16:38:58+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/pimentel-chemobrionics-2023/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/pimentel-chemobrionics-2023/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/mingchuan-zheng/</loc>
+      <lastmod>2023-03-16T16:38:58+02:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/mingchuan-zheng/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/mingchuan-zheng/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/es/publication/bahamonde-foliar-2023/</loc>
       <lastmod>2023-01-19T10:38:58+02:00</lastmod>
       <xhtml:link
@@ -484,21 +529,6 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/tags/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/c.-ignacio-sainz-diaz/</loc>
-      <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/c.-ignacio-sainz-diaz/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/c.-ignacio-sainz-diaz/"
                   />
     </url>
   

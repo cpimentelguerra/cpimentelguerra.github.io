@@ -2322,6 +2322,88 @@ References related to this project:
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/project/chemobrionicsdb/</guid>
       <description>&lt;p&gt;The database, references and information related can be found here: &lt;a href=&#34;https://cpimentelguerra.com/chemobrionics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chemobrionics Database&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;References related to this project:
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;../../author/carlos-pimentel/&#34;&gt;Carlos Pimentel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../../author/mingchuan-zheng/&#34;&gt;Mingchuan Zheng&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../../author/julyan-h.-e.-cartwright/&#34;&gt;Julyan H. E. Cartwright&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../../author/c.-ignacio-sainz-diaz/&#34;&gt;C. Ignacio Sainz-Díaz&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2023).
+  &lt;a href=&#34;../../publication/pimentel-chemobrionics-2023/&#34;&gt;Chemobrionics Database: Categorisation of Chemical Gardens According to the Nature of the Anion, Cation and Experimental Procedure&lt;/a&gt;.
+  &lt;em&gt;ChemSystemsChem&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/syst.202300002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/pimentel-chemobrionics-2023/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1002/syst.202300002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -2330,7 +2412,56 @@ References related to this project:
       <link>/publication/rocha-formation-nodate/</link>
       <pubDate>Sat, 23 Oct 2021 16:38:11 +0000</pubDate>
       <guid>/publication/rocha-formation-nodate/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1029/2021GC009724&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1029/2021GC009724&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1029/2021GC009724&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2338,7 +2469,56 @@ References related to this project:
       <link>/publication/pina-dolomite-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/publication/pina-dolomite-2020/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1016/j.chemgeo.2020.119667&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1016/j.chemgeo.2020.119667&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1016/j.chemgeo.2020.119667&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2346,7 +2526,56 @@ References related to this project:
       <link>/publication/crespo-lopez-first-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       <guid>/publication/crespo-lopez-first-2017/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1007/s41513-017-0030-6&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1007/s41513-017-0030-6&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1007/s41513-017-0030-6&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2354,7 +2583,56 @@ References related to this project:
       <link>/publication/gonzalez-illanes-pseudomorphic-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <guid>/publication/gonzalez-illanes-pseudomorphic-2017/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1021/acsearthspacechem.7b00027&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1021/acsearthspacechem.7b00027&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1021/acsearthspacechem.7b00027&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2362,7 +2640,12 @@ References related to this project:
       <link>/publication/pimentel-synthesis-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-synthesis-2017/</guid>
-      <description></description>
+      <description>
+
+
+
+
+</description>
     </item>
     
     <item>
@@ -2370,7 +2653,56 @@ References related to this project:
       <link>/publication/pimentel-reaction-2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-reaction-2016/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1016/j.gca.2015.12.040&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1016/j.gca.2015.12.040&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1016/j.gca.2015.12.040&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2378,7 +2710,56 @@ References related to this project:
       <link>/publication/pimentel-formation-2014/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-formation-2014/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1016/j.gca.2014.07.021&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1016/j.gca.2014.07.021&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1016/j.gca.2014.07.021&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2386,7 +2767,56 @@ References related to this project:
       <link>/publication/benages-vilau-epitaxial-2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
       <guid>/publication/benages-vilau-epitaxial-2013/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1021/cg401327h&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1021/cg401327h&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1021/cg401327h&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2394,7 +2824,56 @@ References related to this project:
       <link>/publication/pimentel-epitaxial-2013/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-epitaxial-2013/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1021/cg400315g&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1021/cg400315g&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1021/cg400315g&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
   </channel>

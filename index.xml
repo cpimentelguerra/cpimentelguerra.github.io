@@ -2389,6 +2389,88 @@ fig.show()
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/project/chemobrionicsdb/</guid>
       <description>&lt;p&gt;The database, references and information related can be found here: &lt;a href=&#34;https://cpimentelguerra.com/chemobrionics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chemobrionics Database&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;References related to this project:
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;./author/carlos-pimentel/&#34;&gt;Carlos Pimentel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;./author/mingchuan-zheng/&#34;&gt;Mingchuan Zheng&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;./author/julyan-h.-e.-cartwright/&#34;&gt;Julyan H. E. Cartwright&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;./author/c.-ignacio-sainz-diaz/&#34;&gt;C. Ignacio Sainz-Díaz&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2023).
+  &lt;a href=&#34;./publication/pimentel-chemobrionics-2023/&#34;&gt;Chemobrionics Database: Categorisation of Chemical Gardens According to the Nature of the Anion, Cation and Experimental Procedure&lt;/a&gt;.
+  &lt;em&gt;ChemSystemsChem&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/syst.202300002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/pimentel-chemobrionics-2023/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1002/syst.202300002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -2633,7 +2715,113 @@ References related to this project:
       <link>/publication/checa-evidence-2023/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>/publication/checa-evidence-2023/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1557/s43577-022-00418-y&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1557/s43577-022-00418-y&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1557/s43577-022-00418-y&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Chemobrionics Database: Categorisation of Chemical Gardens According to the Nature of the Anion, Cation and Experimental Procedure</title>
+      <link>/publication/pimentel-chemobrionics-2023/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/pimentel-chemobrionics-2023/</guid>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1002/syst.202300002&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1002/syst.202300002&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1002/syst.202300002&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2641,7 +2829,56 @@ References related to this project:
       <link>/publication/bahamonde-foliar-2023/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/publication/bahamonde-foliar-2023/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.3390/plants12030472&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.3390/plants12030472&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.3390/plants12030472&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2649,7 +2886,56 @@ References related to this project:
       <link>/publication/berent-helical-2022/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/publication/berent-helical-2022/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1103/PhysRevMaterials.6.105601&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1103/PhysRevMaterials.6.105601&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1103/PhysRevMaterials.6.105601&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2657,7 +2943,56 @@ References related to this project:
       <link>/publication/pimentel-effect-2022/</link>
       <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-effect-2022/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1021/acsearthspacechem.2c00205&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1021/acsearthspacechem.2c00205&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1021/acsearthspacechem.2c00205&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2665,7 +3000,56 @@ References related to this project:
       <link>/publication/pimentel-new-2022/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-new-2022/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1021/acsearthspacechem.2c00100&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1021/acsearthspacechem.2c00100&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1021/acsearthspacechem.2c00100&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2673,7 +3057,56 @@ References related to this project:
       <link>/publication/pimentel-effects-2022/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-effects-2022/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1016/j.clay.2022.106496&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1016/j.clay.2022.106496&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1016/j.clay.2022.106496&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2681,7 +3114,56 @@ References related to this project:
       <link>/publication/figueiredo-experimental-2022/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>/publication/figueiredo-experimental-2022/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1016/j.xphs.2022.05.012&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1016/j.xphs.2022.05.012&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1016/j.xphs.2022.05.012&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2689,7 +3171,56 @@ References related to this project:
       <link>/publication/pina-dolomite-2022/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>/publication/pina-dolomite-2022/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1021/acsearthspacechem.2c00078&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1021/acsearthspacechem.2c00078&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1021/acsearthspacechem.2c00078&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2697,7 +3228,56 @@ References related to this project:
       <link>/publication/almonte-rose-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/publication/almonte-rose-2022/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1002/nano.202100193&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1002/nano.202100193&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1002/nano.202100193&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2908,7 +3488,56 @@ d.parentNode.insertBefore(e,d);
       <link>/publication/rocha-formation-nodate/</link>
       <pubDate>Sat, 23 Oct 2021 16:38:11 +0000</pubDate>
       <guid>/publication/rocha-formation-nodate/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1029/2021GC009724&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1029/2021GC009724&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1029/2021GC009724&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2973,7 +3602,56 @@ d.parentNode.insertBefore(e,d);
       <link>/publication/zvir-effect-2021/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>/publication/zvir-effect-2021/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.3390/min11070702&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.3390/min11070702&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.3390/min11070702&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2981,7 +3659,56 @@ d.parentNode.insertBefore(e,d);
       <link>/publication/pimentel-dft-2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-dft-2021/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1021/acsearthspacechem.1c00058&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1021/acsearthspacechem.1c00058&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1021/acsearthspacechem.1c00058&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2989,7 +3716,56 @@ d.parentNode.insertBefore(e,d);
       <link>/publication/pimentel-tungstate-2020/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-tungstate-2020/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1002/syst.202000023&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1002/syst.202000023&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1002/syst.202000023&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -2997,7 +3773,56 @@ d.parentNode.insertBefore(e,d);
       <link>/publication/pimentel-formation-2020/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-formation-2020/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1016/j.jcrysgro.2020.125892&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1016/j.jcrysgro.2020.125892&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1016/j.jcrysgro.2020.125892&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3005,7 +3830,56 @@ d.parentNode.insertBefore(e,d);
       <link>/publication/pina-dolomite-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/publication/pina-dolomite-2020/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1016/j.chemgeo.2020.119667&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1016/j.chemgeo.2020.119667&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1016/j.chemgeo.2020.119667&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3013,7 +3887,56 @@ d.parentNode.insertBefore(e,d);
       <link>/publication/fernandez-salt-2020/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/publication/fernandez-salt-2020/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1002/jpln.202000168&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1002/jpln.202000168&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1002/jpln.202000168&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3021,7 +3944,56 @@ d.parentNode.insertBefore(e,d);
       <link>/publication/koishi-surface-2019/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/publication/koishi-surface-2019/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1021/acs.chemmater.9b00417&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1021/acs.chemmater.9b00417&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1021/acs.chemmater.9b00417&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3158,7 +4130,56 @@ $$&lt;/p&gt;
       <link>/publication/agmon-estimation-2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/publication/agmon-estimation-2018/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1038/s41598-018-22847-z&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1038/s41598-018-22847-z&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1038/s41598-018-22847-z&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3166,7 +4187,56 @@ $$&lt;/p&gt;
       <link>/publication/pimentel-epitaxial-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-epitaxial-2018/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1021/acs.jpcc.8b05963&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1021/acs.jpcc.8b05963&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1021/acs.jpcc.8b05963&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3174,7 +4244,56 @@ $$&lt;/p&gt;
       <link>/publication/crespo-lopez-first-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       <guid>/publication/crespo-lopez-first-2017/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1007/s41513-017-0030-6&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1007/s41513-017-0030-6&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1007/s41513-017-0030-6&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3182,7 +4301,56 @@ $$&lt;/p&gt;
       <link>/publication/alvarez-asencio-molecular-scale-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       <guid>/publication/alvarez-asencio-molecular-scale-2017/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1103/PhysRevB.96.115422&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1103/PhysRevB.96.115422&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1103/PhysRevB.96.115422&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3190,7 +4358,56 @@ $$&lt;/p&gt;
       <link>/publication/gonzalez-illanes-pseudomorphic-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <guid>/publication/gonzalez-illanes-pseudomorphic-2017/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1021/acsearthspacechem.7b00027&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1021/acsearthspacechem.7b00027&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1021/acsearthspacechem.7b00027&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3198,7 +4415,12 @@ $$&lt;/p&gt;
       <link>/publication/pimentel-synthesis-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-synthesis-2017/</guid>
-      <description></description>
+      <description>
+
+
+
+
+</description>
     </item>
     
     <item>
@@ -3206,7 +4428,12 @@ $$&lt;/p&gt;
       <link>/publication/pina-formation-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/pina-formation-2017/</guid>
-      <description></description>
+      <description>
+
+
+
+
+</description>
     </item>
     
     <item>
@@ -3214,7 +4441,56 @@ $$&lt;/p&gt;
       <link>/publication/vilhena-atomic-scale-2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/publication/vilhena-atomic-scale-2016/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1021/acsnano.5b07825&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1021/acsnano.5b07825&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1021/acsnano.5b07825&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3222,7 +4498,56 @@ $$&lt;/p&gt;
       <link>/publication/pimentel-reaction-2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-reaction-2016/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1016/j.gca.2015.12.040&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1016/j.gca.2015.12.040&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1016/j.gca.2015.12.040&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3230,7 +4555,56 @@ $$&lt;/p&gt;
       <link>/publication/pimentel-sub-nanometer-2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-sub-nanometer-2016/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1088/0953-8984/28/13/134002&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1088/0953-8984/28/13/134002&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1088/0953-8984/28/13/134002&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3238,7 +4612,56 @@ $$&lt;/p&gt;
       <link>/publication/pimentel-high-resolution-2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-high-resolution-2015/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1016/j.susc.2015.01.008&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1016/j.susc.2015.01.008&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1016/j.susc.2015.01.008&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3246,7 +4669,56 @@ $$&lt;/p&gt;
       <link>/publication/gnecco-friction-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/publication/gnecco-friction-2015/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1007/978-3-319-10560-4_9&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1007/978-3-319-10560-4_9&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1007/978-3-319-10560-4_9&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3254,7 +4726,56 @@ $$&lt;/p&gt;
       <link>/publication/gnecco-channeling-2014/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       <guid>/publication/gnecco-channeling-2014/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1088/0957-4484/25/48/485302&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1088/0957-4484/25/48/485302&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1088/0957-4484/25/48/485302&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3262,7 +4783,56 @@ $$&lt;/p&gt;
       <link>/publication/pimentel-formation-2014/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-formation-2014/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1016/j.gca.2014.07.021&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1016/j.gca.2014.07.021&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1016/j.gca.2014.07.021&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3270,7 +4840,56 @@ $$&lt;/p&gt;
       <link>/publication/nita-molecular-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>/publication/nita-molecular-2014/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1039/C4NR01522C&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1039/C4NR01522C&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1039/C4NR01522C&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3278,7 +4897,56 @@ $$&lt;/p&gt;
       <link>/publication/benages-vilau-epitaxial-2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
       <guid>/publication/benages-vilau-epitaxial-2013/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1021/cg401327h&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1021/cg401327h&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1021/cg401327h&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3286,7 +4954,56 @@ $$&lt;/p&gt;
       <link>/publication/pimentel-epitaxial-2013/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
       <guid>/publication/pimentel-epitaxial-2013/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1021/cg400315g&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1021/cg400315g&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1021/cg400315g&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3294,7 +5011,56 @@ $$&lt;/p&gt;
       <link>/publication/pina-high-2010/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
       <guid>/publication/pina-high-2010/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1016/j.susc.2010.07.019&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1016/j.susc.2010.07.019&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1016/j.susc.2010.07.019&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
@@ -3302,7 +5068,56 @@ $$&lt;/p&gt;
       <link>/publication/fernandez-structural-2010/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
       <guid>/publication/fernandez-structural-2010/</guid>
-      <description></description>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1016/j.icarus.2009.07.030&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1016/j.icarus.2009.07.030&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1016/j.icarus.2009.07.030&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>

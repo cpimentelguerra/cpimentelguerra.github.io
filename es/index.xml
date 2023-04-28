@@ -2389,6 +2389,88 @@ fig.show()
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/es/project/chemobrionicsdb/</guid>
       <description>&lt;p&gt;La base de datos, las referencias e información adicional pueden encontrarse aquí: &lt;a href=&#34;https://cpimentelguerra.com/chemobrionics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chemobrionics Database&lt;/a&gt; (en inglés)&lt;/p&gt;
+&lt;p&gt;References related to this project:
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;../es/author/carlos-pimentel/&#34;&gt;Carlos Pimentel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../es/author/mingchuan-zheng/&#34;&gt;Mingchuan Zheng&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../es/author/julyan-h.-e.-cartwright/&#34;&gt;Julyan H. E. Cartwright&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;../es/author/c.-ignacio-sainz-diaz/&#34;&gt;C. Ignacio Sainz-Díaz&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2023).
+  &lt;a href=&#34;../es/publication/pimentel-chemobrionics-2023/&#34;&gt;Chemobrionics Database: Categorisation of Chemical Gardens According to the Nature of the Anion, Cation and Experimental Procedure&lt;/a&gt;.
+  &lt;em&gt;ChemSystemsChem&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/syst.202300002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/es/publication/pimentel-chemobrionics-2023/cite.bib&#34;&gt;
+  Citar
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1002/syst.202300002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -2634,6 +2716,14 @@ Referencias relacionadas con este proyecto:
       <link>/es/publication/checa-evidence-2023/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>/es/publication/checa-evidence-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemobrionics Database: Categorisation of Chemical Gardens According to the Nature of the Anion, Cation and Experimental Procedure</title>
+      <link>/es/publication/pimentel-chemobrionics-2023/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/es/publication/pimentel-chemobrionics-2023/</guid>
       <description></description>
     </item>
     
