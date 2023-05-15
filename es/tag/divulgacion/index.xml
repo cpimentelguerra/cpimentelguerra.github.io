@@ -5,7 +5,7 @@
     <link>/es/tag/divulgacion/</link>
       <atom:link href="/es/tag/divulgacion/index.xml" rel="self" type="application/rss+xml" />
     <description>Divulgación</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Sat, 23 Oct 2021 19:11:19 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Mon, 15 May 2023 10:50:19 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu89b1626e126321b947b1558354cc8402_5323_512x512_fill_lanczos_center_3.png</url>
       <title>Divulgación</title>
@@ -43,6 +43,18 @@ Este proyecto es posible gracias a la financiación recibida mediante Proyectos 
       <description>&lt;p&gt;Este proyecto, en colaboración con Carlos M. Pina, se centra en la divulgación de diferentes conceptos científicos, con especial énfasis en la mineralogía, a partir de los minerales que aparecen en películas, libros, cómics y videojuegos de ciencia ficción y fantasía.&lt;/p&gt;
 &lt;p&gt;Gracias a este proyecto, hemos publicado dos libros, realizado varias exposiciones e impartido numerosas charlas. Para ver una lista completa de estas actividades, consulte &lt;a href=&#34;../../../es/post/dissemination&#34;&gt;divulgación&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Modelos obtenidos mediante fotogrametría</title>
+      <link>/es/project/photogrammetry-models/</link>
+      <pubDate>Mon, 15 May 2023 10:50:19 +0000</pubDate>
+      <guid>/es/project/photogrammetry-models/</guid>
+      <description>&lt;p&gt;Este proyecto nació con la idea de obtener modelos 3D de los jardines químicos que obtenia en el laboratorio para tener un visión general del jardin despues de destruirlo para poder analizarlo. Lo primero que ví al utilizar la fotogrametria es que era una tecnica más compleja de lo que esperaba, asi que tuve que empezar con modelos naturales más sencillos y de mayor tamaño que los jardines químicos. Como muestra algunos de los primeros modelos que hice.
+&lt;br&gt;
+\&lt;/p&gt;
+&lt;iframe loading=&#34;lazy&#34; align=&#34;center&#34; src=&#34;https://cpimentelguerra.com/uploads/Pika/Pika.html&#34; height=&#34;300&#34; width=&#34;100%&#34;&gt;&lt;/iframe&gt;
+&lt;p align=&#34;right&#34;&gt;Modelo 3D de una vertebra&lt;/p&gt;</description>
     </item>
     
   </channel>

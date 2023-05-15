@@ -5,7 +5,7 @@
     <link>/category/dissemination/</link>
       <atom:link href="/category/dissemination/index.xml" rel="self" type="application/rss+xml" />
     <description>Dissemination</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Oct 2021 19:11:19 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 10:50:19 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu89b1626e126321b947b1558354cc8402_5323_512x512_fill_lanczos_center_3.png</url>
       <title>Dissemination</title>
@@ -42,6 +42,18 @@ This project has been made possible thanks to the funding received through the t
       <description>&lt;p&gt;This project, in collaboration with Carlos M. Pina, focuses on disseminating different scientific concepts, with special emphasis on mineralogy, based on the minerals that appear in science fiction and fantasy films, books, comics and video games.&lt;/p&gt;
 &lt;p&gt;Thanks to this project, we have published two books, held several exhibitions and given numerous talks. For a comprehensive list of these activities see &lt;a href=&#34;../../post/dissemination&#34;&gt;dissemination&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Photogrammetry models</title>
+      <link>/project/photogrammetry-models/</link>
+      <pubDate>Mon, 15 May 2023 10:50:19 +0000</pubDate>
+      <guid>/project/photogrammetry-models/</guid>
+      <description>&lt;p&gt;This project was started with the idea of obtaining 3D models of the chemical gardens that I obtained in the laboratory in order to have an overview of the garden after destroying it for analysis. The first thing I realised when using photogrammetry was that it was a more complex technique than I expected, so I had to start with natural models that were simpler and bigger than the chemical gardens. As a sample some of the first models I made.
+&lt;br&gt;
+\&lt;/p&gt;
+&lt;iframe loading=&#34;lazy&#34; align=&#34;center&#34; src=&#34;https://cpimentelguerra.com/uploads/Pika/Pika.html&#34; height=&#34;300&#34; width=&#34;100%&#34;&gt;&lt;/iframe&gt;
+&lt;p align=&#34;right&#34;&gt;Backbone 3D model&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -153,6 +153,21 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/es/project/photogrammetry-models/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/project/photogrammetry-models/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/project/photogrammetry-models/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/es/</loc>
       <lastmod>2023-11-01T00:00:00+00:00</lastmod>
       <xhtml:link
@@ -348,6 +363,71 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/es/categories/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/categories/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/categories/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tag/didactica/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/category/didactica/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tag/divulgacion/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/category/divulgacion/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/project/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/project/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/project/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/tags/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tags/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tags/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/es/author/c.-ignacio-sainz-diaz/</loc>
       <lastmod>2023-03-16T16:38:58+02:00</lastmod>
       <xhtml:link
@@ -468,21 +548,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/es/categories/</loc>
-      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/categories/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/categories/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/es/tag/cristalografia/</loc>
       <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     </url>
@@ -500,36 +565,6 @@
     <url>
       <loc>https://cpimentelguerra.com/es/category/mineralogia/</loc>
       <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/project/</loc>
-      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/project/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/project/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/tags/</loc>
-      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/tags/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/tags/"
-                  />
     </url>
   
     <url>
@@ -885,26 +920,6 @@
                   hreflang="es"
                   href="/es/privacy/"
                   />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/tag/divulgacion/</loc>
-      <lastmod>2021-10-23T19:11:19+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/category/divulgacion/</loc>
-      <lastmod>2021-10-23T19:11:19+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/tag/didactica/</loc>
-      <lastmod>2021-10-23T18:57:19+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/category/didactica/</loc>
-      <lastmod>2021-10-23T18:57:19+00:00</lastmod>
     </url>
   
     <url>

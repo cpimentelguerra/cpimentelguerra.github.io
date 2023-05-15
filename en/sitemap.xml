@@ -153,6 +153,21 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/project/photogrammetry-models/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/project/photogrammetry-models/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/project/photogrammetry-models/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/</loc>
       <lastmod>2023-11-01T00:00:00+00:00</lastmod>
       <xhtml:link
@@ -388,6 +403,56 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/categories/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/categories/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/categories/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/dissemination/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/category/dissemination/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/project/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/project/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/project/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/teaching/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/category/teaching/</loc>
+      <lastmod>2023-05-15T10:50:19+00:00</lastmod>
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/author/c.-ignacio-sainz-diaz/</loc>
       <lastmod>2023-03-16T16:38:58+02:00</lastmod>
       <xhtml:link
@@ -543,21 +608,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/categories/</loc>
-      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/categories/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/categories/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/tag/crystallography/</loc>
       <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     </url>
@@ -575,21 +625,6 @@
     <url>
       <loc>https://cpimentelguerra.com/category/mineralogy/</loc>
       <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/project/</loc>
-      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/project/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/project/"
-                  />
     </url>
   
     <url>
@@ -983,11 +1018,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/tag/dissemination/</loc>
-      <lastmod>2021-12-15T18:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/talk/inventa2021-award/</loc>
       <lastmod>2021-12-15T18:00:00+00:00</lastmod>
       <xhtml:link
@@ -1075,21 +1105,6 @@
                   hreflang="en"
                   href="/privacy/"
                   />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/category/dissemination/</loc>
-      <lastmod>2021-10-23T19:11:19+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tag/teaching/</loc>
-      <lastmod>2021-10-23T18:57:19+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/category/teaching/</loc>
-      <lastmod>2021-10-23T18:57:19+00:00</lastmod>
     </url>
   
     <url>
