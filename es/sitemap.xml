@@ -363,6 +363,51 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/es/author/angel-crespo/</loc>
+      <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/angel-crespo/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/angel-crespo/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/carlos-pina/</loc>
+      <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/carlos-pina/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/carlos-pina/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/publication/crespo-mineral-2023/</loc>
+      <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/crespo-mineral-2023/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/crespo-mineral-2023/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/es/categories/</loc>
       <lastmod>2023-05-15T10:50:19+00:00</lastmod>
       <xhtml:link
@@ -744,21 +789,6 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/publication/pina-dolomite-2022/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/angel-crespo/</loc>
-      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/angel-crespo/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/angel-crespo/"
                   />
     </url>
   

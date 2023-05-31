@@ -403,6 +403,81 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/author/angel-crespo/</loc>
+      <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/angel-crespo/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/angel-crespo/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/carlos-pina/</loc>
+      <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/carlos-pina/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/carlos-pina/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/iberian-peninsula/</loc>
+      <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/mineral-evolution/</loc>
+      <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication/crespo-mineral-2023/</loc>
+      <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/crespo-mineral-2023/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/crespo-mineral-2023/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/mineralogy/</loc>
+      <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/minerals/</loc>
+      <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/spain/</loc>
+      <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/sulphates/</loc>
+      <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/categories/</loc>
       <lastmod>2023-05-15T10:50:19+00:00</lastmod>
       <xhtml:link
@@ -614,11 +689,6 @@
   
     <url>
       <loc>https://cpimentelguerra.com/category/crystallography/</loc>
-      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tag/mineralogy/</loc>
       <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     </url>
   
@@ -903,21 +973,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/author/angel-crespo/</loc>
-      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/angel-crespo/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/angel-crespo/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/tag/cuticle/</loc>
       <lastmod>2022-05-10T09:07:28+02:00</lastmod>
     </url>
@@ -1170,11 +1225,6 @@
                   hreflang="en"
                   href="/author/luis-a.-m.-rocha/"
                   />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tag/minerals/</loc>
-      <lastmod>2021-10-23T18:38:12+02:00</lastmod>
     </url>
   
     <url>
@@ -1473,11 +1523,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/tag/iberian-peninsula/</loc>
-      <lastmod>2021-10-20T17:38:59+02:00</lastmod>
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/tag/point-of-deliquescence/</loc>
       <lastmod>2021-10-20T17:38:58+02:00</lastmod>
     </url>
@@ -1500,11 +1545,6 @@
                   hreflang="en"
                   href="/publication/fernandez-salt-2020/"
                   />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tag/spain/</loc>
-      <lastmod>2021-10-20T17:38:59+02:00</lastmod>
     </url>
   
     <url>
@@ -1955,11 +1995,6 @@
                   hreflang="en"
                   href="/author/soo-young-park/"
                   />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tag/sulphates/</loc>
-      <lastmod>2021-10-20T17:39:01+02:00</lastmod>
     </url>
   
     <url>
