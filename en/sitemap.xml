@@ -478,6 +478,136 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/tag/afm/</loc>
+      <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/calcite/</loc>
+      <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/crystallography/</loc>
+      <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/enrico-gnecco/</loc>
+      <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/enrico-gnecco/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/enrico-gnecco/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/felix-cassin/</loc>
+      <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/felix-cassin/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/felix-cassin/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/francesco-buatier-de-mongeot/</loc>
+      <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/francesco-buatier-de-mongeot/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/francesco-buatier-de-mongeot/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication/barelli-highly-2023/</loc>
+      <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/barelli-highly-2023/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/barelli-highly-2023/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/lead/</loc>
+      <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/maria-caterina-giordano/</loc>
+      <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/maria-caterina-giordano/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/maria-caterina-giordano/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/matteo-barelli/</loc>
+      <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/matteo-barelli/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/matteo-barelli/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/santiago-casado/</loc>
+      <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/santiago-casado/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/santiago-casado/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/surface-science/</loc>
+      <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/categories/</loc>
       <lastmod>2023-05-15T10:50:19+00:00</lastmod>
       <xhtml:link
@@ -680,11 +810,6 @@
                   hreflang="en"
                   href="/author/vikingur-bahamonde-fernandez/"
                   />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tag/crystallography/</loc>
-      <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -994,11 +1119,6 @@
   
     <url>
       <loc>https://cpimentelguerra.com/tag/wetting-parameter/</loc>
-      <lastmod>2022-05-10T09:07:28+02:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tag/afm/</loc>
       <lastmod>2022-05-10T09:07:28+02:00</lastmod>
     </url>
   
@@ -1423,21 +1543,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/author/enrico-gnecco/</loc>
-      <lastmod>2021-10-20T17:39:05+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/enrico-gnecco/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/enrico-gnecco/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/tag/ffm/</loc>
       <lastmod>2021-10-20T17:39:08+02:00</lastmod>
     </url>
@@ -1613,11 +1718,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/tag/calcite/</loc>
-      <lastmod>2021-10-20T17:39:08+02:00</lastmod>
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/author/german-montes-hernandez/</loc>
       <lastmod>2021-10-20T17:39:08+02:00</lastmod>
       <xhtml:link
@@ -1778,11 +1878,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/tag/surface-science/</loc>
-      <lastmod>2021-10-20T17:39:05+02:00</lastmod>
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/publication/pimentel-epitaxial-2018/</loc>
       <lastmod>2021-10-20T17:39:00+02:00</lastmod>
       <xhtml:link
@@ -1929,21 +2024,6 @@
                   rel="alternate"
                   hreflang="en"
                   href="/author/ruben-alvarez-asencio/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/author/santiago-casado/</loc>
-      <lastmod>2021-10-20T17:39:04+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/santiago-casado/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/santiago-casado/"
                   />
     </url>
   
@@ -2354,36 +2434,6 @@
                   rel="alternate"
                   hreflang="en"
                   href="/author/diego-repetto/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/author/francesco-buatier-de-mongeot/</loc>
-      <lastmod>2021-10-20T17:39:04+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/francesco-buatier-de-mongeot/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/francesco-buatier-de-mongeot/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/author/maria-caterina-giordano/</loc>
-      <lastmod>2021-10-20T17:39:04+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/maria-caterina-giordano/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/maria-caterina-giordano/"
                   />
     </url>
   
