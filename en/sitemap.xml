@@ -488,6 +488,21 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/author/carlos-m.-pina/</loc>
+      <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/carlos-m.-pina/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/carlos-m.-pina/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/tag/crystallography/</loc>
       <lastmod>2023-06-06T00:00:00+00:00</lastmod>
     </url>
@@ -905,21 +920,6 @@
     <url>
       <loc>https://cpimentelguerra.com/tag/ldh/</loc>
       <lastmod>2022-10-09T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/author/carlos-m.-pina/</loc>
-      <lastmod>2022-09-30T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/carlos-m.-pina/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/carlos-m.-pina/"
-                  />
     </url>
   
     <url>
