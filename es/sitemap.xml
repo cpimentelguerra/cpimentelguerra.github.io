@@ -409,7 +409,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/es/author/carlos-m.-pina/</loc>
-      <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+      <lastmod>2023-06-19T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -419,6 +419,81 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/author/carlos-m.-pina/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/publication/barlas-evaluating-2023/</loc>
+      <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/barlas-evaluating-2023/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/barlas-evaluating-2023/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/hector-a.-bahamonde/</loc>
+      <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/hector-a.-bahamonde/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/hector-a.-bahamonde/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/neriman-tuba-barlas/</loc>
+      <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/neriman-tuba-barlas/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/neriman-tuba-barlas/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/pedro-dominguez-huidobro/</loc>
+      <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/pedro-dominguez-huidobro/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/pedro-dominguez-huidobro/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/es/author/victoria-fernandez/</loc>
+      <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/victoria-fernandez/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/victoria-fernandez/"
                   />
     </url>
   
@@ -653,21 +728,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/es/author/hector-a.-bahamonde/</loc>
-      <lastmod>2023-01-19T10:38:58+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/hector-a.-bahamonde/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/hector-a.-bahamonde/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/es/author/luis-adrian-lara/</loc>
       <lastmod>2023-01-19T10:38:58+02:00</lastmod>
       <xhtml:link
@@ -683,21 +743,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/es/author/victoria-fernandez/</loc>
-      <lastmod>2023-01-19T10:38:58+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/victoria-fernandez/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/victoria-fernandez/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/es/author/vikingur-bahamonde-fernandez/</loc>
       <lastmod>2023-01-19T10:38:58+02:00</lastmod>
       <xhtml:link
@@ -709,51 +754,6 @@
                   rel="alternate"
                   hreflang="es"
                   href="/es/author/vikingur-bahamonde-fernandez/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/publication/barlas-evaluating-2023/</loc>
-      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication/barlas-evaluating-2023/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication/barlas-evaluating-2023/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/neriman-tuba-barlas/</loc>
-      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/neriman-tuba-barlas/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/neriman-tuba-barlas/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/es/author/pedro-dominguez-huidobro/</loc>
-      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/pedro-dominguez-huidobro/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/pedro-dominguez-huidobro/"
                   />
     </url>
   
