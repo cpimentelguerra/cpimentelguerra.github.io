@@ -828,6 +828,76 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/tag/crops/</loc>
+      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication/barlas-evaluating-2023/</loc>
+      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/barlas-evaluating-2023/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/barlas-evaluating-2023/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/foliar-uptake/</loc>
+      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/hygroscopic-salts/</loc>
+      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/leaf-anions/</loc>
+      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/leaf-wetting/</loc>
+      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/neriman-tuba-barlas/</loc>
+      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/neriman-tuba-barlas/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/neriman-tuba-barlas/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/pedro-dominguez-huidobro/</loc>
+      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/pedro-dominguez-huidobro/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/pedro-dominguez-huidobro/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/category/crystallography/</loc>
       <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     </url>
