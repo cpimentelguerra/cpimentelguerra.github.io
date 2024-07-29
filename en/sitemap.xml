@@ -169,7 +169,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/</loc>
-      <lastmod>2024-03-01T17:38:57+02:00</lastmod>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -184,7 +184,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/publication-type/2/</loc>
-      <lastmod>2024-03-01T17:38:57+02:00</lastmod>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -195,6 +195,231 @@
                   hreflang="en"
                   href="/publication-type/2/"
                   />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/adele-mucci/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/adele-mucci/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/adele-mucci/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/authors/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/authors/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/authors/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/beatrice-bighi/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/beatrice-bighi/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/beatrice-bighi/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/carlos-pimentel/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/carlos-pimentel/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/carlos-pimentel/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/claro-ignacio-sainz-diaz/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/claro-ignacio-sainz-diaz/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/claro-ignacio-sainz-diaz/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/daniele-malferrari/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/daniele-malferrari/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/daniele-malferrari/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/elena-castellini/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/elena-castellini/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/elena-castellini/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/fabrizio-bernini/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/fabrizio-bernini/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/fabrizio-bernini/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/intercalation/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/interlayer-structuring/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/marco-borsari/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/marco-borsari/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/marco-borsari/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/montmorillonite/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/phenanthroline/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication_types/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication_types/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication_types/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/speciation/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tags/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tags/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tags/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication/castellini-intercalation-2024/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/castellini-intercalation-2024/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/castellini-intercalation-2024/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/zincii/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -209,21 +434,6 @@
                   rel="alternate"
                   hreflang="en"
                   href="/author/antonio-g.-checa/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/authors/</loc>
-      <lastmod>2024-03-01T17:38:57+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/authors/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/authors/"
                   />
     </url>
   
@@ -254,21 +464,6 @@
                   rel="alternate"
                   hreflang="en"
                   href="/author/carlos-gutierrez-ariza/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/author/carlos-pimentel/</loc>
-      <lastmod>2024-03-01T17:38:57+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/carlos-pimentel/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/carlos-pimentel/"
                   />
     </url>
   
@@ -338,53 +533,8 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/publication_types/</loc>
-      <lastmod>2024-03-01T17:38:57+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication_types/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication_types/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/publication/</loc>
-      <lastmod>2024-03-01T17:38:57+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/tag/spain/</loc>
       <lastmod>2024-03-01T17:38:57+02:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tags/</loc>
-      <lastmod>2024-03-01T17:38:57+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/tags/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/tags/"
-                  />
     </url>
   
     <url>
@@ -648,8 +798,53 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/author/alberto-lopez-galindo/</loc>
+      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/alberto-lopez-galindo/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/alberto-lopez-galindo/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/ana-borrego-sanchez/</loc>
+      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/ana-borrego-sanchez/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/ana-borrego-sanchez/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/tag/carbonate-minerals/</loc>
       <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/cesar-viseras-iborra/</loc>
+      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/cesar-viseras-iborra/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/cesar-viseras-iborra/"
+                  />
     </url>
   
     <url>
@@ -668,6 +863,11 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/tag/fluorescent-sensor/</loc>
+      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/tag/foliar-fertilizers/</loc>
       <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -675,6 +875,21 @@
     <url>
       <loc>https://cpimentelguerra.com/tag/foliar-uptake/</loc>
       <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/fatima-garcia-villen/</loc>
+      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/fatima-garcia-villen/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/fatima-garcia-villen/"
+                  />
     </url>
   
     <url>
@@ -698,6 +913,41 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/author/giuseppe-cina/</loc>
+      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/giuseppe-cina/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/giuseppe-cina/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/hectorite/</loc>
+      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication/massaro-hectoritephenanthroline-based-2024/</loc>
+      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/massaro-hectoritephenanthroline-based-2024/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/massaro-hectoritephenanthroline-based-2024/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/author/joachim-shcoelkopf/</loc>
       <lastmod>2024-01-01T00:00:00+00:00</lastmod>
       <xhtml:link
@@ -713,6 +963,21 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/author/leonarda-f.-liotta/</loc>
+      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/leonarda-f.-liotta/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/leonarda-f.-liotta/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/author/luis-adrian-lara/</loc>
       <lastmod>2024-01-01T00:00:00+00:00</lastmod>
       <xhtml:link
@@ -724,6 +989,21 @@
                   rel="alternate"
                   hreflang="en"
                   href="/author/luis-adrian-lara/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/marina-massaro/</loc>
+      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/marina-massaro/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/marina-massaro/"
                   />
     </url>
   
@@ -758,6 +1038,36 @@
     </url>
   
     <url>
+      <loc>https://cpimentelguerra.com/author/rita-sanchez-espejo/</loc>
+      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/rita-sanchez-espejo/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/rita-sanchez-espejo/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/serena-riela/</loc>
+      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/serena-riela/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/serena-riela/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://cpimentelguerra.com/author/victoria-fernandez/</loc>
       <lastmod>2024-01-01T00:00:00+00:00</lastmod>
       <xhtml:link
@@ -770,6 +1080,11 @@
                   hreflang="en"
                   href="/author/victoria-fernandez/"
                   />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/zn-ion-detection/</loc>
+      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -1409,21 +1724,6 @@
                   rel="alternate"
                   hreflang="en"
                   href="/author/alexander-perez-de-la-luz/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/author/ana-borrego-sanchez/</loc>
-      <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/ana-borrego-sanchez/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/ana-borrego-sanchez/"
                   />
     </url>
   
