@@ -169,7 +169,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/</loc>
-      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -184,7 +184,7 @@
   
     <url>
       <loc>https://cpimentelguerra.com/publication-type/2/</loc>
-      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -194,6 +194,331 @@
                   rel="alternate"
                   hreflang="en"
                   href="/publication-type/2/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/alexander-e.-s.-van-driessche/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/alexander-e.-s.-van-driessche/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/alexander-e.-s.-van-driessche/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/authors/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/authors/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/authors/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/calcium-sulfate/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/carlos-pimentel/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/carlos-pimentel/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/carlos-pimentel/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/chemical-gardens/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/chemobrionics/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/elisabeth-wagner/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/elisabeth-wagner/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/elisabeth-wagner/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/gypsum/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication/reigl-gypsum-2025/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/reigl-gypsum-2025/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/reigl-gypsum-2025/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tag/life-on-mars/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/matthias-kellermeier/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/matthias-kellermeier/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/matthias-kellermeier/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication_types/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication_types/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication_types/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/selina-reigl/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/selina-reigl/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/selina-reigl/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/tags/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/tags/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/tags/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/werner-kunz/</loc>
+      <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/werner-kunz/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/werner-kunz/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/anna-neubeck/</loc>
+      <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/anna-neubeck/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/anna-neubeck/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/c.-ignacio-sainzdiaz/</loc>
+      <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/c.-ignacio-sainzdiaz/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/c.-ignacio-sainzdiaz/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/georgia-brown/</loc>
+      <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/georgia-brown/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/georgia-brown/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/julyan-h.-e.-cartwright/</loc>
+      <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/julyan-h.-e.-cartwright/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/julyan-h.-e.-cartwright/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/melanie-podbielski/</loc>
+      <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/melanie-podbielski/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/melanie-podbielski/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/pamela-knoll/</loc>
+      <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/pamela-knoll/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/pamela-knoll/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/sean-mcmahon/</loc>
+      <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/sean-mcmahon/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/sean-mcmahon/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/author/sigrid-huld/</loc>
+      <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/author/sigrid-huld/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/author/sigrid-huld/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://cpimentelguerra.com/publication/podbielski-troubles-2025/</loc>
+      <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="/es/publication/podbielski-troubles-2025/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="/publication/podbielski-troubles-2025/"
                   />
     </url>
   
@@ -213,21 +538,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/authors/</loc>
-      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/authors/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/authors/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/author/beatrice-bighi/</loc>
       <lastmod>2024-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
@@ -239,21 +549,6 @@
                   rel="alternate"
                   hreflang="en"
                   href="/author/beatrice-bighi/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/author/carlos-pimentel/</loc>
-      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/carlos-pimentel/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/carlos-pimentel/"
                   />
     </url>
   
@@ -353,53 +648,8 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/publication_types/</loc>
-      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication_types/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication_types/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/publication/</loc>
-      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/publication/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/publication/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/tag/speciation/</loc>
       <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tags/</loc>
-      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/tags/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/tags/"
-                  />
     </url>
   
     <url>
@@ -479,21 +729,6 @@
                   rel="alternate"
                   hreflang="en"
                   href="/tag/dolomite/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/author/julyan-h.-e.-cartwright/</loc>
-      <lastmod>2024-03-01T17:38:57+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/julyan-h.-e.-cartwright/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/julyan-h.-e.-cartwright/"
                   />
     </url>
   
@@ -623,11 +858,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/tag/calcium-sulfate/</loc>
-      <lastmod>2024-01-29T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/author/ernersto-scoppola/</loc>
       <lastmod>2024-01-29T00:00:00+00:00</lastmod>
       <xhtml:link
@@ -670,11 +900,6 @@
                   hreflang="en"
                   href="/author/german-montes-hernandez/"
                   />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tag/gypsum/</loc>
-      <lastmod>2024-01-29T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -1498,16 +1723,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/tag/chemical-gardens/</loc>
-      <lastmod>2023-03-16T16:38:58+02:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/tag/chemobrionics/</loc>
-      <lastmod>2023-03-16T16:38:58+02:00</lastmod>
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/publication/pimentel-chemobrionics-2023/</loc>
       <lastmod>2023-03-16T16:38:58+02:00</lastmod>
       <xhtml:link
@@ -2228,21 +2443,6 @@
     </url>
   
     <url>
-      <loc>https://cpimentelguerra.com/author/c.-ignacio-sainzdiaz/</loc>
-      <lastmod>2021-10-20T17:38:56+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/c.-ignacio-sainzdiaz/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/c.-ignacio-sainzdiaz/"
-                  />
-    </url>
-  
-    <url>
       <loc>https://cpimentelguerra.com/tag/crystal-growth/</loc>
       <lastmod>2021-10-20T17:39:05+02:00</lastmod>
     </url>
@@ -2369,21 +2569,6 @@
                   rel="alternate"
                   hreflang="en"
                   href="/author/alejandro-fernandez-martinez/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://cpimentelguerra.com/author/alexander-e.-s.-van-driessche/</loc>
-      <lastmod>2021-10-20T17:39:08+02:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="/es/author/alexander-e.-s.-van-driessche/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="/author/alexander-e.-s.-van-driessche/"
                   />
     </url>
   

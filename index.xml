@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlos Pimentel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu89b1626e126321b947b1558354cc8402_5323_512x512_fill_lanczos_center_3.png</url>
       <title>Carlos Pimentel</title>
@@ -2722,6 +2722,120 @@ References related to this project:
 &lt;p align=&#34;right&#34;&gt;&lt;a href=&#34;https://doi.org/10.1007/s00269-023-01267-0&#34;&gt;Menilite 3D model&lt;/a&gt;&lt;/p&gt;
 &lt;iframe loading=&#34;lazy&#34; align=&#34;center&#34; src=&#34;https://cpimentelguerra.codeberg.page/3d-models/shell/index.html&#34; height=&#34;300&#34; width=&#34;100%&#34;&gt;&lt;/iframe&gt;
 &lt;p align=&#34;right&#34;&gt;3D model &lt;a href=&#34;https://doi.org/10.1103/PhysRevMaterials.6.105601&#34;&gt;of a pteropod shell observed with SEM&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gypsum Gardens: Self-Assembled Tubular Structures of Calcium Sulfate with Relevance for the Detection of Extraterrestrial Life</title>
+      <link>/publication/reigl-gypsum-2025/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/reigl-gypsum-2025/</guid>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1002/anie.202508098&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1002/anie.202508098&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1002/anie.202508098&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Troubles With Tubules: How Do Iron‐Mineral Chemical Gardens Differ From Iron‐Mineralized Sheaths of Iron Oxidizing Bacteria?</title>
+      <link>/publication/podbielski-troubles-2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/podbielski-troubles-2025/</guid>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            padding: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1111/gbi.70021&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-link-target=&#34;_blank&#34; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;medium-donut&#34;
+            data-doi=&#34;10.1111/gbi.70021&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+            &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1111/gbi.70021&#34; 
+            class=&#34;plumx-details&#34; 
+            data-site=&#34;plum&#34; 
+            data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
     </item>
     
     <item>
